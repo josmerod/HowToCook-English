@@ -53,11 +53,11 @@ When writing a new recipe, please copy and modify the existing recipe template: 
 
 ### Index by Difficulty
 
-- [1 星难度](starsystem/1Star.md)
-- [2 星难度](starsystem/2Star.md)
-- [3 星难度](starsystem/3Star.md)
-- [4 星难度](starsystem/4Star.md)
-- [5 星难度](starsystem/5Star.md)
+- [1 Star](starsystem/1Star.md)
+- [2 Star](starsystem/2Star.md)
+- [3 Star](starsystem/3Star.md)
+- [4 Star](starsystem/4Star.md)
+- [5 Star](starsystem/5Star.md)
 
 ### Vegetable Dishes
 
@@ -174,7 +174,7 @@ When writing a new recipe, please copy and modify the existing recipe template: 
 - [Spicy Pot](dishes/meat_dish/Spicy_Pot.md)
 - [Mapo Tofu](dishes/meat_dish/Mapo_Tofu/Mapo_Tofu.md)
 - [Ants Climbing a Tree](dishes/meat_dish/Ants_Climbing_a_Tree.md)
-- [梅菜扣肉](dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
+- [Pork with Preserved Vegetable](dishes/meat_dish/Pork_with_Preserved_Vegetable/Pork_with_Preserved_Vegetable.md)
 - [Cheese Bacon Macaroni](dishes/meat_dish/Cheese_Bacon_Macaroni/Cheese_Bacon_Macaroni.md)
 - [Steak](dishes/meat_dish/Steak/Steak.md)
 - [Farmhouse Bowl Fragrance](dishes/meat_dish/Farmhouse_Bowl_Fragrance/Farmhouse_Bowl_Fragrance.md)
@@ -198,7 +198,7 @@ When writing a new recipe, please copy and modify the existing recipe template: 
 - [Boneless Chicken Feet](dishes/meat_dish/Boneless_Chicken_Feet/Boneless_Chicken_Feet.md)
 - [Tomato Beef Brisket](dishes/meat_dish/Tomato_Beef_Brisket/Tomato_Beef_Brisket.md)
 - [Tomato Potato Stewed Beef](dishes/meat_dish/Tomato_Potato_Stewed_Beef/Tomato_Potato_Stewed_Beef.md)
-- [乡村啤酒鸭](dishes/meat_dish/乡村啤酒鸭.md)
+- [Village Beer Duck](dishes/meat_dish/Village_Beer_Duck.md)
 - [Dried Tofu Celery Stir-Fried Meat](dishes/meat_dish/Dried_Tofu_Celery_Stir_Fried_Meat/Dried_Tofu_Celery_Stir_Fried_Meat.md)
 - [Shredded Pork with Dried Tofu](dishes/meat_dish/Shredded_Pork_with_Dried_Tofu.md)
 - [Mushroom Smooth Chicken](dishes/meat_dish/Mushroom_Smooth_Chicken/Mushroom_Smooth_Chicken.md)
@@ -220,8 +220,8 @@ When writing a new recipe, please copy and modify the existing recipe template: 
 - [Lamb Brisket Pot with Yuba](dishes/meat_dish/Lamb_Brisket_Pot_with_Yuba/Lamb_Brisket_Pot_with_Yuba.md)
 - [Pork Skin Jelly](dishes/meat_dish/Pork_Skin_Jelly/Pork_Skin_Jelly.md)
 - [Pork Stewed with Pickled Cabbage](dishes/meat_dish/Pork_Stewed_with_Pickled_Cabbage.md)
-- [柱候牛腩](dishes/meat_dish/柱候牛腩/柱候牛腩.md)
-- [孜然牛肉](dishes/meat_dish/孜然牛肉.md)
+- [Beef Brisket in Chu Hou Sauce](dishes/meat_dish/Beef_Brisket_in_Chu_Hou_Sauce/Beef_Brisket_in_Chu_Hou_Sauce.md)
+- [Cumin Beef](dishes/meat_dish/Cumin_Beef.md)
 - [Drunken Ribs](dishes/meat_dish/Drunken_Ribs/Drunken_Ribs.md)
 
 ### Aquatic Dishes
@@ -262,9 +262,9 @@ When writing a new recipe, please copy and modify the existing recipe template: 
 - [Egg Sandwich](dishes/breakfast/Egg_Sandwich.md)
 - [Pan Fried Dumplings](dishes/breakfast/Pan_Fried_Dumplings.md)
 - [Tuna Mayo Sandwich](dishes/breakfast/Tuna_Mayo_Sandwich.md)
-- [空气炸锅面包片](dishes/breakfast/空气炸锅面包片.md)
-- [美式炒蛋](dishes/breakfast/美式炒蛋.md)
-- [牛奶燕麦](dishes/breakfast/牛奶燕麦.md)
+- [Air Fryer Toast](dishes/breakfast/Air_Fryer_Toast.md)
+- [American Scrambled Eggs](dishes/breakfast/American_Scrambled_Eggs.md)
+- [Milk Oatmeal](dishes/breakfast/Milk_Oatmeal.md)
 - [Hand Grasped Pancake](dishes/breakfast/Hand_Grasped_Pancake.md)
 - [Boiled Corn](dishes/breakfast/Boiled_Corn.md)
 - [Scotch Egg](dishes/breakfast/Scotch_Egg/Scotch_Egg.md)
@@ -433,7 +433,7 @@ When writing a new recipe, please copy and modify the existing recipe template: 
 
 ## Advanced Knowledge
 
-如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
+If you have mastered many of the dishes above and wish to learn more advanced cooking techniques, please continue reading below:
 
 - [Auxiliary Ingredients Tips](tips/advanced/Auxiliary_Ingredients_Tips.md)
 - [Cooking Glossary](tips/advanced/Cooking_Glossary.md)
@@ -442,7 +442,7 @@ When writing a new recipe, please copy and modify the existing recipe template: 
 
 ## Derivative Works
 
-- [图像化菜谱：支持在线预览与 PDF 导出](https://king-jingxiang.github.io/HowToCook/)
-- [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
-- [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
-- [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
+- [Graphical Recipes: Supports online preview and PDF export](https://king-jingxiang.github.io/HowToCook/)
+- [HowToCook-mcp: Let AI assistants become your private chef, suggesting your daily meals](https://github.com/worryzyy/HowToCook-mcp)
+- [HowToCook-py-mcp: Let AI assistants become your private chef (Python)](https://github.com/DusKing1/howtocook-py-mcp)
+- [whatToEat: A decision-making tool for "What to eat today?", helping you quickly choose the right recipe.](https://github.com/ryanuo/whatToEat)

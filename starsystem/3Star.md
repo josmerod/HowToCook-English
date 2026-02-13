@@ -1,4 +1,4 @@
-# 3 星难度菜品
+# 3 Star Difficulty Dishes
 
 * [Eel Shreds in Sizzling Oil](./../dishes/aquatic/Eel_Shreds_in_Sizzling_Oil.md)
 * [Pan Fried Argentine Red Shrimp](./../dishes/aquatic/Pan_Fried_Argentine_Red_Shrimp/Pan_Fried_Argentine_Red_Shrimp.md)
@@ -114,10 +114,10 @@
 * [Roasted Eggplant](./../dishes/vegetable_dish/Roasted_Eggplant/Roasted_Eggplant.md)
 * [Braised Winter Melon](./../dishes/vegetable_dish/Braised_Winter_Melon/Braised_Winter_Melon.md)
 * [Crispy Tofu](./../dishes/vegetable_dish/Crispy_Tofu.md)
-* [茄子炖土豆](./../dishes/vegetable_dish/茄子炖土豆.md)
+* [Eggplant Stewed Potato](./../dishes/vegetable_dish/Eggplant_Stewed_Potato.md)
 * [Pan-fried Tofu with Scallions](./../dishes/vegetable_dish/Pan_Fried_Tofu_with_Scallions.md)
-* [蒲烧茄子](./../dishes/vegetable_dish/蒲烧茄子.md)
-* [虎皮青椒](./../dishes/vegetable_dish/虎皮青椒/虎皮青椒.md)
+* [Kabayaki Eggplant](./../dishes/vegetable_dish/Kabayaki_Eggplant.md)
+* [Tiger Skin Peppers](./../dishes/vegetable_dish/Tiger_Skin_Peppers/Tiger_Skin_Peppers.md)
 * [Oyster Sauce Three Fresh Mushrooms](./../dishes/vegetable_dish/Oyster_Sauce_Three_Mushrooms/Oyster_Sauce_Three_Mushrooms.md)
-* [金钱蛋](./../dishes/vegetable_dish/金钱蛋.md)
-* [蒸箱鸡蛋羹](./../dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md)
+* [Golden Coin Eggs](./../dishes/vegetable_dish/Golden_Coin_Eggs.md)
+* [Steamer Egg Custard](./../dishes/vegetable_dish/Steamed_Egg_Custard/Steamed_Egg_Custard_in_Steamer.md)

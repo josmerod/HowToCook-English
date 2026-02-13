@@ -47,7 +47,7 @@ Per portion:
 ### Cooking
 
 * Put the ribs into a pot with cold water. Add scallion, ginger slices, and cooking wine for blanching. Bring to a boil over high heat, skim off the foam, remove the ribs, and drain.
-* Heat the pot, add oil, and sauté the large ginger slices together with the ribs. When the surface of the ribs is slightly golden brown, add醋 (to help soften the meat) and continue sautéing for one minute.
+* Heat the pot, add oil, and sauté the large ginger slices together with the ribs. When the surface of the ribs is slightly golden brown, add vinegar (to help soften the meat) and continue sautéing for one minute.
 * Pour in boiling water (add enough at once; do not add more later) and bring to a boil over high heat.
 * First, add the corn and ground black pepper. Cover and simmer over low heat for 20 minutes. Then add the carrots, cover, and continue simmering over low heat for another 40 minutes.
 * Seasoning is simple: three minutes before serving, add nothing but salt. Finally, sprinkle with a handful of chopped green onions.

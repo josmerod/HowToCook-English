@@ -1,3 +1,3 @@
-# 8 星难度菜品
+# 8 Star Difficulty Dishes
 
-* [照烧鸡腿饭](./../dishes/staple/照烧鸡腿饭.md)
+* [Teriyaki Chicken Rice](./../dishes/staple/Teriyaki_Chicken_Rice.md)

@@ -1,3 +1,3 @@
-# 0 星难度菜品
+# 0 Star Difficulty Dishes
 
-* [煎烤羊排](./../dishes/meat_dish/煎烤羊排/煎烤羊排.md)
+* [Pan Fried Lamb Chops](./../dishes/meat_dish/Pan_Fried_Lamb_Chops/Pan_Fried_Lamb_Chops.md)

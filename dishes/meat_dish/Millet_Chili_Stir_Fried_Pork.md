@@ -38,7 +38,7 @@ Per serving:
 * Wash Millet Chili clean, cut diagonally into slightly larger pieces.
 * For meat, cut into shreds if you like shreds, slices if you like slices. Pour in seasoning (Light Soy Sauce, Oyster Sauce, Salt) and marinate for 5 minutes.
 * Heat pot and pour oil, stir-fry meat first then dish up.
-* Explode姜 (Ginger) and Garlic until fragrant, pour in Doubanjiang and stir-fry, pour in cut Millet Chili, then pour in lean meat, stir-fry for a while, put some Light Soy Sauce, Chicken Essence, Salt, Sugar and stir-fry.
+* Sauté Ginger and Garlic until fragrant, pour in Doubanjiang and stir-fry, pour in cut Millet Chili, then pour in lean meat, stir-fry for a while, put some Light Soy Sauce, Chicken Essence, Salt, Sugar and stir-fry.
 
 ## Additional Content
 

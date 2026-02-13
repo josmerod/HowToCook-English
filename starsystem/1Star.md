@@ -1,4 +1,4 @@
-# 1 星难度菜品
+# 1 Star Difficulty Dishes
 
 * [Toast with Jam](./../dishes/breakfast/Toast_with_Jam.md)
 * [Microwave Poached Egg](./../dishes/breakfast/Microwave_Poached_Egg.md)
@@ -16,8 +16,8 @@
 * [Semi-finished Pasta](./../dishes/semi-finished/Semi_Finished_Pasta.md)
 * [Frozen Dumplings](./../dishes/semi-finished/Frozen_Dumplings.md)
 * [Frozen Sweet Dumplings](./../dishes/semi-finished/Frozen_Sweet_Dumplings/Frozen_Sweet_Dumplings.md)
-* [奶油蘑菇汤](./../dishes/soup/奶油蘑菇汤.md)
-* [朱雀汤](./../dishes/soup/朱雀汤/朱雀汤.md)
+* [Cream of Mushroom Soup](./../dishes/soup/Cream_of_Mushroom_Soup.md)
+* [Zhuque Soup](./../dishes/soup/Zhuque_Soup/Zhuque_Soup.md)
 * [Spaghetti Bolognese](./../dishes/staple/Spaghetti_Bolognese/Spaghetti_Bolognese.md)
 * [Instant Noodles With Egg](./../dishes/staple/Instant_Noodles_With_Egg.md)
 * [Lard Rice](./../dishes/staple/Lard_Rice.md)

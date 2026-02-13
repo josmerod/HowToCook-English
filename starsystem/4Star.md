@@ -1,4 +1,4 @@
-# 4 星难度菜品
+# 4 Star Difficulty Dishes
 
 * [Curry Stir-fried Crab](./../dishes/aquatic/Curry_Stir_Fried_Crab.md)
 * [Spicy Crayfish](./../dishes/aquatic/Spicy_Crayfish/Spicy_Crayfish.md)
@@ -82,5 +82,5 @@
 * [Air Fryer Teriyaki Chicken Rice](./../dishes/staple/Air_Fryer_Teriyaki_Chicken_Rice/Air_Fryer_Teriyaki_Chicken_Rice.md)
 * [Steamed Braised Noodles](./../dishes/staple/Steamed_Braised_Noodles.md)
 * [Fresh Meat Shumai](./../dishes/staple/Fresh_Meat_Shumai.md)
-* [示例菜](./../dishes/template/示例菜/示例菜.md)
+* [Sample Dish](./../dishes/template/Sample_Dish/Sample_Dish.md)
 * [Braised Eggplant](./../dishes/vegetable_dish/Braised_Eggplant.md)

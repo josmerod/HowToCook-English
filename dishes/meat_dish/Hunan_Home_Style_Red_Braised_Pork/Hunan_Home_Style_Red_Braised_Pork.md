@@ -2,7 +2,7 @@
 
 ![Hunan Home Style Red Braised Pork](./Hunan_Red_Braised_Pork.jpeg)
 
-Hunan Home Style Red Braised Pork, entrance soft糯, fatty but not greasy
+Hunan Home Style Red Braised Pork, entrance soft and tender, fatty but not greasy
 
 Estimated Cooking Difficulty: ★★★
 

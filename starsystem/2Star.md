@@ -1,4 +1,4 @@
-# 2 星难度菜品
+# 2 Star Difficulty Dishes
 
 * [Boiled Shrimp](./../dishes/aquatic/Boiled_Shrimp/Boiled_Shrimp.md)
 * [Garlic Shrimp](./../dishes/aquatic/Garlic_Shrimp/Garlic_Shrimp.md)
