@@ -41,6 +41,7 @@ Per portion (approx. 9.25 x 5 x 1 inch):
 * **Important**: Ensure the egg white bowl is strictly oil-free. Even a tiny amount of yolk or oil will prevent the whites from whipping.
 
 ### 3. Whipping the Whites
+
 * Add the cream of tartar to the whites.
 * Whip on high speed until large bubbles form. Add the erythritol.
 * Continue whipping on medium-low speed until **stiff peaks** form (the foam stands upright when the whisk is lifted, and doesn't fall out when the bowl is inverted).

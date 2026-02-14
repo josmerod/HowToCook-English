@@ -10,7 +10,7 @@ docs_dir: .
 theme:
   font: false
   name: material
-  language: zh
+  language: en
   features:
     - content.code.annotate
     # - content.tabs.link
@@ -82,12 +82,12 @@ plugins:
 
 nav:
   - README.md
-  - 做菜之前:
+  - Before Cooking:
 {{before}}
-  - 菜谱:
-    - 按种类: # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
+  - Recipes:
+    - By Category: # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
 {{main}}
-  - 进阶知识学习:
+  - Advanced Learning:
 {{after}}
   - CONTRIBUTING.md
   - CODE_OF_CONDUCT.md

@@ -16,6 +16,7 @@ Estimated Cooking Difficulty: ★★
 - Low-Gluten Flour (Cake flour): 10g
 
 ### Optional (Chocolate Version)
+
 - Chocolate: 38g (Melt the chocolate and stir it into the whipping cream before mixing)
 
 ## Calculations

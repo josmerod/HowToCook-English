@@ -1,0 +1,5 @@
+mkdocs
+mkdocs-material
+mkdocs-with-pdf
+mkdocs-same-dir
+mkdocs-minify-plugin

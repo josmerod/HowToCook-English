@@ -30,7 +30,7 @@ Total:
 * Cucumber (Optional, Portions * 30g)
 * Carrot (Optional, Portions * 30g)
 * Oil (Portions * 12ml)
-* Salt (Portions * 4g - Portions * 6g)
+* Salt (Portions x 4g - Portions x 6g)
 * Pepper Powder (Portions * 8g)
 * Scallion (Portions * 1 plant)
 * Light Soy Sauce (Portions * 10ml)

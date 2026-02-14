@@ -9,6 +9,7 @@ Estimated Cooking Difficulty: ★★★★★
 ## Essential Ingredients and Tools
 
 ### Dough
+
 - Bread Flour (High-gluten): 400g
 - Milk: 200g
 - Yeast: 4g

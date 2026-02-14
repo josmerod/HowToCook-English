@@ -11,52 +11,52 @@ const ignorePaths = ['.git', 'README.md', 'node_modules', 'CONTRIBUTING.md', '.g
 
 const categories = {
   vegetable_dish: {
-    title: '素菜',
+    title: 'Vegetable Dish',
     readme: '',
     mkdocs: '',
   },
   meat_dish: {
-    title: '荤菜',
+    title: 'Meat Dish',
     readme: '',
     mkdocs: '',
   },
   aquatic: {
-    title: '水产',
+    title: 'Aquatic Dish',
     readme: '',
     mkdocs: '',
   },
   breakfast: {
-    title: '早餐',
+    title: 'Breakfast',
     readme: '',
     mkdocs: '',
   },
   staple: {
-    title: '主食',
+    title: 'Staple',
     readme: '',
     mkdocs: '',
   },
   'semi-finished': {
-    title: '半成品加工',
+    title: 'Semi-finished',
     readme: '',
     mkdocs: '',
   },
   soup: {
-    title: '汤与粥',
+    title: 'Soup',
     readme: '',
     mkdocs: '',
   },
   drink: {
-    title: '饮料',
+    title: 'Drink',
     readme: '',
     mkdocs: '',
   },
   condiment: {
-    title: '酱料和其它材料',
+    title: 'Condiment',
     readme: '',
     mkdocs: '',
   },
   dessert: {
-    title: '甜品',
+    title: 'Dessert',
     readme: '',
     mkdocs: '',
   },
@@ -104,11 +104,11 @@ async function organizeByStars(dishesFolder, starsystemFolder) {
   await processFolder(dishesFolderAbs);
 
   const starRatings = Array.from(new Set(Object.values(dishes))).sort((a, b) => a - b);
-  const navigationLinks = []; 
+  const navigationLinks = [];
 
   for (const stars of starRatings) {
     const starsFile = path.join(starsystemFolderAbs, `${stars}Star.md`);
-    const content = [`# ${stars} 星难度菜品`, ''];
+    const content = [`# ${stars} Star Difficulty Dishes`, ''];
     for (const [filepath, starCount] of Object.entries(dishes)) {
       if (starCount === stars) {
         const relativePath = path.relative(starsystemFolderAbs, filepath).replace(/\\/g, '/');
@@ -116,8 +116,8 @@ async function organizeByStars(dishesFolder, starsystemFolder) {
       }
     }
     await writeFile(starsFile, content.join('\n'), 'utf-8');
-    navigationLinks.push(`- [${stars} 星难度](${path.relative(path.dirname(README_PATH), starsFile).replace(/\\/g, '/')})`);
-    }
+    navigationLinks.push(`- [${stars} Star Difficulty](${path.relative(path.dirname(README_PATH), starsFile).replace(/\\/g, '/')})`);
+  }
 
   return navigationLinks;
 }
@@ -127,10 +127,10 @@ async function main() {
     let README_BEFORE = '', README_MAIN = '', README_AFTER = '';
     let MKDOCS_BEFORE = '', MKDOCS_MAIN = '', MKDOCS_AFTER = '';
     const markdownObj = await getAllMarkdown('.');
-    
+
     // Debug logging to understand the structure of markdownObj
     console.log("Markdown Object Structure:", JSON.stringify(markdownObj, null, 2));
-    
+
     for (const markdown of markdownObj) {
       console.log("Processing markdown:", markdown);
       if (markdown.path.includes('tips/advanced')) {
@@ -181,7 +181,7 @@ async function main() {
     const navigationLinks = await organizeByStars(dishesFolder, starsystemFolder);
     // Debug logging to ensure navigationLinks is defined and contains data
     console.log("难度索引", navigationLinks);
-    const navigationSection = `\n### 按难度索引\n\n${navigationLinks.join('\n')}`;
+    const navigationSection = `\n### Index by Difficulty\n\n${navigationLinks.join('\n')}`;
 
     await writeFile(
       README_PATH,

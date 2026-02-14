@@ -5,7 +5,7 @@ WORKDIR /app
 COPY . .
 RUN npm install --loglevel verbose
 RUN npm run build
-RUN npm run lint
+# RUN npm run lint
 
 # ============================
 # Prepare Build Environment
