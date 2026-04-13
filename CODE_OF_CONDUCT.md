@@ -1,55 +1,55 @@
-# 行为准则
+# Code of Conduct
 
-## 我们为什么坚持维护这个仓库
+## Why Do We Insist on Maintaining This Repository?
 
-有很多朋友问我，为什么要维护这个仓库？为什么坚持精准的菜谱？未来这个仓库打算怎么发展？有没有想流量变现？我想在这里给出我(@Anduin2017)自己的答案，并明确贡献的价值观。
+Many friends have asked me why I maintain this repository, why I insist on precise recipes, how this repository is planned to develop in the future, and if there are any plans for monetization via traffic? Here, I (@Anduin2017) would like to provide my own answer and clarify the core values of contributing.
 
-我们有很强的基础设施建设能力。例如：我们有健身 App，有手环，有医疗平台，有买菜平台，有外卖平台，有智能冰箱，有智能体重秤、智能跑步机等等……但是我却总需要花费特别多的精力周旋和计算于它们之间。这些基础设施彼此之间沟通能力特别差。
+We have strong abilities to build infrastructure. For example, we have fitness apps, smart bands, healthcare platforms, grocery delivery platforms, food delivery platforms, smart refrigerators, smart scales, smart treadmills, and so on... however, I always need to spend a lot of energy juggling and calculating between them. The communication between these infrastructures is exceptionally poor.
 
-曾经幻想在未来的世界，人类不再需要关心柴米油盐，吃什么的问题将彻底得到解决。我们每天的行为可以完全由计算机给出最佳方案。
+I used to fantasize that in the future, humans wouldn't need to worry about basic necessities, and the problem of what to eat would be completely solved. Our daily behaviors could be entirely guided by the best optimal plans given by computers.
 
-例如：医生建议我在 50 天内减肥 15 斤。那么这些应用收到了医疗平台的结论，会联动起来。为我设计健身计划，自动计算我应该吃的饭菜，自动把冰箱里缺的东西点过来，自动避免过期，自动计算推荐建议的饭菜，自动帮我计算热量的摄入和消耗，自动确保我吃的足够多样好吃而且能够满足我的健康要求，并且自动根据我的体重秤测量的结果矫正等。
+For example, a doctor advises me to lose 15 pounds in 50 days. When these applications receive the healthcare platform's conclusion, they would link up. They'd design a fitness plan for me, automatically calculate the meals I should eat, automatically order missing items for the refrigerator, automatically prevent food from expiring, automatically calculate and recommend meals, automatically track my calorie intake and expenditure, ensure what I eat is diverse, tasty, and meets my health requirements, and adjust automatically based on my smart scale's measurements.
 
-这是一个理想的生命管理体系。需要非常多的基础设施联合，来让人真正实现不需要操心这些柴米油盐，只专注于自己的喜爱的事情就行了。至于每天吃什么、几点吃、吃多少、怎么好吃、怎么健康、怎么完成我的健身要求，怎么符合医生的建议等等……完全由计算机帮人全部搞好就行了。
+This is an ideal life management system. It requires numerous infrastructures working together to truly free humans from worrying about these basic necessities, allowing them to focus solely on the things they love. As for what to eat every day, what time to eat, how much to eat, how to make it taste good, how to make it healthy, how to meet my fitness requirements, and how to comply with the doctor's advice... all of this should be completely handled by computers.
 
-或许，建设这种生命健康的系统，成本极高，而且很难盈利。我们现在还是在专注于解决问题:遇到疾病之后再去医院，而没有一个程序真正帮我管理了健康。
+Perhaps building such a system for life and health management is extremely costly and difficult to make profitable. Currently, we are still focused on solving problems as they arise: going to the hospital only after falling ill, without having a program that truly manages our health.
 
-当然理想还是要有的，希望有一天计算机能够帮助人类消灭疾病。而那时，我希望我的仓库，能够是这一整套复杂的生命系统中的一块可靠又强大的螺丝钉，忠实的承担它那最初的使命：
+Of course, we still need ideals, hoping that one day computers can help humanity eradicate diseases. And at that time, I hope my repository can serve as a reliable and powerful cog in this complex life system, faithfully fulfilling its initial mission:
 
-> 提供一份足够精准的菜谱。
+> To provide a sufficiently precise recipe.
 
-对于额外的附加功能开发、可视化、智能化、平台对接、饮食产业等，均可以引用这个仓库中的菜谱，二次开发。
+For additional feature development, visualization, intelligence, platform integration, and the food industry, this repository's recipes can be freely referenced and extended for secondary development.
 
-## 仓库原则
+## Repository Principles
 
-仓库的发展原则：维持其精准的特点，尽可能在保证阅读的同时，统一格式，方便二次开发。
+The developmental principle of this repository is to maintain its characteristic of precision, and, as much as possible, to ensure unified formatting for easy secondary development while preserving readability.
 
-### 弱协议
+### Weak License Structure
 
-我希望能够有商业公司、饭店、企业或科研机构能够引用这个仓库。因此它将始终坚持一个较弱的许可协议。它会作为一个基础设施，未来应用在更多更复杂的产品和场景中。
+I hope that commercial companies, restaurants, enterprises, or research institutions can reference this repository. Therefore, it will always adhere to a weak licensing agreement. It will act as an infrastructure to be applied in more numerous and complex products and scenarios in the future.
 
-任何人都可以自由复制，修改，发布，使用，编译，出售或以菜谱的形式或菜的形式分发，无论是出于商业目的还是非商目的，以及任何手段。
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute in the form of recipes or dishes, whether for commercial or non-commercial purposes, and by any means.
 
-### 尽可能形式化
+### Maximum Formalization
 
-尽可能形式化，包括统一菜谱的文件格式，避免不精准（尤其是计算机无法理解）的单位和操作，保持清晰的目录结构等。
+We strive for maximum formalization, which includes unifying the file formats of recipes, avoiding imprecise units and operations (especially those computers cannot understand), and keeping a clear directory structure.
 
-很多贡献者抱怨：想签入菜谱太难，要求太繁琐。但实际上这份菜谱更多的不是给人类阅读的，而是更多的可能会被机器处理。
+Many contributors complain that submitting a recipe is too difficult and the requirements are too tedious. However, in reality, these recipes are not primarily meant for human reading, but are highly likely to be processed by machines.
 
-我们一定要保证，按照同一份菜谱做菜，不同的人也能得到几乎相同的结果。
+We must ensure that by following the same recipe, different people can achieve almost identical results.
 
-### 非商业
+### Non-Commercial
 
-HowToCook 将永远不插入广告，尽可能避免菜谱中的材料耦合特定品牌，尽可能使用容易取得的原材料。
+HowToCook will never include advertisements, will minimize recipes being coupled with specific brands, and will strive to use easily obtainable raw materials.
 
-HowToCook 将永远不讨论变现问题。并且永远由社区驱动的维护下去。
+HowToCook will never discuss monetization. It will forever be driven and maintained by the community.
 
-### AI 友好
+### AI Friendly
 
-社区可以使用这个仓库训练任何类型的 AI ，并且允许商业使用。
+The community can use this repository to train any type of AI, and commercial use is permitted.
 
-## 衍生产物
+## Derivative Works
 
-目前社区中有许多基于 HowToCook 二次开发的小程序、App、网站等。
+There are currently many mini-programs, Apps, and websites in the community that are based on secondary development of HowToCook.
 
-HowToCook 仓库与任何衍生产物没有任何合作关系和知情义务。所有衍生产物的行为准则并不受 HowToCook 的行为准则约束，也不代表 HowToCook 仓库的价值观。
+The HowToCook repository has no cooperative relationships or obligations to be informed regarding any derivative works. The code of conduct of all derivative works is not bound by the HowToCook Code of Conduct, nor do they represent the values of the HowToCook repository.
