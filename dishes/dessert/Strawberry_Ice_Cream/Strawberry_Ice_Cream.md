@@ -16,13 +16,15 @@ Estimated Cooking Difficulty: ★★
 
 Per portion:
 
-### Strawberry Syrup:
+### Strawberry Syrup
+
 - Strawberries 500g
 - White Sugar 45g
 - Vanilla Extract 1g
 - Salt 1g
 
-### Ice Cream Base:
+### Ice Cream Base
+
 - Vanilla Extract 5g
 - Salt 1g
 - Heavy Cream 600g (Note: Original said 6g, assuming 600g for a standard batch with 400g condensed milk)

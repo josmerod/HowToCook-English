@@ -19,10 +19,12 @@ Estimated Cooking Difficulty: ★★★★★
 - Butter: 30g
 
 ### Honey Glaze (for the top)
+
 - Honey: 20g
 - Water: 20g
 
 ### Optional
+
 - Sesame seeds (for topping)
 
 ## Calculations

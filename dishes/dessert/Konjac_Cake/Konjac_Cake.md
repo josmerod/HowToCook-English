@@ -7,6 +7,7 @@ Estimated Cooking Difficulty: ★★★★
 ## Essential Ingredients and Tools
 
 ### Tools
+
 * Oven
 * Electric Mixer
 * Metal cake mold (any shape)
@@ -16,6 +17,7 @@ Estimated Cooking Difficulty: ★★★★
 * [Optional] Egg separator
 
 ### Ingredients
+
 * Eggs
 * Erythritol (or another low-calorie sweetener)
 * Cocoa powder
@@ -25,6 +27,7 @@ Estimated Cooking Difficulty: ★★★★
 ## Calculations
 
 Per portion (approx. 9.25 x 5 x 1 inch):
+
 * 3 Eggs
 * Erythritol 50g
 * Cocoa powder 10g
@@ -34,10 +37,12 @@ Per portion (approx. 9.25 x 5 x 1 inch):
 ## Operation
 
 ### 1. Preheat
+
 * Start by preheating your oven to **150°C (350°F)**.
 
 ### 2. Separation
-* Use clean, dry bowls. Separate the egg whites and yolks. 
+
+* Use clean, dry bowls. Separate the egg whites and yolks.
 * **Important**: Ensure the egg white bowl is strictly oil-free. Even a tiny amount of yolk or oil will prevent the whites from whipping.
 
 ### 3. Whipping the Whites
@@ -47,19 +52,22 @@ Per portion (approx. 9.25 x 5 x 1 inch):
 * Continue whipping on medium-low speed until **stiff peaks** form (the foam stands upright when the whisk is lifted, and doesn't fall out when the bowl is inverted).
 
 ### 4. Mixing
+
 * Add the yolks to the whipped whites and mix briefly on low speed.
 * Sift the cocoa powder and konjac powder over the mixture. Use a spatula to gently fold them in (do not use the mixer yet to avoid a "dust cloud").
 * **Folding Technique**: Scrape the bottom and fold over from the edges. Do not stir in circles.
 * Once combined, give it a quick mix with the electric mixer on low to ensure no lumps remain.
 
 ### 5. Baking
+
 * Line your mold with parchment paper.
 * Pour the batter into the mold and smooth the top. Tap it gently on the counter to release large air bubbles.
 * **Bake for 25 minutes**.
 * Carefully remove from the oven with mitts.
 
 ### 6. Cooling
-* Let the cake cool in the mold for about 10 minutes before removing it. 
+
+* Let the cake cool in the mold for about 10 minutes before removing it.
 * Once cool, slice and serve.
 
 ## Additional Content

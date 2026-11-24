@@ -21,6 +21,7 @@ Estimated Cooking Difficulty: ★★★
 Due to the high calorie content of this dessert, it's best to make small batches. One portion is perfect for one person.
 
 Per portion:
+
 - 1 Hard-boiled Egg Yolk
 - 50g Unsalted Butter
 - 20g White Sugar (30g Powdered Sugar is better if available)

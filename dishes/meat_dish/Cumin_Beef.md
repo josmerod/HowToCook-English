@@ -34,7 +34,7 @@ Use the above conditions, calculate the proportion of raw materials planned to b
 * First chop Millet Chili, put into mortar with cumin seeds and pound into particles, this makes it more flavorful. If time is tight, skip pounding step.
 * Remove head and seeds of Green Pepper (Can keep seeds if like spicy), cut into shreds. Cut Scallion into segments.
 * Defrost beef in advance, wash once with water, air dry or dry with kitchen paper. Cut beef into slices along the texture.
-* Then marinate meat, add light soy sauce, starch, oil, stir evenly, let sit for 30 minutes. 
+* Then marinate meat, add light soy sauce, starch, oil, stir evenly, let sit for 30 minutes.
 * Heat wok and add oil, put in scallion, stir-fry until fragrant, then put in marinated beef to stir-fry.
 * After beef changes color, put in cumin chili particles evenly and stir-fry until cooked.
 * Then put in Green Pepper shreds, add salt after breaking rawness.

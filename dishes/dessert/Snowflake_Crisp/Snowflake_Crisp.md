@@ -8,14 +8,13 @@ Estimated Cooking Difficulty: ★★★
 
 ## Essential Ingredients and Tools
 
-
 ### Tools
+
 - Non-stick pan
 - Silicone spatula (Avoid metal to protect the pan coating)
 - Disposable gloves
 - Snowflake Crisp / Nougat mold
 - Rolling pin
-
 
 ### Ingredients
 
@@ -28,6 +27,7 @@ Estimated Cooking Difficulty: ★★★
 ## Calculations
 
 Per portion:
+
 - Unsalted Butter 20g
 - Marshmallows 75g
 - Full-Cream Milk Powder 40g (plus extra for dusting)

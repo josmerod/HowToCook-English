@@ -14,7 +14,6 @@ Estimated Cooking Difficulty: ★★★★★
 
 ### Required Ingredients
 
-
 - High Gluten or Medium Gluten Flour *(Try to use High Gluten Flour, and **avoid Low Gluten Flour**. Standard "All-purpose Flour" is Medium Gluten Flour)*
 - Egg *(No strict requirement on size or weight)*
 - Sugar *(Syrup is best if available.)*

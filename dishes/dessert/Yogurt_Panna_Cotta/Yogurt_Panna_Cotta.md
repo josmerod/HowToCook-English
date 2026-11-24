@@ -19,6 +19,7 @@ Estimated Cooking Difficulty: ★★★★
 One batch serves 3-6 people.
 
 Per portion:
+
 - Whipping Cream 200g
 - Sugar 40g
 - Plain Yogurt 250g
