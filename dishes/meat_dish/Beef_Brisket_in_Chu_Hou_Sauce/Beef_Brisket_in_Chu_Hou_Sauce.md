@@ -60,7 +60,7 @@ Below is amount for two people eating:
   - Bowl 7: Add 50g Chu Hou Paste, 20g Oyster Sauce, 20g Char Siu Sauce, 5g Dark Soy Sauce, 60g Light Soy Sauce
     ![Bowl 7](./Bowl_7.jpeg)
 
-- No need to cut Beef, put directly into cold water pot, high heat blanch water, fish out beef when water boils
+- No need to cut Beef, put directly into cold water pot, high heat blanch water, scoop out beef when water boils
   ![Beef Brisket Blanching](./Beef_Brisket_Blanching.jpeg)
 - Rinse impurities on beef surface, cut into 4cm\*4cm\*4cm large blocks, drain dry water then put into bowl set aside
   ![Beef Brisket Cutting](./Beef_Brisket_Chunks.jpeg)
@@ -81,10 +81,10 @@ Below is amount for two people eating:
   - b. Pressure Cooker: Press 40 minutes
 
 - Open lid season after time, if not salty enough add Salt or Light Soy Sauce (Add small amount, constantly taste, until suitable), if not sweet enough then same logic add Sugar
-- Can fish out Beef Brisket first after adjusting taste
+- Can scoop out Beef Brisket first after adjusting taste
 - If want to eat Radish Potato, peel cut into 2cm thick slices pour into pot boil 10 - 15 minutes (Or boil to desired texture), if pressure cooker then add pressure boil 5 minutes
   ![Potato Cutting](./Potato_Slices.jpeg)
-- Fish out Radish Potato and Beef Brisket put together after boiling
+- Scoop out Radish Potato and Beef Brisket put together after boiling
 - Filter soup juice drizzle into bowl
   ![Filter Soup Juice](./Filtering_Soup.jpeg)
 
@@ -93,4 +93,4 @@ Below is amount for two people eating:
 - Reference: [Chu Hou Beef Brisket + Imperatae Cane Water Tutorial](https://www.bilibili.com/video/BV12C4y1W7ox)
 - Pay attention to safety when operating pressure cooker!
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

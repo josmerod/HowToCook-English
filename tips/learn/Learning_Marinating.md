@@ -77,44 +77,44 @@ Described here is the marinating process for normal tastes.
 
 ## Practical Examples
 
-- **Onion Stir-fried Beef**: 150g beef (1 person). Sliced, tender texture.
-  - Light soy sauce 10ml (2 tbsp)
-  - Cooking wine 5ml (1 tbsp)
-  - White sugar 2.5-10g (1-4 tsp)
-  - Cumin powder 5g (2 tsp)
+- **Onion Stir-fried Beef**: 150g beef (1 serving). Sliced, tender texture.
+  - Light soy sauce 10ml (2 tsp)
+  - Cooking wine 5ml (1 tsp)
+  - White sugar 2.5-10g (0.5-2 tsp)
+  - Cumin powder 5g (1-2 tsp)
   - Starch 10-15g (1 small handful)
-  - Oil 10ml (2 tbsp)
-  - (Optional) Thirteen-spice 1g (0.5 tsp)
-  - (Optional) Black pepper 1g (0.5 tsp)
+  - Oil 10ml (2 tsp)
+  - (Optional) Thirteen-spice 1g (0.25-0.5 tsp)
+  - (Optional) Black pepper 1g (0.25-0.5 tsp)
 
 - **Oyster Sauce Beef**: 150g beef. Sliced, tender, heavy sizing, sweet taste.
-  - Light soy sauce 5ml (1 tbsp)
-  - Cooking wine 5ml (1 tbsp)
-  - Oyster sauce 10-20ml (2-4 tbsp, salty, use carefully)
-  - White sugar 5-15g (2-6 tsp)
+  - Light soy sauce 5ml (1 tsp)
+  - Cooking wine 5ml (1 tsp)
+  - Oyster sauce 10-20ml (2-4 tsp, salty, use carefully)
+  - White sugar 5-15g (1-3 tsp)
   - Starch 25-35g (1 large handful)
-  - Oil 10ml (2 tbsp)
+  - Oil 10ml (2 tsp)
 
 - **Five-spice Popcorn Chicken**: 150g chicken breast. Diced, fried.
-  - Light soy sauce 10ml (2 tbsp)
-  - Cooking wine 2.5ml (0.5 tbsp)
-  - Five-spice powder 5g (2 tsp) OR Thirteen-spice 2.5-5g (1-2 tsp)
+  - Light soy sauce 10ml (2 tsp)
+  - Cooking wine 2.5ml (0.5 tsp)
+  - Five-spice powder 5g (1-2 tsp) OR Thirteen-spice 2.5-5g (0.5-1 tsp)
   - (Optional) Cumin 1g
   - (Optional) White pepper 1g
 
-- **Honey Roasted Chicken Wings**: 250g bone-in wings (1 person). Knife cuts, salty/sweet, roasted.
-  - Light soy sauce 10ml (2 tbsp)
-  - Cooking wine 2.5ml (0.5 tbsp)
-  - White sugar 5-15g (2-6 tsp)
-  - Honey/Syrup 10-20ml (2-4 tbsp. If sugar >=10g, add only 10ml)
-  - (Optional) Five-spice 2.5g (1 tsp. Do NOT use Thirteen-spice)
+- **Honey Roasted Chicken Wings**: 250g bone-in wings (1 serving). Scored, salty/sweet, roasted.
+  - Light soy sauce 10ml (2 tsp)
+  - Cooking wine 2.5ml (0.5 tsp)
+  - White sugar 5-15g (1-3 tsp)
+  - Honey/Syrup 10-20ml (2-4 tsp; if sugar >=10g, add only 10ml)
+  - (Optional) Five-spice 2.5g (0.5-1 tsp. Do NOT use Thirteen-spice)
 
 - **Roasted Salmon**: 200g boneless salmon steak. Do not cut. Roasted.
-  - Light soy sauce 10ml (2 tbsp)
-  - Cooking wine 2.5ml (0.5 tbsp)
-  - Brown sugar 10-20g (4-8 tsp)
-  - Balsamic vinegar 2.5-5ml (0.5-1 tbsp)
-  - Nutmeg powder 2.5g (1 tsp)
+  - Light soy sauce 10ml (2 tsp)
+  - Cooking wine 2.5ml (0.5 tsp)
+  - Brown sugar 10-20g (2-4 tsp)
+  - Balsamic vinegar 2.5-5ml (0.5-1 tsp)
+  - Nutmeg powder 2.5g (0.5-1 tsp)
   - Thyme powder 1g
   - Ginger powder 1g
   - Rosemary powder 1-2g

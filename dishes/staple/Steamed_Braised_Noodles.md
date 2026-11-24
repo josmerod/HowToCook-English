@@ -73,4 +73,4 @@ Determine the number of portions before each preparation. One portion is enough 
   - Be careful when removing the steamed noodles to avoid the grate tipping or the noodles touching the water.
   - This dish pairs perfectly with beer!
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

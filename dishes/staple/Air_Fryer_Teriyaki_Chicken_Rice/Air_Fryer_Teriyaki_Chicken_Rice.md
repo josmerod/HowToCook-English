@@ -38,4 +38,4 @@ Per portion:
 - Pay attention to the temperature during operation to avoid burns.
 - Reference: [Cookpad](https://cookpad.com/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

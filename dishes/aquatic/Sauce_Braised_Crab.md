@@ -40,7 +40,7 @@ Per serving:
 ## Operation
 
 - Brush wash Crab clean, then split in half on chopping board.
-- Put Vegetable Oil in pot, put in Ginger Mince and Bean Paste explode fragrance, add Rock Sugar stir-fry melt, until bubble up then serve out.
+- Put Vegetable Oil in pot, put in Ginger Mince and Bean Paste sauté until fragrant, add Rock Sugar stir-fry melt, until bubble up then serve out.
 - Spread a layer of sauce in plate, then put cut Crab cut side face down, neatly arrange on sauce.
 - Put some Scallion segments and Ginger slices, suggest knock an Egg or spread Pork Mince at plate bottom.
 - Steam on pot 10-12 minutes.
@@ -51,4 +51,4 @@ Per serving:
 - Sprinkle a little Scallion Chopped after out of pot will be more fragrant and better looking.
 - Reference: [Autumn wind rises, Pinghu this delicious dish very appetizing_Tide News Official Website](https://tidenews.com.cn/news.html?id=2925971)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

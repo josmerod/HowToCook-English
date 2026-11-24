@@ -29,7 +29,7 @@ Per serving:
 ## Operation
 
 * Shred carrots and cabbage for later use.
-* Soak vermicelli in cold water for 1 hour first, then put the vermicelli into a pot, add boiling water and cook until the vermicelli is soft, then fish out for later use.
+* Soak vermicelli in cold water for 1 hour first, then put the vermicelli into a pot, add boiling water and cook until the vermicelli is soft, then scoop out for later use.
 * Crack eggs into a bowl, add salt and stir for 15 seconds.
 * Cut scallions, garlic, and chili into small pieces for later use.
 * Heat oil in a pan, pour in eggs, scramble until cooked, and set aside.
@@ -44,4 +44,4 @@ Per serving:
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

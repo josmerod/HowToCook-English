@@ -28,7 +28,7 @@ Ingredient usage proportional to curry, calculation part take **Half Box House C
 - Onion 2
 - Potato 2
 - Carrot 1
-- Garlic Clove 2~3
+- Garlic Clove 2-3
 - Meat 1 kg
 
 ## Operation
@@ -87,4 +87,4 @@ graph TD
 - [World Food Tutorial's Weibo Video](http://t.cn/EJ77yFy)
 
 ---
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

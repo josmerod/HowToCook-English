@@ -54,8 +54,8 @@ Per serving:
 
 ## Additional Content
 
-- If didn't buy Chinese Celery, or Celery used is relatively thick, can consider blanching, put into boiling water 1 minute fish out, rinse with cold water (Maintain crispness)
+- If didn't buy Chinese Celery, or Celery used is relatively thick, can consider blanching, put into boiling water 1 minute scoop out, rinse with cold water (Maintain crispness)
 - If bought Bean Curd relatively hard, firm, can also cut strips then blanch
 - [Dried Tofu Celery Stir-Fried Meat Tutorial](https://www.xiachufang.com/recipe/105987156/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

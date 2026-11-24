@@ -1,6 +1,6 @@
 # Taro Paste Daifuku (Yumee Niang)
 
-![Finished Taro Paste Daifuku](./芋泥雪媚娘成品.jpg)
+![Finished Taro Paste Daifuku](./Taro_Paste_Daifuku_Finished.jpg)
 
 Taro Paste Daifuku (Xue Mei Niang) is a delightful dessert that requires no oven—perfect for making with kids! Estimated preparation time is **2 hours**.
 
@@ -51,4 +51,4 @@ Estimated Cooking Difficulty: ★★★★★
 - It is best to wear non-stick gloves during assembly.
 - Ready to serve immediately; no further heating required.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

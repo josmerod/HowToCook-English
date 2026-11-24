@@ -2,7 +2,7 @@
 
 - **WARNING** If you have never used a kitchen knife to chop meat, this menu is not recommended!!!
 - During operation, sharp kitchen knife may cut fingers, please be careful.
-- This method represents general braised fish method, ingredients divided into essential and optional~
+- This method represents general braised fish method, ingredients divided into essential and optional.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -57,8 +57,8 @@ Note these ingredients are calculated by experience, adding more except coriande
 * Add cold water, just enough to submerge fish body, then adjust to medium heat, cover pot lid, after about 1 minute flip fish, continue to cover pot lid.
 * After 3-4 minutes, add Salt, Millet Chili, Oyster Sauce (MSG, Chicken Essence etc.), then continue cover pot lid, subsequently continue to flip.
 * When soup juice in pot collects to slightly below dorsal fin on fish back (or when soup juice not much), turn to low heat, add Coriander, Scallion Chopped, then cover pot lid 20 seconds, turn off heat.
-* Out of pot.
+* Remove from heat and serve.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

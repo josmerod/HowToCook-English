@@ -87,4 +87,4 @@ Pre-processing is very important. No matter what dish you make, handling ingredi
 - Adding 2g of white pepper powder when simmering the sauce enhances the spicy-savory flavor.
 - It's also fine to cook the noodles through in one go. Adding water multiple times is to make the texture chewier and prevent sticking. The trick is to add cold water as soon as it boils, repeating two or three times.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

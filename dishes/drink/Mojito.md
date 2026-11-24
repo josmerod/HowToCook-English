@@ -40,4 +40,4 @@ Per portion:
 
 - Reference: [Bilibili Mojito Video](https://www.bilibili.com/video/BV1jg4y187kB)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

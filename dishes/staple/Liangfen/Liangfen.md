@@ -82,4 +82,4 @@ Following materials are for one person portion, before making each time need to 
 
 - Reference: [Detailed steps for making Liangfen](https://www.zhms.cn/recipe/mzvyy.html?source=2)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

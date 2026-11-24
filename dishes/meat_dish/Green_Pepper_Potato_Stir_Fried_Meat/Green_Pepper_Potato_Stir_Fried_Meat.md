@@ -2,7 +2,7 @@
 
 ![Green Pepper Potato Stir-Fried Meat](./Green_Pepper_Potato_Stir_Fried_Meat.jpg)
 
-Green Pepper Potato Stir-Fried Meat is a simple stir-fried dish with meat and vegetable combination. Generally beginners only need 1 hour to complete. Very appetizing~
+Green Pepper Potato Stir-Fried Meat is a simple stir-fried dish with meat and vegetable combination. Generally beginners only need 1 hour to complete. Very appetizing.
 
 Estimated Cooking Difficulty: ★★★
 
@@ -46,4 +46,4 @@ Per serving:
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

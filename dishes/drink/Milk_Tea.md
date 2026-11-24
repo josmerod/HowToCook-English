@@ -30,4 +30,4 @@ Per portion:
 - After adding boiling water, try to keep the cup warm by using a cup with a small opening or covering it with a lid. If the ambient temperature is low, using a measuring cup might cool the water before it's poured; in this case, you can skip the measuring cup and estimate the volume.
 - After the waiting time, you can lift or stir the tea bags to ensure an even brew.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

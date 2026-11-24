@@ -35,4 +35,4 @@ Estimated Cooking Difficulty: ★
 - Tuna Sauce suggest refrigeration time not exceed one week, need use plastic wrap cover
 - Pay attention not to connect Light Food Machine power before press operation, avoid triggering safety problem
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -80,4 +80,4 @@ Per portion:
 - Tastes better dipped in rose rice vinegar. You can also pair with Xiangyang chili sauce, chili oil, light soy sauce, or ginger shreds according to taste.
 - Reference: [Xiachufang Recipe](https://www.xiachufang.com/recipe/106527847/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

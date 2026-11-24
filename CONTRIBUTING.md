@@ -1,11 +1,11 @@
-```markdown
 # How to Contribute
 
 ## Introduction
 
-Simply modify or add cooking guides and submit a Pull Request on the [original repository](https://github.com/josem/HowToCook). Please use Simplified Chinese for your contributions as it is its primary language.
+Simply modify or add cooking guides and submit a Pull Request on the [HowToCook-English repository](https://github.com/josmerod/HowToCook-English). Please write your contributions in English.
 
-When writing a new recipe, please copy and modify the existing template: [Template Dish](./dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md).
+If you are contributing a new Chinese recipe or fixing an upstream recipe issue, you may also consider contributing to the [original Chinese repository](https://github.com/Anduin2017/HowToCook).
 
-We recommend reading the original repository's [Code of Conduct](https://github.com/josem/HowToCook/blob/main/CODE_OF_CONDUCT.md) before contributing.
-```
+When writing a new recipe, please copy and modify the existing template: [Sample Dish](./dishes/template/Sample_Dish/Sample_Dish.md).
+
+We recommend reading the [Code of Conduct](./CODE_OF_CONDUCT.md) and [Pull Request Template](./.github/pull_request_template.md) before contributing.

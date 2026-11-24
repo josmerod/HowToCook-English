@@ -63,4 +63,4 @@ Per 2 servings:
 
 - If want aroma to be richer, can spread Scallion Ginger and Cooking Wine evenly on both sides of fish slices before microwave, then conduct microwave heating.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

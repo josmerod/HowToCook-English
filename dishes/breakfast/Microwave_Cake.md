@@ -56,4 +56,4 @@ Estimated Cooking Difficulty: ★
 - In **Add any liked taste ingredients!** this step if add **Liquid** (Like Milk) please ensure next step can stir into **thick yogurt state** suggest add small amount multiple times to prevent excessive water causing finished product wet collapsed
 - **Ingredients do not exceed 3/4 of container!!**
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

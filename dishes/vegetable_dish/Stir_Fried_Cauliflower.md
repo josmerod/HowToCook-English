@@ -28,7 +28,7 @@ Per serving:
 - Peel the Garlic, cut into garlic slices, set aside.
 - Add 1000 ml drinking water to the pot, bring to a boil over high heat.
 - Put in Cauliflower florets, cook for **2-3 minutes**, until the color of the cauliflower becomes lighter and the texture softens slightly.
-- Fish out the cooked Cauliflower, drain water, set aside.
+- Scoop out the cooked Cauliflower, drain water, set aside.
 - Heat the pot, add 15 ml cooking oil, heat over high heat.
 - Put in garlic slices, quickly stir-fry until fragrant.
 - Put in the blanched Cauliflower florets, turn to medium-high heat, quickly stir-fry for about **2 minutes**, making the cauliflower heated evenly.
@@ -41,4 +41,4 @@ Per serving:
 - Blanching cauliflower in advance can shorten the frying time and make the cauliflower easier to cook thoroughly.
 - The frying time can be adjusted according to personal preference for the softness/hardness of cauliflower. If you like it crispier, you can shorten the time.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

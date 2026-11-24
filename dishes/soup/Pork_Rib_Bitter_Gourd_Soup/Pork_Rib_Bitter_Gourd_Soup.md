@@ -49,4 +49,4 @@ Per portion:
 
 - You can use other umami-rich ingredients instead of shrimp skins, such as dried scallops (Yao Zhu).
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

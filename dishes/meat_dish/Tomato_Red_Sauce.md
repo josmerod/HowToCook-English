@@ -49,4 +49,4 @@ Per serving:
 - **Please stir during simmering to avoid sticking to pot. If sauce becomes thick, it can be taken out!**
 - According to personal taste, simple beef can be replaced by half minced pork and half minced beef, milk can be replaced by chicken stock or drinking water.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

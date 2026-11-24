@@ -41,4 +41,4 @@ Estimated Cooking Difficulty: ★★
 - Can taste saltiness before adding salt, decide to increase or decrease salt amount by yourself
 - Choosing Pork Belly Thin Slices is because cutting meat is simple and tasty without marinating
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

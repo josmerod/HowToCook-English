@@ -1,6 +1,6 @@
 # Teriyaki Chicken Rice
 
-Golden attractive Teriyaki Chicken Leg, drizzled with sweet salty interwoven rich sauce, pair with refreshing vegetables and hot steaming rice. Simple quick but flavor full, healing first choice for one person eating～
+Golden, appealing Teriyaki Chicken Leg, drizzled with a rich sweet-and-savory sauce and paired with refreshing vegetables and steaming hot rice. Quick, simple, and full of flavor—a comforting meal for one.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -54,7 +54,7 @@ Per serving:
 - De-boned Chicken Legs add Black Pepper Powder, Black Pepper Crushed, Salt, Ginger Slices marinate 5 Minutes
 - In bowl add Cooking Wine, Light Soy Sauce, Honey, Dark Soy Sauce Clear Water mix evenly
 - Vegetables blanch water 1-2 Minutes boil cooked fish up
-- Hot pot put Oil 15 ml put in Garlic explode fragrance
+- Hot pot put Oil 15 ml put in Garlic sauté until fragrant
 - Put in Chicken Leg medium small heat pan-fry until two sides golden yellow, if feel too dry in pot, supplement 5-10 ml Oil
 - Add mixed sauce, cover lid well medium small heat (Use small heat on gas stove) braise 5-10 Minutes cook through, sauce thick bubble is okay
 - Cut pieces, arrange on rice surface together with vegetables, drizzle pan-fried Chicken Leg sauce then can slowly enjoy
@@ -65,6 +65,6 @@ Per serving:
 - When braising every 3-5 Minutes flip stir once, avoid local overheat
 - If sauce bubble big bubbles, color turn dark brown, or edge appear fine dense caramel crystals, immediately turn off heat
 
-- Reference: [【Teriyaki Chicken Rice Recipe Steps, How to make Teriyaki Chicken Rice delicious】Xiao Xiao Jie Jie_XiaChuFang](https://www.xiachufang.com/recipe/104126605/)
+- Reference: [Teriyaki Chicken Rice Recipe Steps (Xiao Xiao Jie Jie_XiaChuFang)](https://www.xiachufang.com/recipe/104126605/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

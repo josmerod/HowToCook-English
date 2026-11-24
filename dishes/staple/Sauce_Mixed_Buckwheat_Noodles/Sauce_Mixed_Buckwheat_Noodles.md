@@ -36,4 +36,4 @@ Per portion:
 * You can also choose other sauces according to personal preference, such as peanut sauce or sesame sauce.
 * The calories of buckwheat noodles are almost the same as other noodles, so they are not necessarily a better staple for fat loss.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -61,6 +61,6 @@ One portion (including ice):
 
 ### Finished Product
 
-![Seaside Sunset](./%E6%B5%B7%E8%BE%B9%E8%90%BD%E6%97%A5.jpg)
+![Seaside Sunset](./Seaside_Sunset.jpg)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

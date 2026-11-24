@@ -30,7 +30,7 @@ Per serving:
 
 ## Operation
 
-* Blanch corn kernels and carrot cubes for 1 minute in advance, fish out and drain for later use.
+* Blanch corn kernels and carrot cubes for 1 minute in advance, scoop out and drain for later use.
 * Heat the pot with cold oil, put in carrot cubes and fry slightly, then add corn kernels and stir-fry.
 * Add white sugar and salt, stir-fry evenly.
 * Mix water and starch into water starch, pour into the pot and stir-fry quickly to make the soup slightly thick.
@@ -43,4 +43,4 @@ Per serving:
 * When using canned corn, drain the water first to avoid excessive water release during frying.
 * The fire should not be too high during frying to prevent sticking to the pot or burning the pine nuts.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

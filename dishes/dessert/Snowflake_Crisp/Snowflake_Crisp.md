@@ -1,10 +1,10 @@
 # Snowflake Crisp (Xue Hua Su)
 
-![Finished Snowflake Crisp](./雪花酥成品.jpg)
+![Finished Snowflake Crisp](./Snowflake_Crisp_Finished.jpg)
 
 Snowflake Crisp is a quick and easy dessert, perfect for gifting in pretty boxes. Total preparation time is approximately **30 minutes**.
 
-Estimated Cooking Difficulty: ★ review
+Estimated Cooking Difficulty: ★★★
 
 ## Essential Ingredients and Tools
 
@@ -51,4 +51,4 @@ Per portion:
 - The longer you heat the marshmallows, the harder the final texture will be.
 - Reference: [10-minute Snowflake Crisp Tutorial](https://b23.tv/P547ILO)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

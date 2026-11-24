@@ -32,4 +32,4 @@ Estimated Cooking Difficulty: ★★★
 
 - When taking out Minced Meat Stewed Egg, pay attention plate is very hot, please operate carefully.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

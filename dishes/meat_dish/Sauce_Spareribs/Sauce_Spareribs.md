@@ -1,6 +1,6 @@
 # Sauce Spareribs
 
-Sauce Spareribs has sauce red color, meat soft rotten, strong bone fragrance, thick juice fresh taste, salty with sweet.
+Sauce Spareribs has sauce red color, tender meat, strong bone fragrance, thick juice fresh taste, salty with sweet.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -52,4 +52,4 @@ Per serving:
 * High heat boiling time can be adjusted according to everyone's situation
 * During boiling Spareribs, can coincidentally put 2-3 Eggs boil together, make into simplified version Braised Egg
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

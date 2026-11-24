@@ -36,7 +36,7 @@ Per serving (1 person):
 * Treat the soaked Wood Ear by removing the roots (as shown in Figures 4, 5, 6), and wash thoroughly.
 * Boil water in a pot, add Wood Ear after water boils, cook over high heat for 1.5-2 minutes.
 * Mince garlic cloves and Millet Chili into a bowl (choose medium-large bowl), and add salt, sugar, light soy sauce, vinegar, sesame oil, wasabi in order, amounts as above.
-* Fish out Wood Ear and drain water, put into the bowl from the previous step.
+* Scoop out Wood Ear and drain water, put into the bowl from the previous step.
 * Stir fully, serve.
 
 ![Dried Wood Ear](1.jpg)
@@ -55,4 +55,4 @@ Per serving (1 person):
 * The amount of seasonings can be adjusted according to personal taste. If you don't like wasabi, you don't need to add it.
 * It tastes better after the Wood Ear cools down and absorbs the flavor, about 15 minutes.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

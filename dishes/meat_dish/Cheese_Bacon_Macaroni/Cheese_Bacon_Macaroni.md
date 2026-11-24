@@ -57,4 +57,4 @@ Determine how many servings you plan to make before cooking. One serving is exac
 
 This cuisine is extremely unhealthy, has about 1300 calories, 80g fat, not recommended to eat often.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

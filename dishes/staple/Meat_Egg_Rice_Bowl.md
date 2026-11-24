@@ -50,4 +50,4 @@ Per portion:
 - If you prefer it sweeter, you can add an extra 10g of sugar.
 - Please make sure to turn off the gas equipment after cooking to avoid danger.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

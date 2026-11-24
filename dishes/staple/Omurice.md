@@ -53,4 +53,4 @@ Per portion:
 - Use low heat when making the omelet to avoid burning the bottom.
 - If you're not good at wrapping, you can just serve the rice first and place the omelet on top.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

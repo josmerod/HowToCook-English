@@ -20,7 +20,7 @@ Estimated Cooking Difficulty: ★★
 
 ## Calculations
 
-Determine how many servings you plan to make before each production. One serving exactly enough for 1~2 people to eat.
+Determine how many servings you plan to make before each production. One serving exactly enough for 1-2 people to eat.
 
 Total Amount (Per serving):
 
@@ -56,4 +56,4 @@ Total Amount (Per serving):
 
 ---
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

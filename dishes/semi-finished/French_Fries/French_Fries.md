@@ -50,4 +50,4 @@ Estimated Cooking Difficulty: ★★
 
 - Ketchup, Mayonnaise, Honey Mustard, [Garlic Soy Sauce](../../condiment/Garlic_Soy_Sauce.md)…… The path to advanced french fries lies in the exploration of sauces and sauce combinations.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

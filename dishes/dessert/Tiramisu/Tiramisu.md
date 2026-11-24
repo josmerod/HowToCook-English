@@ -1,6 +1,6 @@
 # Tiramisu
 
-![Finished Tiramisu](提拉米苏成品.jpg)
+![Finished Tiramisu](./Tiramisu_Finished.jpg)
 
 Tiramisu is a classic Italian dessert. It requires no oven and is easy to assemble—perfect for baking beginners to achieve a flawless, delicious result.
 
@@ -45,4 +45,4 @@ Estimated Cooking Difficulty: ★★★★
 
 - [Detailed Guide for Whipping Egg Whites](https://www.xiachufang.com/recipe/101779500/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -53,7 +53,7 @@ Per serving:
 - If chicken wings are not fresh, soak in ginger water for 10-20 minutes after cutting.
 - Prepare 10g Ginger Slices, 15g Scallion Segments; Smash 3-4 Garlic cloves (No need to mince); Organize 1 Fragrant Leaf, 1 Star Anise, 2 Dried Chili (Optional).
 - Heat pot, add clear water to submerge all chicken wings, put prepared chicken wings in cold water, add 20ml Yellow Wine or Cooking Wine, 2 Ginger Slices (About 5g), high heat boil, keep high heat for 2-3 minutes after boiling, skim floating foam.
-- Fish out wings, wash with warm water 2 times, remove blood foam completely, drain moisture.
+- Scoop out wings, wash with warm water 2 times, remove blood foam completely, drain moisture.
 - Heat another pot, add 10-15ml Cooking Oil.
 - When oil is 50% hot, add 15g Rock Sugar, high heat melt sugar, turn to small heat when sugar changes color, stir-fry until sugar becomes jujube red, immediately put in drained chicken wings, quickly stir-fry 1-2 minutes, coat every wing evenly with sugar color.
 - Add prepared 1 Fragrant Leaf, 1 Star Anise, 2 Dried Chili (Optional), remaining 2 Ginger Slices, 15g Scallion Segments, smashed Garlic, continue to stir-fry 30 seconds until spice fragrance released.
@@ -70,4 +70,4 @@ Per serving:
 
 - If smelling fishy, can double spice amount.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

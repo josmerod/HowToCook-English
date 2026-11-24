@@ -55,4 +55,4 @@ Per serving:
 - Traditional Steamed Pork Ribs with Black Bean Sauce do not put sprinkles and pour hot oil
 - Leftover soup juice can be used to mix rice or mix noodles
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -10,6 +10,6 @@
 ## Timing of Adding Salt and Salt Control
 
 * For quick stir-fry dishes, add salt first. Salt amount = total weight of ingredients x 0.9%;
-* For meat dishes, add salt when 80% cooked. Salt amount = (total weight of ingredients + 30mL juice) x (1~1.2%);
+* For meat dishes, add salt when 80% cooked. Salt amount = (total weight of ingredients + 30mL juice) x (1-1.2%);
 * For soup dishes, add salt at the very end. Salt amount = initial water amount x 0.8%.
 * The total daily salt intake is recommended not to exceed 5g, refer to [WHO](https://www.who.int/news-room/fact-sheets/detail/salt-reduction).

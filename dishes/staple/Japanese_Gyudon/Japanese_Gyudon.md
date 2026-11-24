@@ -25,7 +25,7 @@ Ingredient usage proportional to rice, calculation part take **One Cup Rice (160
 
 - Onion 1
 - Fatty Beef 250 g
-- Scallion 1~2 Plants
+- Scallion 1-2 Plants
 - White Sesame 5 g
 
 ## Operation
@@ -33,9 +33,9 @@ Ingredient usage proportional to rice, calculation part take **One Cup Rice (160
 ### 1. Ingredient Preparation
 
 - Onion peel off outer layer remove core, cut into crescent shape
-- Scallion wash clean cut into 0.5cm small segments
+- Scallion wash thoroughly cut into 0.5cm small segments
 - Hot pot directly put in White Sesame, **Back/Forth shake pot body** make sesame evenly heated until *Slightly presents golden yellow*
-- Fatty Beef blanch water 1 Minute then fish out
+- Fatty Beef blanch water 1 Minute then scoop out
 - Mix 40g `Mirin` (Or 30g `Cooking Wine`), 30g `Soy Sauce`, 20g `Oyster Sauce`, 5g `Sugar`, 5g `Dark Soy Sauce` (Optional, used for coloring), in bowl stir mix into `Seasoning` (This step can directly put bowl on electronic scale proceed)
 
 ### 2. Cooking Process
@@ -85,8 +85,8 @@ graph TD
 
 ### References
 
-- [He Shui Yang Yang Lab 【Gyudon｜Fatty Beef Rice】Yoshinoya Beef Rice Authentic Method](https://www.bilibili.com/video/BV1rK4y1d7Fk)
+- [He Shui Yang Yang Lab - Gyudon | Fatty Beef Rice (Yoshinoya Beef Rice Authentic Method)](https://www.bilibili.com/video/BV1rK4y1d7Fk)
 - [Uncle Xia Kitchen 60 seconds get divine recipe, tasty and goes well with rice Fatty Beef Rice!](https://www.bilibili.com/video/BV1xu4y1676X)
 
 ---
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

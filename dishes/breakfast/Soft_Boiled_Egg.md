@@ -32,4 +32,4 @@ If feel egg not cooked enough friends can add more water according to own prefer
 
 **Warning** Soft Boiled Egg has risk of Salmonella infection. Not recommend stand within 5 minutes.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

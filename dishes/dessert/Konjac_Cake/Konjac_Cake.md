@@ -67,4 +67,4 @@ Per portion (approx. 9.25 x 5 x 1 inch):
 * Recipe based on: [Keto Konjac Chocolate Cake](https://youtu.be/gzXlOrGI54U)
 * For detailed whipping tips, see the [Chiffon Cake](../Chiffon_Cake/Chiffon_Cake.md) guide.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

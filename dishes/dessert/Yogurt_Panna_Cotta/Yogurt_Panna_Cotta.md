@@ -1,6 +1,6 @@
 # Yogurt Panna Cotta
 
-![Finished Panna Cotta](./酸奶意式奶冻.png)
+![Finished Panna Cotta](./Yogurt_Panna_Cotta.png)
 
 Panna Cotta is an ideal dessert for after dinner, pairing beautifully with jam, fresh fruit, or herbs. This version includes plain yogurt for a lighter, less cloying flavor.
 
@@ -37,4 +37,4 @@ Per portion:
 
 - Traditional Panna Cotta uses only cream and much more sugar. This updated version is much lighter and more refreshing.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

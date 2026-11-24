@@ -35,7 +35,7 @@ Per serving (About for 2 people):
 
 2. **Stir-frying Process**:
    - Heat pot and pour cooking oil. After oil is hot, add washed Indian Lettuce, stir-fry until withered and water comes out, then dish out and drain the water produced during frying.
-   - Heat pot again, add oil from the Dace can, put in minced garlic to explode fragrance.
+   - Heat pot again, add oil from the Dace can, put in minced garlic to sauté until fragrant.
    - After garlic is fragrant, add salted black beans from the can, flip mix, then add chopped dace pieces, flip mix again.
    - After mixing evenly, add Indian Lettuce, add Light Soy Sauce and Sugar to season.
    - After seasoning, simply flip mix and dish out.
@@ -45,4 +45,4 @@ Per serving (About for 2 people):
 - **Attentions**:
   1. Canned Dace has its own taste, adding Light Soy Sauce makes it flavorful enough, no need to add salt.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

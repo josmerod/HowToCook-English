@@ -25,11 +25,11 @@ Estimated Cooking Difficulty: ★★
 - Pour 400ml water into pot, put Steaming Rack inside, put plate holding Flower Buns on Steaming Rack, cover pot lid.
 - Turn high heat heat, until water boils.
 - Turn medium heat heat 15 minutes
-- Open lid use hand feel Flower Bun surface temperature, if not hot enough, then continue cover lid heat, otherwise can turn off heat out of pot.
+- Open lid use hand feel Flower Bun surface temperature, if not hot enough, then continue cover lid heat, otherwise can turn off the heat and serve.
 - Take out plate let cool to 50 degrees then can eat
 
 ## Additional Content
 
 - During operation, need to pay attention observe water in pot cannot be less than 50ml.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

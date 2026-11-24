@@ -45,7 +45,7 @@ Note, this dish only has version enough for 1-2 people to eat.
 ### Process Ingredients
 
 * Marinate Tenderloin Meat with `Marinade` for 15-30 minutes. Pay attention to grab meat evenly.
-* Soak Dried Wood Ear for 4 hours, wash clean, cut into small blocks.
+* Soak Dried Wood Ear for 4 hours, wash thoroughly, cut into small blocks.
 * Wash Green Pepper clean, remove pedicel, cut into shreds.
 * Wash Carrot clean, cut into shreds, [Blanch](../../tips/learn/Learning_Blanching.md) Carrot Shreds.
 * Chop Ginger, Garlic into mince.
@@ -64,4 +64,4 @@ Note, this dish only has version enough for 1-2 people to eat.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

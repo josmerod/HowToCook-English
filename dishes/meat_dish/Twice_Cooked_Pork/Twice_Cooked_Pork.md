@@ -16,7 +16,7 @@ Estimated Cooking Difficulty: ★★★★
 
 ## Calculations
 
-- Pork Belly usage: 0.5 Jin (250g)/Man, 0.3 Jin (150g)/Woman (Authentic Twice Cooked Pork uses "Er Dao Rou" [Rump], firm texture, appropriate fat and lean ratio)
+- Pork Belly usage: 250g (0.5 Jin) per large serving, 150g (0.3 Jin) per smaller serving (Authentic Twice Cooked Pork uses "Er Dao Rou" [Rump], firm texture, appropriate fat and lean ratio)
 - Scallion: 2 stalks
 - Ginger: 10-40g
 - Green and Red Peppers (Choose according to spicy tolerance, 0-30g) *Note: Not recommended to use thick-fleshed bell peppers
@@ -45,7 +45,7 @@ Estimated Cooking Difficulty: ★★★★
 
 ### Pork Belly Cooking - Stage 2
 
-- Fish out cooked pork belly and put into cold water to cool.
+- Scoop out cooked pork belly and put into cold water to cool.
 - Dry the water on pork belly, cut into 2mm thin slices with fat on top and lean on bottom (If cut too thick, texture is bad and very oily).
 
 ### Start Stir-frying Meat
@@ -80,4 +80,4 @@ Note, this step **operation should be fast, be careful of burning the pot**.
 - Drying water on pork belly is to avoid oil splashing during stir-frying.
 - Remember not to cut pork belly too thick, otherwise it will be very greasy.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

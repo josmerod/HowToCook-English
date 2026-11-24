@@ -34,7 +34,7 @@ Use the above conditions to calculate the proportion of raw materials planned to
 - Cut eggplant, potato, and hot peppers into 15g small blocks.
 - Heat the pan, add 25ml oil.
 - Add potatoes, fry for about 3 minutes, wait until it is about 80% cooked, indicated by a golden yellow color.
-- Fish out the potatoes, leave the oil.
+- Scoop out the potatoes, leave the oil.
 - Add eggplant, fry for about 40 seconds, wait until it is about 70% cooked, indicated by a golden yellow color.
 - If there is no flowing oil in the pot, consider adding 15ml oil.
 - Add 3g scallion, 10g ginger.
@@ -51,4 +51,4 @@ Use the above conditions to calculate the proportion of raw materials planned to
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

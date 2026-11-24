@@ -55,4 +55,4 @@ Per serving:
 
 - To give the meat more layers, you can add eggs to the corn starch, it will be cripser after frying.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

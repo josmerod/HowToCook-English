@@ -39,4 +39,4 @@ Per serving:
 * Choosing Celtuce leaves is because vegetable packages bought in some provinces/cities basically include Celtuce. You can replace it with leeks, etc.
 * Celtuce leaves have a bitter taste if blanched directly and eaten cold, so choosing to make them into a side dish for pancakes is a good choice.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

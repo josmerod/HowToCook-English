@@ -35,7 +35,7 @@ Per serving:
 - Cut Tofu into 2 cm small cubes, set aside.
 - Add 500 ml drinking water to the pot, bring to a boil over high heat.
 - Put in Tofu cubes, cook for **1-2 minutes**, to remove the beany smell and make the tofu texture firmer.
-- Fish out the cooked Tofu cubes, drain water, put into a bowl, set aside.
+- Scoop out the cooked Tofu cubes, drain water, put into a bowl, set aside.
 - Wash Scallion, cut into chopped green onions, set aside.
 - Peel Garlic, mince into garlic puree, set aside.
 - In a clean small bowl, add 15 ml Light Soy Sauce, 5 ml Sesame Oil, 5 ml Vinegar (Optional), 2 g White Sugar (Optional).
@@ -52,4 +52,4 @@ Per serving:
 - If you like lighter taste, you can omit vinegar and chili oil.
 - The ratio of sauce can be adjusted according to personal taste.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

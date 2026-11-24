@@ -46,4 +46,4 @@ Using above conditions, calculate planned raw material ratio.
 - Straining can significantly improve fineness.
 - If surface bubbles or leaks water, means heated too much, shorten time next time.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

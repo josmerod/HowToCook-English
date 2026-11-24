@@ -24,7 +24,7 @@ Per serving:
 
 ## Operation
 
-- Cut Beef Brisket into strips, pieces with length, width and height all 2cm, put into cold water pot, boil 2 minutes to remove blood water, fish out rinse clean.
+- Cut Beef Brisket into strips, pieces with length, width and height all 2cm, put into cold water pot, boil 2 minutes to remove blood water, scoop out rinse clean.
 - Start another pot boil 2L water, add 2cm two Scallion segments, two Ginger slices, Star Anise, Cooking Wine/Yellow Wine 5-10ml, put in blanched Beef, cover lid stew (Casserole 1 hour, Pressure Cooker Meat Stew Mode 45 minutes), chopsticks can easily insert through proves stewed well.
 - Tomato Peel: Cut cross on Tomato head to waist line, chopsticks/fork poke in from fruit pedicel, gas stove low heat, rotate while roasting, take down timely to check, tear off after skin rises, cut into blocks. The smaller the better.
   - Be careful of burning when tearing skin, peeled Tomato is especially slippery, cut slowly pay attention to safety.
@@ -36,8 +36,8 @@ Per serving:
 ## Additional Content
 
 - Pay attention to safety when using fire, pay attention to safe fire use.
-- When stewing meat with Casserole/Aluminum Pot, turn medium low heat/low heat after water boils, using Pressure Cooker see [Learn to use pressure cooker](../../tips/learn/Pressure_Cooker_Guide.md).
+- When stewing meat with Casserole/Aluminum Pot, turn medium low heat/low heat after water boils, using Pressure Cooker see [Learn to use pressure cooker](../../../tips/learn/Pressure_Cooker.md).
 - Tomato peeling method in tutorial is fastest method practiced by myself so far.
 - Absolutely do not use Ketchup and add less seasonings, restore original taste of ingredients as much as possible.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

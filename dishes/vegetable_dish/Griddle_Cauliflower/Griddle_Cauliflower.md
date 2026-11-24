@@ -33,7 +33,7 @@ Per serving:
 ## Operation
 
 - Face the cauliflower flower-side down and soak in light salt water for 20 minutes. Then wash and use a small knife to break into small florets.
-- Blanch in boiling water for 1 minute, fish out and immediately rinse with cold water until completely cool, drain water for later use.
+- Blanch in boiling water for 1 minute, scoop out and immediately rinse with cold water until completely cool, drain water for later use.
 - Cut pork belly into thin slices, slice the white part of the garlic (or leek/scallion white) flat with the back of a knife, and cut small red chili peppers into sections.
 - Heat the pot and put in oil. When the oil is hot, add the scallion whites to burst out the aroma.
 - Put the pork belly slices into the pot, stir-fry over medium heat until the surface basically changes color, continue to stir-fry for a while to force out some of the fat from the fatty meat.
@@ -44,4 +44,4 @@ Per serving:
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

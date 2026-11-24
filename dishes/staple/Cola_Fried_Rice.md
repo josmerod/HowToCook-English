@@ -44,7 +44,7 @@ Per serving:
 - Re-ignite fire, pour in Cola, Light Soy Sauce, Dark Soy Sauce, Bean Paste, Oyster Sauce, stir evenly
 - Heat until liquid in pot remains 1/3, pour in Rice and Ham Sausage stir-fry
 - After stir-fry evenly, change low heat, dig a hole in center of food in pot, break in 1 Egg, cover pot lid, braise 2 minutes
-- Open lid stir-fry until third egg cooked through, sprinkle Scallion Chopped and Pepper Powder, out of pot
+- Open lid stir-fry until third egg cooked through, sprinkle Scallion Chopped and Pepper Powder, then remove from heat and serve
 
 ## Additional Content
 
@@ -52,4 +52,4 @@ Per serving:
 - If like dry a bit, fry a while longer
 - If think troublesome, can directly put 3 eggs in first step, cancel step of digging hole breaking another egg
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

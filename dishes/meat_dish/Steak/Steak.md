@@ -94,4 +94,4 @@ Frying steak is art of controlling heat. Briefly give some methods to quantitati
 
 Steak seasoning doesn't necessarily need to follow this guide. Generally, Garlic, Black Pepper and Butter are essential, but if you don't like taste of Lamiaceae plants like Rosemary or Thyme, you can freely try other steak seasonings. There are also various BBQ seasoning salts sold on market. I once found a Chinese-Western combined method, cutting Millet Chili and frying with garlic slices in olive oil, and pouring on steak at end as seasoning, also has unique flavor.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,6 +1,6 @@
 # Simple Caramel Coloring (Chao Tang Se)
 
-This is a simplified method for making caramel coloring. For more advanced techniques and applications, please refer to [Caramel Coloring Mastery](../../tips/advanced/%E7%B3%96%E8%89%B2%E7%9A%84%E7%82%92%E5%88%B6.md).
+This is a simplified method for making caramel coloring. For more advanced techniques and applications, please refer to [Caramel Coloring Mastery](../../tips/advanced/Sugar_Coloring_Guide.md).
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -34,4 +34,4 @@ Estimated Cooking Difficulty: ★★★★
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

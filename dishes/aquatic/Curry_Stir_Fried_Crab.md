@@ -40,10 +40,10 @@ Total Amount:
 - Put Curry Block into pot stir-fry melt (10 seconds), put in fried crab, stir-fry evenly.
 - Pour in boiling water 300ml, simmer boil 3 minutes.
 - After simmer boil, pour in Coconut Milk and Egg White, turn off heat. After turning off heat constantly stir-fry, untill sauce becomes thick.
-- Out of pot.
+- Remove from heat and serve.
 
 ## Additional Content
 
 - Method Reference: [How to make Curry Crab with hanging sauce taught by Macau kitchen guy for more than ten years](https://www.bilibili.com/video/BV1Nq4y1W7K9)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

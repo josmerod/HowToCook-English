@@ -45,4 +45,4 @@ Estimated nutritional value (Three major nutrients) of a portion of above breakf
 
 *: Milk calculated according to common 250ml
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

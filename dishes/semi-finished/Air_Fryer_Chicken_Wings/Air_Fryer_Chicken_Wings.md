@@ -30,4 +30,4 @@ Estimated Cooking Difficulty: ★★
 
 - It's recommended to use an air fryer with good temperature control to avoid burning.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

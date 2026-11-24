@@ -56,4 +56,4 @@ Per serving (Suggest 2-4 persons):
 - When operating, need to pay attention to observe water level line, adjust stove fire size, prevent water boiled dry sticking pot.
 - When putting in Fresh Duck Blood, need constantly stir-fry stir, prevent Duck Blood clumping coagulating into blocks.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -32,4 +32,4 @@ Nutritional Information Table (Data based on Whole Wheat Toast Slices)
 - Carbohydrate 43.1 g
 - Dietary Fiber 6.0 g
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

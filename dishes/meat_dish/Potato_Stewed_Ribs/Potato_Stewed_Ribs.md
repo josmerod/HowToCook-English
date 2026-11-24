@@ -39,7 +39,7 @@ Estimated Cooking Difficulty: ★★★
 ## Operation
 
 - Cut two potatoes into rolling knife chunks (irregular chunks), cut ginger into slices.
-- Put 750g ribs into cold water pot, add ginger slices, scallion segments, cooking wine, blanch for 2 minutes. Fish out after drying water and wash clean (Must use hot water to wash, cannot use cold water).
+- Put 750g ribs into cold water pot, add ginger slices, scallion segments, cooking wine, blanch for 2 minutes. Scoop out after drying water and wash thoroughly (Must use hot water to wash, cannot use cold water).
 - Heat pot with cold oil, pour white sugar into pot, stir-fry until melted into caramel color.
 - Add ribs and fry until both sides are golden yellow, letting ribs be coated with caramel.
 - Add Dried Chili, Star Anise, Sichuan Peppercorn, Cinnamon, Ginger slices (Recommended to buy supermarket spice pack), 10ml Light Soy Sauce, 5ml Dark Soy Sauce, 5ml Cooking Wine, 5ml Oyster Sauce, 5ml Soybean Paste.
@@ -52,4 +52,4 @@ Estimated Cooking Difficulty: ★★★
 
 This dish has simple difficulty level, friendly to beginners, and goes very well with rice.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

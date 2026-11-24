@@ -24,11 +24,11 @@ Per serving:
 
 ## Operation
 
-- Cut the broccoli into small florets and wash clean.
+- Cut the broccoli into small florets and wash thoroughly.
 - Peel the garlic, mince into garlic foam, set aside.
 - Add 1000 ml drinking water to the pot, bring to a boil over high heat.
 - Put in broccoli, keep high heat and **boil for 2-3 minutes**, until the broccoli color becomes emerald green and the texture becomes soft.
-- Fish out the cooked broccoli, drain water, arrange in a plate, set aside.
+- Scoop out the cooked broccoli, drain water, arrange in a plate, set aside.
 - Heat the pot, add 10 ml cooking oil. After oil temperature rises, put in minced garlic, stir-fry over low heat until fragrant.
 - Add 10 ml light soy sauce, 5 ml oyster sauce, 2 g white sugar, add 30 ml drinking water.
 - Bring the sauce in the pot to a boil.
@@ -39,4 +39,4 @@ Per serving:
 - Blanching time should not exceed the recommended duration to avoid affecting the texture and nutrition of broccoli.
 - If you want to keep the broccoli crispier, you can shorten the blanching time.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

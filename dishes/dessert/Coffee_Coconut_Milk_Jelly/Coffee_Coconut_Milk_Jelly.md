@@ -1,6 +1,6 @@
 # Coffee Coconut Milk Jelly
 
-![Coffee Coconut Milk Jelly](./咖啡椰奶冻.png)
+![Coffee Coconut Milk Jelly](./Coffee_Coconut_Milk_Jelly.png)
 
 Coffee Coconut Milk Jelly is a simple and elegant dessert. Estimated preparation time is about **1 hour** (excluding refrigeration time).
 
@@ -43,4 +43,4 @@ Serves 3-4:
 - **Important**: Do not let the liquid come to a boil! Avoid creating large bubbles.
 - **Cleaning Tip**: Gelatin can be sticky. Use warm water or a dishwasher for easier cleaning.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

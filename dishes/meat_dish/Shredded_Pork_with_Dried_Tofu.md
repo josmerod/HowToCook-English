@@ -41,7 +41,7 @@ Use above conditions, calculate planned raw material ratio.
 
 ### Start Pot
 
-* Clean pot 15ml oil, no need to wait oil hot pour in Meat Shreds slowly slide scatter, Meat Shreds cooked, immediately fish out, leave oil in pot.
+* Clean pot 15ml oil, no need to wait oil hot pour in Meat Shreds slowly slide scatter, Meat Shreds cooked, immediately scoop out, leave oil in pot.
 * Put Garlic Slices and Dried Tofu into pot, add 2ml Light Soy Sauce, stir-fry evenly.
 * 2-3 minutes, depend on fire size, put Green Pepper Shreds into pot mix, stir-fry.
 * 1 minute later, put into Meat Shreds mix.
@@ -54,4 +54,4 @@ Note, different pots or stoves, will affect stir-fry time, suggest, not sure if 
 
 **Chili choose Green Pepper, Screw Pepper is optimal solution, like spicy can add Millet Chili cut fine, add together with Green Pepper!**
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,6 +1,6 @@
 # Guilinggao (Tortoise Jelly)
 
-![Finished Guilinggao](./龟苓膏成品.jpg)
+![Finished Guilinggao](./Guilinggao_Finished.jpg)
 
 Estimated Cooking Difficulty: ★★
 
@@ -34,4 +34,4 @@ One batch makes approximately 3-4 small bowls, suitable for 2-4 people.
 - Serve with honey, condensed milk, or fresh fruit for added flavor.
 - Concentration may vary by brand; adjust ratios according to the packaging if necessary.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

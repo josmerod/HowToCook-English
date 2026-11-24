@@ -1,6 +1,6 @@
 # Lard Rice
 
-Lard Rice is fallback when southern kids don't love eating rice, glittering translucent rice grains wrapped with amber color Lard, salty fresh of Soy Sauce and clear fragrance of Scallion Chopped dance together on tongue tip, every mouthful is perfect symphony of carbs and fat.
+Lard Rice is fallback when picky eaters have no appetite for plain rice, glittering translucent rice grains wrapped with amber color Lard, salty fresh of Soy Sauce and clear fragrance of Scallion Chopped dance together on tongue tip, every mouthful is perfect symphony of carbs and fat.
 
 Estimated Cooking Difficulty: ★
 
@@ -42,4 +42,4 @@ Per serving:
 - High cholesterol, not suggest frequently eat
 - Reference: [Lard Rice - Wikipedia, The Free Encyclopedia](https://zh.wikipedia.org/wiki/%E8%B1%AC%E6%B2%B9%E6%8B%8C%E9%A3%AF)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

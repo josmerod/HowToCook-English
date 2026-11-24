@@ -1,0 +1,70 @@
+name: Build PDF and Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag_name:
+        description: 'Optional release tag (e.g. v1.5.1). Leave empty to only update document.pdf on master.'
+        required: false
+        default: ''
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 0
+          token: ${{ secrets.PAT || github.token }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm install
+      - run: npm run build
+      - run: npm run lint
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install WeasyPrint and MkDocs dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y weasyprint fonts-noto-cjk
+          pip install --no-cache-dir -r requirements.txt
+
+      - name: Build site and document.pdf
+        run: |
+          mkdocs build
+          cp site/document.pdf ./document.pdf
+
+      - name: Commit updated document.pdf on branch builds
+        if: github.event_name == 'workflow_dispatch' && inputs.tag_name == ''
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '[ci skip] Update compiled document.pdf'
+          file_pattern: 'document.pdf'
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+
+      - name: Create GitHub Release with document.pdf
+        if: startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'workflow_dispatch' && inputs.tag_name != '')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ inputs.tag_name || github.ref_name }}
+        run: |
+          gh release create "$TAG" ./document.pdf \
+            --title "HowToCook English $TAG" \
+            --notes "Compiled PDF cookbook and documentation for HowToCook-English ($TAG)." \
+            --latest

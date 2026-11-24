@@ -20,7 +20,7 @@ Note: This staple food does not provide less or more version, here selected amou
 ## Operation
 
 * Pour 400g Flour into basin, half use cold water mix dough, half use hot water mix dough, stir into dough flakes, use hand knead into dough. Use plastic wrap seal up, rest dough 40 Minutes
-* When 10 Minutes left to dough resting completion time, please view Oil Crisp method in [Tips](../../condiment/Oil_Crisp.md) (Hot Oil Crisp effect better)
+* When 10 Minutes left to dough resting completion time, please view Oil Crisp method in [Tips](../../condiment/Oil_Roux.md) (Hot Oil Crisp effect better)
 * Rested dough need not knead, slightly press, use one horizontal knife one vertical knife divide into four portions.
 * Rub round, roll open, roll into cake similar size to electric griddle, take 1/4 Oil Crisp, smear cake surface evenly
 * Cut along cake radius, roll from outer circle into cone shape, then pinch cone tail well, prevent Oil Crisp leaking.
@@ -33,4 +33,4 @@ Note: This staple food does not provide less or more version, here selected amou
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -15,19 +15,19 @@ Estimated Cooking Difficulty: ★★★★★
 ### Required Ingredients
 
 
-- High Gluten or Medium Gluten Flour *（Try to use High Gluten Flour, but **Avoid using Low Gluten Flour**. All "All-purpose Flour" without special instruction are Medium Gluten Flour）*
-- Egg *（No excessive requirement on size and weight）*
-- Sugar *（If have Syrup is best.）*
+- High Gluten or Medium Gluten Flour *(Try to use High Gluten Flour, and **avoid Low Gluten Flour**. Standard "All-purpose Flour" is Medium Gluten Flour)*
+- Egg *(No strict requirement on size or weight)*
+- Sugar *(Syrup is best if available.)*
 - Dry Yeast
 - Salt
-- Milk or Heavy Cream or Condensed Milk or Milk Powder *（Best use **Milk Powder**, milk fragrance full, but **Do not use any Compound Milk Powder**, such as Adult Milk Powder or Infant Milk Powder, because chemical properties unstable. Meanwhile can mix use two kinds of dairy products. Try to **Avoid choosing extra sugar containing** ingredients, because actual sugar content will be more than this recipe suggested added sugar amount）*
-- Butter or Corn Oil *（If **Chosen dairy product fat content extremely high can not add**. Butter try to choose Animal Fat Unsalted. Soybean Oil might have bean fishy smell, try not to use.）*
+- Milk or Heavy Cream or Condensed Milk or Milk Powder *(Best to use **Milk Powder** for rich dairy flavor, but **do not use sweetened or compound milk powder** such as adult/infant formula, as their composition varies. You can mix two dairy products; avoid extra sweetened ingredients so total sugar stays accurate)*
+- Butter or Corn Oil *(May be omitted if the **chosen dairy product is very high in fat**. Use unsalted butter if possible. Soybean oil can leave a beany taste, so try to avoid it.)*
 - Gluten Powder (Optional)
 - Vanilla Extract (Optional)
 
 ### Necessary Tools
 
-- Oven *（**Do not use Oven without temperature control**）*
+- Oven *(**Do not use an oven without temperature control**)*
 - Measuring Cup
 - Cloth
 - Rolling Pin
@@ -90,7 +90,7 @@ Sponge is product of pre-fermentation, through pre-fermentation, not only can im
 
 ![Cover sponge simply with cloth](./Sponge_2.jpg)
 
-2. Use cloth cover batter, place batter to **Warm Place** proceed fermentation, duration 45 ~ 60 minutes.
+2. Use cloth cover batter, place batter to **Warm Place** proceed fermentation, duration 45-60 minutes.
 
 ![Final form of sponge](./Sponge_3.jpg)
 
@@ -146,7 +146,7 @@ With sponge, then successful half!
 
 >Can spray evenly a layer of oil on baking tray or use butter smear thin layer then put on Silicon Oil Paper. So Silicon Oil Paper won't verify move.
 
-8.In tray or mold, ferment 30 ~ 45 minutes .
+8.In tray or mold, ferment 30-45 minutes .
 
 >If fermentation happen problem, please refer to solution for fermentation failure under Sponge Production.
 
@@ -161,9 +161,9 @@ With sponge, then successful half!
 
 11.Put into oven, upper lower fire 180℃ bake 30 minutes, then adjust 165 ℃ bake again 10 minutes.
 
->Different oven temperature different. In baking process, observe bread, if no obvious color change after 30 minutes, then temperature too low. At this time increase 5 ~ 10 ℃ or bake 5 ~ 10 minutes more
->After baking ends, taste bread, if bread surface bitter (Note, as long as not bitter not considered over baked), then temperature too high, try reduce 5 ~ 10 ℃ or reduce 5 ~ 10 minutes baking time;
->If outside already caramel color but inside not cooked, then reduce 5 ~ 15 ℃ and extend 10 ~ 20 minutes baking time.
+>Different oven temperature different. In baking process, observe bread, if no obvious color change after 30 minutes, then temperature too low. At this time increase 5-10 ℃ or bake 5-10 minutes more
+>After baking ends, taste bread, if bread surface bitter (Note, as long as not bitter not considered over baked), then temperature too high, try reduce 5-10 ℃ or reduce 5-10 minutes baking time;
+>If outside already caramel color but inside not cooked, then reduce 5-15 ℃ and extend 10-20 minutes baking time.
 >
 >If bread surface very hard or crack very serious, can use Tinfoil cover bread and take away Tinfoil in last ten minutes or upside down another baking tray and install at top most position, then take away Tinfoil or baking tray in last 10 minutes.
 
@@ -179,8 +179,8 @@ With sponge, then successful half!
 |:---------:|:----:|:-------:|
 |1          |Butter  |227      |
 |1          |Flour  |120      |
-|1          |Fine Granulated Sugar|180 ~ 200|
-|1          |Coarse Granulated Sugar|200 ~ 220|
+|1          |Fine Granulated Sugar|180-200|
+|1          |Coarse Granulated Sugar|200-220|
 |1          |Sugar Powder  |130      |
 |1          |Crushed Dry Fruit|114      |
 |1          |Raisin|170      |
@@ -194,11 +194,11 @@ With sponge, then successful half!
 
 ![Finished Product](./Serving_Suggestion.jpg)
 
-a. Take a big piece of bread, up down divide into two. Put into pot low heat heat (Generally no need add oil, but if hope crispy skin can smear butter on bread surface then pan-fry) 1 ~ 2 minutes.
-b. Pot use Spray Bottle spray 3 ~ 4 pump oil, high heat burn until pot slightly smoke, turn minimum heat.
-c. Then put in an egg, cover lid. Wait 2 ~ 3 minutes. Then flip heat again 2 ~ 3 minutes.
+a. Take a big piece of bread, up down divide into two. Put into pot low heat heat (Generally no need add oil, but if hope crispy skin can smear butter on bread surface then pan-fry) 1-2 minutes.
+b. Pot use Spray Bottle spray 3-4 pump oil, high heat burn until pot slightly smoke, turn minimum heat.
+c. Then put in an egg, cover lid. Wait 2-3 minutes. Then flip heat again 2-3 minutes.
 (This is method for liquid center egg, if need fully cooked egg, can add at most 1 ml water before flipping, turn medium low heat, until water boil dry. So obtained a fully cooked egg)
 d. Smear any sauce liked on both sides of bread, sandwich egg in middle.
 
 ------------------------------------------
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

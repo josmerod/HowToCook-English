@@ -65,4 +65,4 @@ Per serving:
 * Fujian cuisine is mainly sweet, can give up White Sugar if not used to it
 * Can judge whether meat is fried through by knocking meat blocks with spoon and hearing sound
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

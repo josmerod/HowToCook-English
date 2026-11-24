@@ -38,4 +38,4 @@ Per portion:
 - A common way to drink it in bars is to provide a straw, insert it while the flame is still burning, and quickly inhale the entire contents.
 - Do not worry about the fire; since the straw is thin and oxygen is limited, the flame will extinguish. You will feel a wave of heat down your throat into your stomach, followed by a long-lasting aftertaste of coffee and cream. It is very stimulating and delicious.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

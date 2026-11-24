@@ -45,4 +45,4 @@ Note, affected by individual ingredients, this recipe is for 2 people.
 
 - Cutting beans requires certain knife skills, if you can't do it, you can use scissors.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

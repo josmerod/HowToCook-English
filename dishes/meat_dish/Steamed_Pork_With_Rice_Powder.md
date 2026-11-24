@@ -50,7 +50,7 @@ Per serving:
 - Put the bowl with ingredients into steamer, cover pot lid.
 - Keep steaming on medium heat for 60 minutes (Fire power maintained at sustainable boiling level, about 600W heat power).
 - After time ends, insert chopstick into center of meat block, if it can penetrate easily without obvious resistance, it indicates it is cooked.
-- If this state is not reached, continue heating for 10-15 minutes, until meat is soft and rotten, and grease oozes out.
+- If this state is not reached, continue heating for 10-15 minutes, until meat is soft and tender, and grease oozes out.
 - Take out and plate, ready to eat.
 
 ## Additional Content
@@ -58,4 +58,4 @@ Per serving:
 - If need to make homemade rice powder, put 150g rice into pot, stir-fry on medium-low heat until slightly yellow (about 8 minutes), then add dried chili 1g, Sichuan peppercorn 1g, star anise 0.5g, stir-fry until fragrant, crush with blender, sieve for use.
 - During steaming, if water level is lower than 1cm below pot bottom, verify immediately add 500ml hot water (above 90°C) to maintain sufficient steam.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

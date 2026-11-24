@@ -58,4 +58,4 @@ Per serving:
 * In step 5, the purpose of adding salt is to lock the moisture of the cabbage while giving the cabbage a little taste.
 * In the last step, adjust the frying time flexibly according to the actual situation and personal taste.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

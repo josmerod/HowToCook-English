@@ -35,4 +35,4 @@ Per portion:
 - **Flavor Adjustment**: The amount of rock sugar can be adjusted to reach your preferred sweetness level.
 - **Storage**: Keep refrigerated and consume within 1 week.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

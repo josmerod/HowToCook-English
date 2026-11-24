@@ -37,11 +37,11 @@ Estimated Cooking Difficulty: ★★★★
 
 ## Operation
 
-- Cut off nails for Chicken Feet. If bought Chicken Feet only have foot palm part, cut in half. If whole Chicken Feet, need to debone. Wash clean with clear water.
+- Cut off nails for Chicken Feet. If bought Chicken Feet only have foot palm part, cut in half. If whole Chicken Feet, need to debone. Wash thoroughly with clear water.
 - Chicken Feet cold water down pot, Scallion Ginger Cooking Wine blanch water, water boil, skim floating foam.
 - Add Fragrant Leaf, Star Anise, Light Soy Sauce, Dark Soy Sauce, cover lid low heat slow boil 30 minutes.
   ![Boil Chicken Feet](./result1.jpg)
-- Fish out Chicken Feet, keep a bowl of Chicken Soup set aside.
+- Scoop out Chicken Feet, keep a bowl of Chicken Soup set aside.
 - Heat pot boil oil, use low heat stir-fry fragrant Minced Ginger, Minced Garlic, Millet Chili, if can eat spicy put some Chili Powder. Add Light Soy Sauce, Dark Soy Sauce, Oyster Sauce, Five Spice Powder, Salt, stir-fry out sauce fragrance.
 - Put in Chicken Feet, put a little salt seasoning, stir-fry one or two minutes, then pour in Chicken Soup, stir while frying.
 - Put in Chicken Essence fresh, sprinkle Scallion segments stir evenly then can dish out.
@@ -50,4 +50,4 @@ Note: If need to add side dishes, please execute before putting in Chicken Feet,
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

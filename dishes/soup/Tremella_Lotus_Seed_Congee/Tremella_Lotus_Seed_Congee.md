@@ -38,4 +38,4 @@ Per person:
 
 - When the tremella becomes thick, stir it regularly with a spoon to prevent it from sticking to the bottom of the pot.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

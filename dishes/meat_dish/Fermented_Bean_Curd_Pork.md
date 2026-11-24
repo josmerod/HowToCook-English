@@ -37,7 +37,7 @@ Per serving:
 ## Operation
 
 - Cut pork belly into small blocks of 2.5 cm length and width.
-- Put cooking wine and ginger slices in cold water, put pork belly in, turn on fire and slowly heat until water boils, then fish out.
+- Put cooking wine and ginger slices in cold water, put pork belly in, turn on fire and slowly heat until water boils, then scoop out.
 - Crush Rose Fermented Bean Curd blocks and juice into mud, add Rock Sugar, Dark Soy Sauce to make sauce.
 - Heat pot with cold oil, explode Scallion and Ginger until fragrant, put in meat blocks and stir-fry until golden yellow.
 - Pour in fermented bean curd sauce, stir-fry evenly, add hot water to braise.
@@ -49,6 +49,6 @@ Per serving:
 - Single crystal Rock Sugar is recommended.
 - Fermented bean curd is salty and fresh itself, no need to add extra salt.
 - Shake the pot continuously when reducing sauce on high heat to avoid sticking to bottom.
-- Reference: [【Steps】Fermented Bean Curd Pork Recipe](https://www.xiachufang.com/recipe/102507/)
+- Reference: [Steps: Fermented Bean Curd Pork Recipe](https://www.xiachufang.com/recipe/102507/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

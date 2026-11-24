@@ -1,7 +1,7 @@
 # Braised Lamb Chops with Noodles (Yang Pai Men Mian)
 
 ![Braised Lamb Chops with Noodles](./Braised_Lamb_Chops_with_Noodles.jpg)
-Braised Lamb Chops with Noodles is a hard dish, suitable for showing off skills during gatherings. The disadvantage is it takes some time, the advantage is it's delicious, and one dish provides the three major nutrients needed by human body.
+Braised Lamb Chops with Noodles is an impressive centerpiece dish, suitable for showing off skills during gatherings. The disadvantage is it takes some time, the advantage is it's delicious, and one dish provides the three major nutrients needed by human body.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -26,7 +26,7 @@ Estimated Cooking Difficulty: ★★★★
 
 ## Operation
 
-- Blanch lamb in cold water pot, skim off blood foam after water boils, fish out lamb.
+- Blanch lamb in cold water pot, skim off blood foam after water boils, scoop out lamb.
 - Cut ginger (4 slices), put dried chili and peppercorn in bowl set aside.
 - Add oil to wok. (A bit more is fine)
 - After oil is hot, put in white sugar, stir-fry caramel color for lamb.
@@ -57,4 +57,4 @@ Estimated Cooking Difficulty: ★★★★
 - Roll dough agents into noodle sheets
 - Put into pot to simmer for 4 minutes (Operate one by one)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

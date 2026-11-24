@@ -48,4 +48,4 @@ Per serving:
 
 - When operating, need to pay attention to observe boiling water level line, if found lower than 2/3 of ingredients should add hot water to cover ingredients.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

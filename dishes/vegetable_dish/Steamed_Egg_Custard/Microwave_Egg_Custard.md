@@ -49,4 +49,4 @@ Totals:
 
 - Eggs and water should not exceed 2/3 of the bowl capacity, otherwise overflow may occur.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

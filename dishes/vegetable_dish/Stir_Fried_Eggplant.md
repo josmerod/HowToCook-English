@@ -59,4 +59,4 @@ Totals:
 - If the household stove temperature does not rise significantly after reaching 70% oil temperature, you can proceed directly to the next step without forcing 90% oil temperature.
 - Add sugar and vinegar at the final stage, stir-fry for 20 seconds and remove from the pan to avoid adding vinegar too early, otherwise the sour taste will evaporate.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

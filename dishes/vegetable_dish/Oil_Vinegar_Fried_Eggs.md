@@ -45,4 +45,4 @@ Per serving:
 
 - Personally tested Lao Heng He Brewed Balsamic Vinegar (Zero Additive) tastes best, vinegar fragrance is the soul of this dish.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

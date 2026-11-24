@@ -11,7 +11,7 @@ Guizhou people's obsession with eating chicken:
 * Family reunion, eat chicken
 * Don't know what to eat, then eat chicken
 
-Guizhou Spicy Chicken has various side dishes, spicy and delicious, fragrant, sticky, soft and rotten.
+Guizhou Spicy Chicken has various side dishes, spicy and delicious, fragrant, sticky, soft and tender.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -35,7 +35,7 @@ Estimated Cooking Difficulty: ★★★★
 
 Per serving:
 
-- Chicken: Amount for 3-4 people is 4 Jin (2kg), add cumulatively if more people.
+- Chicken: Amount for 3-4 people is 2kg (4 Jin), add cumulatively if more people.
 - Beer: Half bottle
 - Ginger: Two finger-sized pieces
 - Ciba Chili: 500g, about two fist-sized lumps
@@ -43,13 +43,13 @@ Per serving:
 - Fragrant Leaf: 2 leaves
 - Garlic: 2 heads
 - Potato: 2
-- Rapeseed Oil: 2 Jin (1kg), will use a lot for frying chicken initially
+- Rapeseed Oil: 1kg (2 Jin), will use a lot for frying chicken initially
 - Dark Soy Sauce: 20 ml
 
 ## Operation
 
-- Add oil to half height of pot. Fry potato cut into long strips until surface is golden yellow then fish out set aside. When oil temperature rises to burning hand level, put cut chicken blocks into pot to fry, and put in cut ginger slices and Sichuan peppercorn.
-- When starting to fry chicken, oil is turbid because of water inside chicken blocks. Wait until oil becomes clear, chicken blocks are fried well, then fish out set aside.
+- Add oil to half height of pot. Fry potato cut into long strips until surface is golden yellow then scoop out set aside. When oil temperature rises to burning hand level, put cut chicken blocks into pot to fry, and put in cut ginger slices and Sichuan peppercorn.
+- When starting to fry chicken, oil is turbid because of water inside chicken blocks. Wait until oil becomes clear, chicken blocks are fried well, then scoop out set aside.
 - Now you can scoop out one third of oil from pot, don't need so much oil now.
 - Heat remaining oil in pot, add Ciba Chili, Doubanjiang, Ginger slices, stir-fry until red oil comes out, put fried chicken blocks in and stir-fry evenly.
 - Wait until chicken blocks are colored, add Dark Soy Sauce, pour in Beer. Beer must cover chicken blocks. Add Fragrant Leaf, cover lid, braise for 10 minutes, stir-fry occasionally during period.
@@ -60,4 +60,4 @@ Per serving:
 
 - Need to stir-fry frequently during operation, because Ciba Chili will burn.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

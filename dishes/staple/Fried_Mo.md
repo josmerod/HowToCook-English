@@ -35,7 +35,7 @@ Use above conditions, calculate raw material ratio plan to use.
 * Turn heat small, stir-fry until Mo Cubes present golden yellow.
 * Put in Salt, Pepper Powder, Five Spice Powder.
 * Finally put Scallion Chopped together stir-fry a few times.
-* Turn off heat out of pot.
+* turn off the heat and serve.
 
 ## Additional Content
 
@@ -43,6 +43,6 @@ Use above conditions, calculate raw material ratio plan to use.
 - Fire big remedial measure turn heat small, can add oil along pot edge lubricate pot or sprinkle water, pay attention not pour all in one place, best disperse open
 - Seasoning can put other spices according to personal preference (Such as Nande Seasoning)
 - If like eat crispy, can turn heat to smallest, stir-fry a while longer, after turning off heat while pot hot place a while then pour out, more fragrant crispy
-- Side ingredients can also place Minced Garlic, Garlic Sprouts etc. according to personal taste, can explode fragrance separately then mix
+- Side ingredients can also place Minced Garlic, Garlic Sprouts etc. according to personal taste, can sauté until fragrant separately then mix
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

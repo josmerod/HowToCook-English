@@ -1,6 +1,6 @@
 # Pan-fried Lamb Chops (Jian Kao Yang Pai)
 
-Pan-fried Lamb Chops is a dish combining stewing and frying techniques, crispy outside and tender inside, overflowing with fragrance. It can be a hard dish for family gatherings, and also a highlight in banquet meals. The stewed lamb chops are soft and flavorful, then fried to stimulate spices, rich taste but not greasy.
+Pan-fried Lamb Chops is a dish combining stewing and frying techniques, crispy outside and tender inside, overflowing with fragrance. It can be a showstopper dish for family gatherings, and also a highlight in banquet meals. The stewed lamb chops are soft and flavorful, then fried to stimulate spices, rich taste but not greasy.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -47,10 +47,10 @@ Per serving:
 ## Operation
 
 - Cut Lamb Chops into blocks according to bone distribution.
-- Add cold water to wok, put in all lamb chops, blanch for 2-3 minutes after boiling, fish out set aside.
+- Add cold water to wok, put in all lamb chops, blanch for 2-3 minutes after boiling, scoop out set aside.
 - Put blanched lamb chops, cinnamon, peppercorn, star anise, angelica, fragrant leaf, cooking wine into pot (pressure cooker or normal pot).
 - Add drinking water to cover all ingredients. If using pressure cooker, press for 30 minutes after steam comes up. If using normal pot, stew for 80 minutes.
-- Fish out stewed lamb chops, drain moisture, put into oil-free water-free wok / frying pan.
+- Scoop out stewed lamb chops, drain moisture, put into oil-free water-free wok / frying pan.
 - Fry on medium-high heat for 6-7 minutes, until grease in lamb chops is fried out, *surface is golden yellow and crispy*.
 - Keep fried lamb oil in pot, add chili powder, cumin seeds, BBQ sprinkle, cumin powder, white sesame seeds, stir-fry evenly.
 - Add sugar and salt (if not added during stewing), stir-fry evenly.
@@ -63,4 +63,4 @@ Per serving:
 - Frying spices with lamb's own grease makes flavor better.
 - Blanching, stewing, frying processes produce much lamb oil, please do not pour directly into sewer to avoid clogging.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

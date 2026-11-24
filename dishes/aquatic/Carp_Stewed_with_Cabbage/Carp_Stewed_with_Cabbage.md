@@ -1,6 +1,6 @@
 # Carp Stewed with Cabbage
 
-![Carp Stewed with Cabbage](./鲤鱼炖白菜.jpeg)
+![Carp Stewed with Cabbage](./Carp_Stewed_with_Cabbage.jpeg)
 
 Estimated Cooking Difficulty: ★★★
 
@@ -45,10 +45,10 @@ Per serving:
 - Add oil in pot, wait oil hot put "Less Salt" "Ginger" "Garlic" "Pixian Doubanjiang" "Cinnamon" "Star Anise" stir-fry fragrance.
 - Put fish in pot fry (3 minutes) Every (30 seconds) need flip.
 - Add "Water" (Water amount try level with fish, can be a little bit less) Put "Light Soy Sauce" "Dark Soy Sauce" "Baby Cabbage".
-- High heat stew 15-20 minutes, when soup juice almost dry add "Salt" then can out of pot.
+- High heat stew 15-20 minutes, when soup juice almost dry add "Salt" , then remove from heat and serve.
 
 ## Additional Content
 
 - Can also put some Vermicelli, Vermicelli first cold water/hot water, need soak soft, can put together with Baby Cabbage.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

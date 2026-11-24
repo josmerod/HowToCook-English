@@ -22,7 +22,7 @@ Totals:
 
 ## Operation
 
-- Break the green vegetables into small petals, wash clean with clear water, and set aside.
+- Break the green vegetables into small petals, wash thoroughly with clear water, and set aside.
 - After heating the pot over medium or high heat, put 10-15ml cooking oil into the pot. Wait another 30 seconds for the oil temperature to rise.
 - Pour the prepared green vegetables into the pot and stir-fry until the vegetables become soft (about 1 minute).
 - Pour in the calculated clear water, the water level should completely soak or be about to cover the green vegetables, add salt (2g * Servings), and continue to stir-fry for about 1 minute.
@@ -33,4 +33,4 @@ Totals:
 
 Adding white sugar will make the green vegetables greener in color.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

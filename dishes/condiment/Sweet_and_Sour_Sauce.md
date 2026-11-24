@@ -14,7 +14,9 @@ Estimated Cooking Difficulty: ★★
 - Shaoxing Wine (Cooking wine)
 - Light Soy Sauce
 
-## Calculations (Based on the 1:2:3:4:5 ratio)
+## Calculations
+
+Based on the 1:2:3:4:5 ratio:
 
 - Water (50ml)
 - Light Soy Sauce (40ml)
@@ -31,4 +33,4 @@ Estimated Cooking Difficulty: ★★
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

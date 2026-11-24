@@ -37,4 +37,4 @@ Per portion:
 - Be careful with the knife when removing the Oreo filling.
 - Reference: [5-minute Oreo McFlurry](https://www.xiachufang.com/recipe/106178429/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

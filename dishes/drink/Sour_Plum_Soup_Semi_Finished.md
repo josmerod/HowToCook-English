@@ -33,4 +33,4 @@ Refrigeration improves the taste significantly.
 
 **Do not drive after drinking.**
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

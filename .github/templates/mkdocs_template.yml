@@ -1,8 +1,8 @@
-site_name: How To Cook
+site_name: How To Cook (English)
 
 # Repository
-repo_name: Anduin2017/HowToCook
-repo_url: https://github.com/Anduin2017/HowToCook
+repo_name: josmerod/HowToCook-English
+repo_url: https://github.com/josmerod/HowToCook-English
 edit_uri: ""
 
 use_directory_urls: true
@@ -34,7 +34,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material//weather-sunny
+        icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -75,7 +75,7 @@ plugins:
       author: GitHub Community
       copyright: The Unlicense
       cover_title: How To Cook
-      cover_subtitle: 程序员做饭指南
+      cover_subtitle: Programmer's Guide to Cooking
       output_path: document.pdf
   - minify:
       minify_html: true
@@ -85,7 +85,7 @@ nav:
   - Before Cooking:
 {{before}}
   - Recipes:
-    - By Category: # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
+    - By Category: # Requires >=2 nested sections for navigation expansion
 {{main}}
   - Advanced Learning:
 {{after}}

@@ -34,7 +34,7 @@ Per serving:
 - Cut Wild Pickled Pepper into granules, set aside.
 - Cut Coriander into small segments not exceeding 3cm, set aside.
 - Heat pot, put 15ml Cooking Oil into pot, high heat wait 30 seconds to let oil temperature rise.
-- Put in Millet Chili and Wild Pickled Pepper to explode fragrance.
+- Put in Millet Chili and Wild Pickled Pepper to sauté until fragrant.
 - Put in Beef Tenderloin and Celery, then **stir-fry on high heat for 1 minute**.
 - Turn off heat, sprinkle Coriander, dish up.
 
@@ -42,4 +42,4 @@ Per serving:
 
 - During operation, keep high heat throughout.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

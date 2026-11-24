@@ -38,7 +38,7 @@ Remark: Can consider buying [Teaspoon, Tablespoon](https://www.sohu.com/a/127293
 - Slice Onion, smash Garlic, and mix above seasonings set aside.
 - Pour 1 tablespoon Cooking Oil into wok (Wait 10 seconds let oil temperature rise), pour in Pork.
 - Stir-fry until color changes then put Garlic stir-fry fragrant, dish up set aside.
-- Use original wok put Onion stir-fry 3~4 minutes then add seasonings stir evenly.
+- Use original wok put Onion stir-fry 3-4 minutes then add seasonings stir evenly.
 - Put just dished up Pork stir-fry until Pork cooked.
 - After Pork cooked stir-fry another 1, 2 minutes then can dish up.
 
@@ -50,4 +50,4 @@ Remark: Can consider buying [Teaspoon, Tablespoon](https://www.sohu.com/a/127293
 
 - [iCook](https://icook.tw/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

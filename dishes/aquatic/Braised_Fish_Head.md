@@ -8,7 +8,7 @@ Estimated Cooking Difficulty: ★★★★
 ## Essential Ingredients and Tools
 
 - Note: If possible, try to prepare another kitchen knife, cheap and thicker blade kitchen knives are available in supermarkets or markets, blade thickness 5-7mm is best.
-- Large Scallion, Ginger, Garlic, Coriander, Beauty Pepper (美人椒)
+- Large Scallion, Ginger, Garlic, Coriander, Beauty Pepper (mild red chili)
 - Oil, Salt, Chicken Essence, Light Soy Sauce, Dark Soy Sauce, Mature Vinegar, Black Pepper Powder, Cooking Wine
 - Star Anise, Dried Chili
 - One Fish Head
@@ -53,7 +53,7 @@ Note, this dish only has version enough for 2 people to eat.
 
 * Add 30ml Oil, wait for pot to heat...
 * Oil hot, turn pot to low heat.
-  * If don't understand why do this, please view Stir-fry Accessories in [Learning Stir-fry and Pan-fry](../../tips/learn/Learning_Stir_fry_and_Pan_fry.md).
+  * If don't understand why do this, please view Stir-fry Accessories in [Learning Stir-fry and Pan-fry](../../tips/learn/Learning_Stir_Fry_And_Pan_Fry.md).
 * Put in Ginger Slices, slowly stir-fry, standard is when most juice in Ginger Slices fried out and golden yellow.
 * Put in Scallion Segments, stir-fry until Scallion Segments slightly whitish.
 * Put in Garlic, Star Anise, Dried Chili, stir-fry 5 seconds.
@@ -70,4 +70,4 @@ Note, this dish only has version enough for 2 people to eat.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -2,9 +2,9 @@
 
 Tomato Scrambled Eggs is one of the most common home-cooked dishes in China. Its raw materials are easy to collect, and the cooking steps are relatively simple, making it very suitable for new chefs to get started. It is often the first dish many people learn to cook.
 
-Estimated Complexity: ★★
+Estimated Cooking Difficulty: ★★
 
-## Ingredients and Tools
+## Essential Ingredients and Tools
 
 * Tomato
 * Eggs
@@ -26,7 +26,7 @@ Before cooking, determine how many servings you plan to make. One serving is eno
 * Sugar = 0-2g * servings
 * Scallions = 0-10g * servings
 
-## Steps
+## Operation
 
 1. Wash the tomatoes.
 2. **Optional**: Peel the tomatoes.
@@ -55,4 +55,4 @@ This dish has many versions depending on different taste preferences, including 
 * **Soy Sauce Version**:
   - Replace Salt with "a few drops of Soy Sauce".
 
-If you find any issues with this guide or have improvements, please submit an Issue or Pull Request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

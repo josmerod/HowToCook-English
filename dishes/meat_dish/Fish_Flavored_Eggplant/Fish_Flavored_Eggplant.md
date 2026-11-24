@@ -46,7 +46,7 @@ Determine how many servings you plan to make before each production. One serving
     ![Step 2](./yxqz3.jpg)
 
 - Mix Fish Flavor Sauce: Put Salt, MSG, Sugar, Light Soy Sauce, Dark Soy Sauce, Vinegar, Water Starch into bowl stir evenly.
-- Pour 300ml oil into pot, turn low heat (Low heat easy to control), wait oil temperature 70% hot (Low heat about 40 seconds, smoke coming out) put in Eggplant fry two minutes, fish out when Eggplant edge slightly yellow. Excess oil can be dished out for cooking later.
+- Pour 300ml oil into pot, turn low heat (Low heat easy to control), wait oil temperature 70% hot (Low heat about 40 seconds, smoke coming out) put in Eggplant fry two minutes, scoop out when Eggplant edge slightly yellow. Excess oil can be dished out for cooking later.
 
     ![Step 4](./yxqz4.jpg)
 
@@ -67,4 +67,4 @@ Determine how many servings you plan to make before each production. One serving
 - Eggplant depend on personal preference, can peel, Minced Meat can also put more.
 - Reference: [Fish Flavored Eggplant Detailed Steps](https://www.zhms.cn/recipe/kbbrl.html?source=2)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

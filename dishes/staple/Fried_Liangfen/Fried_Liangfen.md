@@ -39,11 +39,11 @@ Below materials are for one person portion, before making each time need to dete
 ## Operation
 
 - Cut Liangfen into Mahjong block size
-- Start low heat, start pot burn oil, after pot burn slightly hot, put in Garlic Minced explode fragrance then add Bean Paste fry out red oil
+- Start low heat, start pot burn oil, after pot burn slightly hot, put in Garlic Minced sauté until fragrant then add Bean Paste fry out red oil
 - Put Liangfen blocks into pot, stir-fry 10 Seconds
 - Add Light Soy Sauce lift flavor, Dark Soy Sauce color, after stir-fry evenly add Chili Powder continue stir-fry evenly
 - Add Salt, Thirteen Spices continue stir-fry 10 Seconds
-- Add prepared Mineral Water, stir-fry 10 Seconds again, wait soup thick, turn off heat out of pot plate
+- Add prepared Mineral Water, stir-fry 10 Seconds again, wait soup thick, turn off the heat and serve plate
 - Sprinkle Scallion Chopped then complete
 
   ![Fried Liangfen Finished Product](./Fried_Liangfen.jpg)
@@ -52,4 +52,4 @@ Below materials are for one person portion, before making each time need to dete
 
 - When choosing Liangfen best choose Liangfen made of Pea Starch, if condition not allow Sweet Potato Starch or others also okay
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

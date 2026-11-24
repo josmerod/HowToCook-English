@@ -1,6 +1,6 @@
 # Lemonade
 
-![Finished Lemonade](./柠檬水.jpg)
+![Finished Lemonade](./Lemonade.jpg)
 
 Estimated Cooking Difficulty: ★
 
@@ -34,4 +34,4 @@ One portion, approx. 500ml:
 
 - Reference: [Lemonade Tutorial](https://v.douyin.com/TVNTcXDi46I)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

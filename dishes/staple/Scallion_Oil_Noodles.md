@@ -58,4 +58,4 @@ Per portion of noodles:
 - When frying the scallion oil, the heat must be low, and you must be patient to fully extract the aroma of the scallions.
 - The prepared scallion oil sauce can be refrigerated for a period of time and used directly the next time you eat noodles.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

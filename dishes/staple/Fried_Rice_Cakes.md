@@ -41,4 +41,4 @@ Total:
 - Selection of Side Ingredients can add according to personal choice discretion, such as adding Lean Meat etc.
 - When cooking Rice Cakes pay attention to stir, avoid sticking pot
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

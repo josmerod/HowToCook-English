@@ -39,4 +39,4 @@ Per portion:
 - You can add other ingredients like dried tofu according to personal taste.
 - Pay attention to the heat during frying to avoid burning the outside while the inside remains raw.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

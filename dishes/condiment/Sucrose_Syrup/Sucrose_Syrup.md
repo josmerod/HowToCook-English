@@ -34,4 +34,4 @@ Recommended ratio => Sugar : Water = 1 : 1. This makes it easy to control the su
 - You can use either cold or hot water. If you are in a hurry, use hot water to dissolve it and then cool it down.
 - Prepared syrup does not spoil easily and can be stored in the refrigerator for at least one week.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

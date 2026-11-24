@@ -67,7 +67,7 @@ GB 28050-2011 stipulates that when food ingredients contain or use hydrogenated 
 
 ### Trans-fatty Acids in Food
 
-According to relevant surveys, the average content of trans-fatty acids in baked goods (cakes, biscuits, bread, etc.), condiments, and fried foods is between 0.30~0.50 g/100g.
+According to relevant surveys, the average content of trans-fatty acids in baked goods (cakes, biscuits, bread, etc.), condiments, and fried foods is between 0.30-0.50 g/100g.
 
 Therefore, don't worry too much—trans-fatty acids in daily food are not enough to harm health. But just in case, when buying snacks, you might as well pay attention to the `Trans Fat` content labeled in the nutrition facts table.
 

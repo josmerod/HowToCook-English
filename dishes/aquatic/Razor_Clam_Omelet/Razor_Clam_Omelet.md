@@ -30,7 +30,7 @@ Per serving:
 
 ## Operation
 
-* Boil water, put Razor Clam into water, boil 2 minutes, fish out remove shell, put into big bowl.
+* Boil water, put Razor Clam into water, boil 2 minutes, scoop out remove shell, put into big bowl.
 * Add Onion, Light Soy Sauce, Cooking Wine, Chicken Essence, Starch into big bowl, stir fully.
 * Break 2 Eggs into big bowl, continue to stir.
 * Heat pot burn oil, pour bowl of Razor Clam, pan-fry until single side golden yellow, flip continue pan-fry.
@@ -45,4 +45,4 @@ Per serving:
 * Fujian cuisine focuses on sweetness, if not used to eating can give up White Sugar.
 * Can judge whether lean meat is fried through by knocking lean meat block with spoon, hearing sound.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -26,7 +26,7 @@ Estimated Cooking Difficulty: ★★★★★
 
 ## Calculations
 
-Determine how many servings you plan to make before cooking. Below is for about 2~3 people.
+Determine how many servings you plan to make before cooking. Below is for about 2-3 people.
 
 - Red Shallots: 25 g
 - Pork Belly with Skin: 500g
@@ -62,7 +62,7 @@ Determine how many servings you plan to make before cooking. Below is for about 
   - During low heat stewing, stir and check every 15 minutes to prevent sticking.
   - If found too dry, add 100ml clear water to continue stewing.
 - After 1 hour, turn on high heat to thicken the sauce until sauce is thick and presents a glossy amber color, done.
-- After stewing ends, serve a bowl of rice, pour soft and rotten braised meat on rice, add braised egg, start enjoying.
+- After stewing ends, serve a bowl of rice, pour melt-in-your-mouth tender braised pork on rice, add braised egg, start enjoying.
 
 ## Additional Content
 
@@ -72,4 +72,4 @@ Determine how many servings you plan to make before cooking. Below is for about 
   - If **frozen pork belly**, can place at **room temperature** for **30 minutes** then cut.
   - When cutting, use less force to rub blade quickly against meat, easier to cut and protect the structure of alternating fat and lean.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

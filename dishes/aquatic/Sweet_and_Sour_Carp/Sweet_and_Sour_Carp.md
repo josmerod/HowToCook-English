@@ -40,7 +40,7 @@ Note, this dish only has 3 people and above version (Too big or too small fish a
 - Put fish into basin, then slice big Ginger, cut Large Scallion into segments (Just chop randomly, mainly need to remove fishy smell).
 - Use strength of sucking milk to squeeze juice in Large Scallion Big Ginger into basin.
 - Add 20g Salt, 25g Cooking Wine, then give Carp a bath, smear evenly.
-- ![Marinate](./腌制.jpg)
+- ![Marinate](./Marinating.jpg)
 
     (Marinating fish longer time, fishy smell smaller, recommend marinate more than 30 minutes)
 
@@ -58,7 +58,7 @@ Note, this dish only has 3 people and above version (Too big or too small fish a
 - High heat heat pot, then pour prepared sauce juice, high heat boil, turn low heat.
 - Add mixed Water Starch, stir while pouring, then turn off heat after 20 seconds.
 - Pour boiled Sweet Sour Juice evenly on fish body, can add some Coriander or Scallion Chopped embellish, Sweet and Sour Carp is done.
-- ![Finished Product](./成品.jpg)
+- ![Finished Product](./Finished_Product.jpg)
 
     Sweet Sour Juice here boiled a bit thick......
 
@@ -66,4 +66,4 @@ Note, this dish only has 3 people and above version (Too big or too small fish a
 
 Difficulty coefficient of this dish counts as medium, not too friendly to beginners......
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

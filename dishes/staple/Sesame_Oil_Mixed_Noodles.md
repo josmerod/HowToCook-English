@@ -29,7 +29,7 @@ Per portion:
 
 ## Operation
 
-* Pour water into the pot and bring to a boil. (Students who like "Q-dan" elastic noodles can add 30g of salt to the water; noodles cooked in salt water are more elastic).
+* Pour water into the pot and bring to a boil. (If you prefer chewy, elastic noodles can add 30g of salt to the water; noodles cooked in salt water are more elastic).
 * Place the instant noodles in the pot for 3 minutes (or refer to the cooking time on the package).
 * When the noodles start to loosen, start stirring so they heat evenly.
 * Drain the water and transfer the noodles to a bowl.
@@ -39,4 +39,4 @@ Per portion:
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

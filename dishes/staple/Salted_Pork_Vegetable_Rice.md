@@ -38,7 +38,7 @@ Per serving:
 - Salted Pork and Winter Bamboo Shoot cold pot put 10 g Lard, Cooking Wine, White Sugar, Medium Low heat stir-fry until transparent bubbling
 - Chop Green Vegetable, vegetable stem and vegetable leaf put separately, stem cut into 0.5 cm side length square small pieces, eaf cut into length 2-3 cm, width 1-1.5 cm rectangular small pieces
 - Vegetable Stem pot fry until emerald color
-- Rice washed clean then pour into rice cooker, add water
+- Rice washed thoroughly then pour into rice cooker, add water
 - Spread fried Salted Pork and Vegetable Stem on Rice
 - Normal rice cooking mode start, last 10 minutes open lid quickly spread in Vegetable Leaf
 - After cooked braise 5 minutes, then pour 5 g Lard, White Pepper Powder crazy flip mix evenly
@@ -49,4 +49,4 @@ Per serving:
 - Try not to buy "Hometown Fresh Pork", expect to be very salty. If not Light Salted Pork can mix in fresh Pork Belly Dice, or reduce Salted Pork usage, or cut down lean meat part soak in 5% sugar water 20 minutes.
 - Reference: [Salted Pork Vegetable Rice - Wikipedia](https://wuu.wikipedia.org/wiki/%E5%92%B8%E8%82%89%E8%8F%9C%E9%A5%AD)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

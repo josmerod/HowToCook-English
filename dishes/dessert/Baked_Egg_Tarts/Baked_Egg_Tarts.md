@@ -1,6 +1,6 @@
 # Baked Egg Tarts
 
-![Baked Egg Tarts](./烤蛋挞.png)
+![Baked Egg Tarts](./Baked_Egg_Tarts.png)
 
 Baked Egg Tarts are a simple dessert to prepare. You can fill the tart shells and keep them in the freezer to bake whenever you like. Estimated preparation time is about **1 hour**.
 
@@ -49,4 +49,4 @@ Filling for one full pack (approx. 30 shells):
 
 - Be careful with the hot oven to avoid burns.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,7 +1,7 @@
 # Chili Oil (You Po La Zi)
 
-![image](./口水鸡+油泼辣子.jpg)
-![image](./油泼辣子.jpg)
+![image](./Mouth_Watering_Chicken_with_Chili_Oil.jpg)
+![image](./Chili_Oil.jpg)
 
 Active preparation time: 10 minutes
 
@@ -59,4 +59,4 @@ Estimated Cooking Difficulty: ★★★
 
 - Adding five-spice powder and cao guo as part of the spice mix significantly increases the depth of aroma.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

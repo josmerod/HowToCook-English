@@ -1,6 +1,6 @@
 # Fermented Rice Wine (Laocao / Jiuniang)
 
-![Finished Jiuniang](./酒酿醪糟.jpeg)
+![Finished Jiuniang](./Fermented_Rice_Wine.jpeg)
 
 Jiuniang, also known as Laocao, is a traditional Chinese fermented sweet dish. The finished product is sweet and slightly boozy (low alcohol content). It has the effect of strengthening the spleen and promoting digestion. Although it requires some fermentation skill, the process is simple and rewarding—a great choice for beginners in fermentation. Estimated active preparation time is 1 hour (plus 2 days of fermentation).
 
@@ -50,6 +50,6 @@ This recipe serves 6-8 people.
 - Common failure causes: high temperature, mixing yeast when rice is too hot, or contamination with oil or water.
 - Can be served warm with tangyuan (rice balls), egg drops, or goji berries. Avoid boiling for too long to preserve the aroma.
 - The liquid can also be used for making rice cakes or as a flavoring for dishes like gyudon or teriyaki.
-![Rice Cake](./酒酿米糕.jpeg)
+![Rice Cake](./Rice_Wine_Cake.jpeg)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -20,7 +20,7 @@ Determine how many servings you plan to make before cooking. One serving is exac
 
 If only 1 person eating, can consider halving ingredients.
 
-- Pork Belly: About 1.5~2 kg (3~4 Jin)
+- Pork Belly: About 1.5-2kg (3-4 Jin)
 - Ginger: 6 slices
 - Rock Sugar: 15g (About 7 lumps)
 - Light Soy Sauce: 10ml
@@ -55,7 +55,7 @@ If only 1 person eating, can consider halving ingredients.
   - `Dark Soy Sauce` 15ml
   - `Cooking Wine` 5ml
   - Stir-fry until colored;
-- Add `Boiled Water` to stew for 40 minutes (Students with poor knife skills who cut too large please consciously lengthen stewing time), and put in
+- Add `Boiled Water` to stew for 40 minutes (If the pork pieces are cut larger, increase the stewing time), and put in
   - `Ginger` 2 slices
   - `Fragrant Leaf` 3 leaves
   - `Star Anise` 2 pieces
@@ -65,4 +65,4 @@ If only 1 person eating, can consider halving ingredients.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

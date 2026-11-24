@@ -56,7 +56,7 @@ One portion is exactly enough for 2-3 people.
 - Add water to cover `Chicken Feet`
 - High heat boil **Midway can fish up floating foam**
 - Water boils **100 degrees, boiling** then wait 10 minutes
-- Turn off heat, fish out, drain dry water, wash clean, put into basin
+- Turn off heat, scoop out, drain dry water, wash thoroughly, put into basin
 
 ### De-boning
 
@@ -86,4 +86,4 @@ This step can be omitted, this step takes about 2 hours
 - When operating, need to pay attention to observe boiling water level line, if found lower than 3/4 of ingredients should add hot water to cover ingredients.
 - Chicken Feet De-boning Tutorial: [bili_89324373958](https://www.bilibili.com/video/BV1t44y117D8?share_source=copy_web)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

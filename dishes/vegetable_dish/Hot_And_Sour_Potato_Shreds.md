@@ -45,4 +45,4 @@ Per serving:
 - Starch must be cleaned thoroughly from potato shreds, otherwise they will all stick together.
 - After adding minced garlic and salt, serve as soon as possible to retain garlic fragrance and avoid destroying the texture.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

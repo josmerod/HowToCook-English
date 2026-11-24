@@ -37,7 +37,7 @@ Per serving:
 - Peel Garlic, minced into garlic puree, set aside.
 - Add 1000 ml drinking water to the pot, bring to a boil over high heat.
 - Put in Enoki Mushrooms, cook for **1-2 minutes**, until Enoki Mushrooms are soft.
-- Fish out the cooked Enoki Mushrooms, drain water, put into a larger bowl, set aside.
+- Scoop out the cooked Enoki Mushrooms, drain water, put into a larger bowl, set aside.
 - In another clean small bowl, add 15 ml Light Soy Sauce, 10 ml Vinegar, 3 g White Sugar (Optional), 5 ml Sesame Oil (Optional).
 - Add minced Garlic.
 - Mix well, make White Sugar fully dissolved, sauce mixed evenly.
@@ -52,4 +52,4 @@ Per serving:
 - The ratio of sauce can be adjusted according to personal taste preferences.
 - If you don't like spicy food, you can omit chili oil.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -51,4 +51,4 @@ Based on portion for 1 person:
 
 The above introduces the basic water steamed egg method. You can derive from this and add ingredients such as ham sausage, meat filling, dried shrimps, etc., to enrich the texture of egg custard.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

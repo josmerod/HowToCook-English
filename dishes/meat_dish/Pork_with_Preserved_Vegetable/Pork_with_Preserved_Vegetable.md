@@ -1,6 +1,6 @@
 # Pork with Preserved Vegetable (Mei Cai Kou Rou)
 
-Pork with Preserved Vegetable has unique shape, elegant and decent, color sauce red oil bright, soup juice sticky delicious, Steamed Pork is fatty but not greasy, soft rotten mellow fragrant when eaten.
+Pork with Preserved Vegetable has unique shape, elegant and decent, color sauce red oil bright, soup juice sticky delicious, Steamed Pork is fatty but not greasy, soft tender mellow fragrant when eaten.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -53,9 +53,9 @@ Per serving:
 
 ## Additional Content
 
-* Discovered during production process, Crispy Pork Belly is really fragrant Orz~
+* Discovered during production process, Crispy Pork Belly is really fragrant Orz.
 * Can remove White Sugar if don't like eating sweet, doesn't affect main flow
 * Second to last step, time can be adjusted according to personal preference
 * Function of frying dry Preserved Vegetable is to absorb oil later (Blind guess)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

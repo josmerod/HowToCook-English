@@ -50,7 +50,7 @@ Using above conditions, calculate planned raw material ratio.
 ### Cooking
 
 * Hot pot cold oil, extra oil in pot.
-* Wait until oil hot, put in Garlic Minced to explode fragrance.
+* Wait until oil hot, put in Garlic Minced to sauté until fragrant.
 * Add marinated Minced Meat, stir-fry, until raw color gone.
 * Add Carrot Minced into Minced Meat stir-fry together, until oil dyed golden yellow (This is to extract Carrot flavor).
 * Turn off heat. Cool 2 minutes.
@@ -61,11 +61,11 @@ Using above conditions, calculate planned raw material ratio.
 * Maintain low heat, until bottom solidifies.
 * Flip pie, continue low heat pan-fry, until other side solidifies.
 * Afterward, each side extra pan-fry 20 seconds.
-* Turn off heat out of pot.
+* turn off the heat and serve.
 
 ## Additional Content
 
 - After adding Minced Meat and Carrot Minced to batter, should try to stir evenly, ensure taste spreads to everywhere inside pie.
 - Minced Meat and Carrot Minced i.e. filling can be substituted with various cooked fillings.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -41,7 +41,7 @@ One portion exactly enough for 2 people to eat.
 
 ## Operation
 
-* Wash Pork Belly with Skin clean put into cold water pot, add 2~3 Ginger slices to remove smell, boil until boiling fish out rinse white foam with cold water
+* Wash Pork Belly with Skin clean put into cold water pot, add 2-3 Ginger slices to remove smell, boil until boiling scoop out rinse white foam with cold water
 * Cut Pork Belly into blocks, size 1.5cm*1.5cm block size
 * Heat pot add oil, add Rock Sugar low heat stir until caramel color, add cut Pork Belly, medium heat stir-fry color
 * Add prepared Ginger slices, Star Anise, Cinnamon, Light Soy Sauce, Dark Soy Sauce, Cooking Wine, Dried Millet Chili, Salt, low heat stir-fry 1 minute, add boiling water to cover meat
@@ -50,4 +50,4 @@ One portion exactly enough for 2 people to eat.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

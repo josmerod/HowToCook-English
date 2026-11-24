@@ -35,7 +35,7 @@ Extra ingredients used for garnish, optional
 - Put egg into pot. Eggs cannot stack on each other, should all be at bottom, and leave space to shake
 - Maintain current temperature **25 Minutes**
 - Prepare a cup of Ice Water
-- Fish out egg, and immediately put into Ice Water, **Wait 3 Minutes**
+- Scoop out egg, and immediately put into Ice Water, **Wait 3 Minutes**
 - Break egg into small bowl, complete production
 
 ## Additional Content
@@ -48,7 +48,7 @@ graph TD
     B --> C[Put in egg, keep water temperature at 70°C for 25 minutes]
     B --> D[Prepare ice water]
     C --> E
-    D --> E[Fish out egg put into ice water, wait 3 minutes]
+    D --> E[Scoop out egg put into ice water, wait 3 minutes]
     E --> F[Break egg into small bowl]
 ```
 
@@ -58,4 +58,4 @@ graph TD
 - Pot can use slightly thick pot, convenient to control temperature
 - Although 70 Degrees Celsius 25 Minutes can already completely kill Salmonella, but still try to eat less, or buy formal edible raw eggs to make
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

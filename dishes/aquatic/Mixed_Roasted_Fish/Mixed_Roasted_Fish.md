@@ -60,7 +60,7 @@ Per serving:
 - Cut Onion into shreds.
 - Roast Fish
   - If have oven at home can brush base oil on baking tray, fish skin downwards, until roast two sides golden yellow, then sprinkle Cumin Powder.
-  - If no oven, can heat pot heat oil, sprinkle 2g Salt on two sides of pot, put in Grass Carp start pan-fry, just put in do not rush to flip, wait one side shape then flip, pan-fry two sides golden yellow, sprinkle Cumin Powder, out of pot load in plate prepare.
+  - If no oven, can heat pot heat oil, sprinkle 2g Salt on two sides of pot, put in Grass Carp start pan-fry, just put in do not rush to flip, wait one side shape then flip, pan-fry two sides golden yellow, sprinkle Cumin Powder, then remove from heat and serve load in plate prepare.
 - Sprinkle 20ml Cooking Oil in pot, wait oil hot, pour Large Scallion Garlic Star Anise Fragrant Leaf stir-fry fragrant.
 - Add half pack of Hot Pot Base and 15-20g Bean Paste, fry out red oil.
 - Add 5g White Sugar, 10g Salt, 5ml Light Soy Sauce season, pour in clear water level with ingredients boil.
@@ -70,11 +70,11 @@ Per serving:
 - Finally sprinkle Cooked Peanuts, Scallion Chopped, White Sesame, Coriander.
 - Boil 5-6 minutes, deliciousness achieved.
 
-![Example Dish Finished](./烤鱼.jpg)
+![Example Dish Finished](./Roasted_Fish.jpg)
 
 ## Additional Content
 
 - Technical Summary: Above
   - Usage amount of Salt, Pepper Powder, Cumin Powder, Cooking Oil, Light Soy Sauce, White Sugar etc. for this dish, decide according to personal taste and ingredient ratio, do not need to strictly follow above amount to do.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

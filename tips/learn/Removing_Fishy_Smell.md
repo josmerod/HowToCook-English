@@ -12,7 +12,7 @@ There are various ways to remove the smell, and flexible choices should be made 
 
 ### Adding Seasonings
 
-Adding seasonings to ingredients is the simplest way to remove the smell. For example, for most dishes using egg liquid ([Steamed Egg Custard](../../dishes/vegetable_dish/Steamed_Egg_Custard.md), [Tomato Scrambled Eggs](../../dishes/vegetable_dish/Tomato_Scrambled_Eggs.md)), you can add salt, cooking wine, vinegar, and other seasonings during the preparation of the egg liquid to remove the smell.
+Adding seasonings to ingredients is the simplest way to remove the smell. For example, for most dishes using egg liquid ([Steamed Egg Custard](../../dishes/vegetable_dish/Steamed_Egg_Custard/Steamed_Egg_Custard.md), [Tomato Scrambled Eggs](../../dishes/vegetable_dish/Tomato_Scrambled_Eggs.md)), you can add salt, cooking wine, vinegar, and other seasonings during the preparation of the egg liquid to remove the smell.
 
 When cooking certain meats, you can add spices such as Sichuan peppercorns, star anise, bay leaves, cinnamon, cumin, and chili to the soup base to remove the smell.
 

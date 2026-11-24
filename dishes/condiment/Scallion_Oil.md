@@ -36,4 +36,4 @@ Estimated Cooking Difficulty: ★★★
 - The crispy scallion and shrimp residue after frying can also be eaten. You can filter the oil or keep the solids according to preference.
 - Dried shrimp (kaiyang) significantly enhances the umami and sweetness of the scallion oil.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

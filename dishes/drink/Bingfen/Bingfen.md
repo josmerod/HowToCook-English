@@ -1,7 +1,7 @@
 # Bingfen (Shi Liangfen / Ice Jelly)
 
-![Bingfen Specimen 1](./石凉粉(冰粉)成品1.jpg)
-![Bingfen Specimen 2](./石凉粉(冰粉)成品2.jpg)
+![Bingfen Specimen 1](./Bingfen_Finished_1.jpg)
+![Bingfen Specimen 2](./Bingfen_Finished_2.jpg)
 
 Shi Liangfen, also known as Bingfen in some regions, is a famous snack from Xinyang, Henan Province. This dish is similar to jelly but is made from natural plants (Nicandra physalodes), making it healthier than common jelly. Served with mint juice, lemon juice, red beans, and other toppings, it is cool and refreshing. It is a local favorite suitable for all ages.
 
@@ -40,4 +40,4 @@ Per portion:
 
 - During the process, pay attention to the color and viscosity changes of the water. If the color is too light or the water is not sticky, it means there are either not enough seeds or they weren't rubbed vigorously enough.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

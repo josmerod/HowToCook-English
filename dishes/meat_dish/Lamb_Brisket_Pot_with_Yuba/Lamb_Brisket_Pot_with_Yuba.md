@@ -59,8 +59,8 @@ Per serving:
 - Peel Onion cut shreds. Can also replace with peeled Shallot, taste better.
 - Cut Small Scallion into about 5cm Scallion Segments
 - Put Lamb Brisket into cold water pot, put 2 - 3 Ginger Slices, pour in cool water, high heat boil until water rolls then turn off heat
-- Fish out Lamb Brisket, put into prepared cold water basin to cool, make it more chewy
-- After pot burns hot put in cold oil, put in 4 - 5 Ginger Slices, Onion/Shallot, Scallion White Segment, 7 - 8 Garlic Cloves to explode fragrance
+- Scoop out Lamb Brisket, put into prepared cold water basin to cool, make it more chewy
+- After pot burns hot put in cold oil, put in 4 - 5 Ginger Slices, Onion/Shallot, Scallion White Segment, 7 - 8 Garlic Cloves to sauté until fragrant
 - Put in cooled Lamb Brisket, stir with chopsticks about 2 - 5 minutes until golden yellow appears
 - Put in mixed Sauce 1, stir-fry about 2 minutes until color uniform
 - Pour in Clear Water until just covering ingredients
@@ -75,4 +75,4 @@ Per serving:
 - This dish belongs to Cantonese cuisine, authentic method usually adds Water Chestnut. Considering everyone has different preferences for Radish and Greens, can also replace with Potato, Radish and other ingredients according to personal taste
 - Reference: [Branch Bamboo Lamb Brisket Pot Lamb Stew with Bean Curd Sheet [by Point Cook Guide]](https://www.youtube.com/watch?v=ThVDpVoToDQ)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

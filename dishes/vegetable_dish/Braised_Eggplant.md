@@ -42,7 +42,7 @@ Totals:
 5. Add starch, add 30 g water, stir evenly.
 6. Crack egg into the basin, add (Flour / 20) g of salt, stir evenly.
 7. Pour eggplant blocks into the batter, stir to ensure every side of the eggplant blocks is coated with batter.
-8. Turn on high heat, heat the pot, add 500 ml of oil. When you can see a wisp of smoke rising from the oil in the pot, turn to low heat, put the eggplant blocks into the oil pot with chopsticks. After all eggplant blocks are in the pot, turn to medium heat, fish out when the eggplant blocks turn golden yellow, and pour out the oil.
+8. Turn on high heat, heat the pot, add 500 ml of oil. When you can see a wisp of smoke rising from the oil in the pot, turn to low heat, put the eggplant blocks into the oil pot with chopsticks. After all eggplant blocks are in the pot, turn to medium heat, scoop out when the eggplant blocks turn golden yellow, and pour out the oil.
 9. Add (Servings * 5) g of oil, put in Garlic, Scallion, stir-fry for 15 seconds, put in Green Chili Pepper blocks stir-fry for 30 seconds, put in Tomato stir-fry for 30 seconds.
 10. Put in fried eggplant blocks, add water to a height of 0.8 times the ingredients in the pot.
 11. Add Soy Sauce and (Servings * 3) g of salt.
@@ -53,4 +53,4 @@ Totals:
 Pay attention to steps 4-6 in the operation:
 Must be executed in order, otherwise there will be catastrophic errors......
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

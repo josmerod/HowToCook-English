@@ -10,7 +10,7 @@ Estimated Cooking Difficulty: ★★★★
 * Cucumber, Gluten Block, Mung Bean Sprouts, Egg, Garlic Clove, Scallion, Starch
 * Basin, Plate
 
-> Suggested purchase plan: On Taobao, Grocery Buying etc. platforms purchase bagged Fresh Rice Noodles, generally sold starting from 1 Jin, refrigerated shelf life can reach two weeks, and send Rice Noodle Stir-fry Seasoning!
+> Suggested purchase plan: On Taobao, Grocery Buying etc. platforms purchase bagged Fresh Rice Noodles, generally sold in 500g (1 Jin) packs or larger, refrigerated shelf life can reach two weeks, and send Rice Noodle Stir-fry Seasoning!
 
 ## Calculations
 
@@ -27,9 +27,9 @@ Estimated Cooking Difficulty: ★★★★
 
 * Green Scallion cut chopped (Separate Scallion White and Scallion Leaf), Garlic Clove smash, throw on chopping board set aside.
 * Beat Egg, fish a bit Egg White into a bowl, throw remaining into another bowl set aside.
-* Put Mung Bean Sprouts into pot, high heat boil 60 Seconds. Fish out Bean Sprouts, pass cold water, put into plate set aside.
+* Put Mung Bean Sprouts into pot, high heat boil 60 Seconds. Scoop out Bean Sprouts, pass cold water, put into plate set aside.
 * Cucumber cut shreds put into plate set aside, can throw together with Bean Sprouts.
-* Process Gluten, throw into a plate alone.
+* Process Gluten, place onto a separate plate.
 * Meat cut thin strips, add Starch and Egg White in bowl just now, Pepper Powder, clockwise mix evenly.
 * Note: Cold Skin purchased from supermarket generally has Cooking Oil on surface, can use tap water wash. Gluten similarly.
 * Note: After washing Gluten, please use hand squeeze out large amount water in Gluten (No need too forceful).
@@ -41,7 +41,7 @@ Estimated Cooking Difficulty: ★★★★
 
 ### Stir-frying Rice Noodles
 
-* While pot hot, add 20g Cooking Oil (Hypertension crowd can lower usage), pour in Scallion White, Garlic explode fragrance.
+* While pot hot, add 20g Cooking Oil (reduce if watching blood pressure), pour in Scallion White, Garlic sauté until fragrant.
 * Add Rice Noodles, drizzle Dark Soy Sauce lift color, stir-fry evenly then add Rice Noodle Seasoning, continue stir-fry.
 * When Rice Noodles about to be transparent, put in Stir-fried Meat Shreds and Gluten, and add Light Soy Sauce lift freshness, simply stir-fry twice.
 * Add Bean Sprouts and Cucumber Shreds, stir-fry until Rice Noodles completely transparent.
@@ -50,10 +50,10 @@ Estimated Cooking Difficulty: ★★★★
 ### Final Step
 
 * Sprinkle Scallion Leaf garnish, lift pot up.
-* Pour into plate, start eating rice.
+* Pour into plate, and serve.
 
 ## Additional Content
 
 Personal taste differs according to region, weather, time, specific usage of seasonings please decide according to personal situation, like chili can add by self.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

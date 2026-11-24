@@ -50,4 +50,4 @@ Use above conditions, calculate planned raw material ratio.
 
 **Chili can only choose Green Pepper, Screw Pepper is optimal solution, do not choose other varieties of pepper!**
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

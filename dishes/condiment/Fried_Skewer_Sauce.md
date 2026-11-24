@@ -41,4 +41,4 @@ Estimated Cooking Difficulty: ★★
 - Do not pour all the hot oil at once; it must be added in stages with stirring.
 - Ingredients can be scaled down proportionally.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

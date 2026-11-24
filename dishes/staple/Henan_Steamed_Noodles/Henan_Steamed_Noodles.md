@@ -74,7 +74,7 @@ Per serving:
 ### Second Steaming
 
 - Start pot, add Cold Water 70%, put on Steamer Grate, spread mixed Noodles and Vegetables evenly on top
-- After water boils, high heat burn 15 Minutes, out of pot
+- After water boils, high heat burn 15 Minutes, then remove from heat and serve
 - Drizzle 10g Sesame Oil, then edible
 
 ## Additional Content
@@ -84,4 +84,4 @@ Thickness and Texture of Fine Dried Noodles:
 - Thin, Round (Supermarket mostly are this kind, texture more chewy)
 - Wide, Flat (Texture relatively soft)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -52,4 +52,4 @@ Per portion:
 - This is a very simple dish. The process might be a bit tedious, but it's very satisfying when you mix the vegetables, meat, rice, and sauce together.
 - If you care about the appearance, you can use a stone pot (dolsot) instead of a regular bowl.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

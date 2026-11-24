@@ -23,7 +23,7 @@ Estimated Cooking Difficulty: ★★★
 
 - Chicken = Half (Local chicken/Free-range chicken is best, estimated 650g)
 - Cooking Oil = 50ml (Tea oil is best, rapeseed oil if not available)
-- Ginger = Half Jin (250g)
+- Ginger = 250g (0.5 Jin)
 - Beer = Half bottle (250ml)
 - Light Soy Sauce = 20ml
 - Dark Soy Sauce = 10ml
@@ -45,4 +45,4 @@ Estimated Cooking Difficulty: ★★★
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

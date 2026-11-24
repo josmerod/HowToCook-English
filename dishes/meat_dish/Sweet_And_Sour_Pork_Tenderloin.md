@@ -40,7 +40,7 @@ Per serving:
 - Mix Sauce: Ketchup + 10g Vinegar + 30g White Sugar + 150ml Clear Water, stir until sugar melts, set aside.
 - Coat Powder: Coat all powder before frying, so you won't be in a rush when frying. Prepare a large bowl, put Starch inside, coat every meat strip fully with Starch.
 - Frying: Heat oil to 160 degrees Celsius, put in tenderloin. You can use a dry chopstick to test in oil, if small bubbles appear around it, then can put in pot.
-- Fry until surface is slightly yellow then fish out, maintain medium heat throughout. Then wait for oil temperature to rise to 200 degrees Celsius, pour tenderloin in to re-fry once, only need 40 seconds, skin will be very crispy, fish out immediately.
+- Fry until surface is slightly yellow then scoop out, maintain medium heat throughout. Then wait for oil temperature to rise to 200 degrees Celsius, pour tenderloin in to re-fry once, only need 40 seconds, skin will be very crispy, scoop out immediately.
 - Coat Sauce: Take another pot, put bottom oil in pot, pour mixed sauce in, boil until bubbling, put fried tenderloin in, stir-fry, let every strip be coated with sauce.
 - Put in fried tenderloin to stir-fry, turn off heat and serve.
 
@@ -50,4 +50,4 @@ Per serving:
 - [Xiachufang](https://www.xiachufang.com/recipe/104483435/)
 - [Baidu Baike](https://baike.baidu.com/item/%E7%B3%96%E9%86%8B%E9%87%8C%E8%84%8A/135832)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

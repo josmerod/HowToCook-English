@@ -35,7 +35,7 @@ In above content, ratio of Green Vegetables, Boneless Meat, Dried Tofu, Beijing 
 8. Put in blanched Green Vegetables, change medium heat, stir-fry 3 minutes.
 9. Put in blanched Boneless Meat, stir-fry 3 minutes.
 10. Put in boiled Beijing Spicy Instant Noodles, use chopsticks flip 1 minute.
-11. Turn off heat, out of pot.
+11. turn off the heat and serve.
 
 ## Additional Content
 
@@ -44,4 +44,4 @@ Explanation about fire control:
 - High heat usually temperature at 240 Celsius, taking induction cooker as example, input power about 2 kW.
 - Medium heat usually temperature at 120 Celsius, taking induction cooker as example, input power about 1.4 kW.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

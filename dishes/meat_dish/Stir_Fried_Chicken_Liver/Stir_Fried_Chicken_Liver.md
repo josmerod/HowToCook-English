@@ -49,11 +49,11 @@ Per serving:
 - **Step 1: Blanching**
   - Put washed Chicken Liver into pot, add cold water to submerge Chicken Liver, put in 100g Scallion segments, 70g Ginger slices and 30ml Cooking Wine.
   - Turn on high heat, wait for water to boil then turn to medium heat, skim off floating foam then **wait for 5-10 minutes**.
-  - Turn off heat, fish out and pass through cold water and wash clean.
-  - After washing clean, cut into slices, set aside.
+  - Turn off heat, scoop out and pass through cold water and wash thoroughly.
+  - After washing thoroughly, cut into slices, set aside.
 - **Step 2: Stir-frying**
   - Turn on medium heat. Add 30ml Cooking Oil into pot, wait 10 seconds for oil to heat up.
-  - Add 50g Scallion slices and 50g Ginger cubes, stir-fry to explode fragrance.
+  - Add 50g Scallion slices and 50g Ginger cubes, stir-fry to sauté until fragrant.
   - After fragrance comes out, add sliced Chicken Liver, stir-fry until slightly yellow.
   - Add Garlic Sprout, stir-fry for 30 seconds, turn to low heat after breaking rawness.
   - Add seasonings:
@@ -70,4 +70,4 @@ Per serving:
 - When blanching, pay attention to observe boiling water level, do not let water overflow to avoid danger.
 - Suggest washing blanched Chicken Liver with cold water, ice water is even better, making texture better.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

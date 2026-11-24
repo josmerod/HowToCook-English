@@ -26,7 +26,7 @@ Per serving:
 
 - Cut Pork Belly Strips along long side into slices, each slice thickness 1mm-1.5mm, set aside
 - Put cut Pork Belly into bowl, sequentially add 8g Soy Sauce, 1g Salt, 1g MSG, 10g Cooking Wine, two Ginger slices, two smashed Garlic cloves marinate 10 minutes
-- Tear off Lettuce leaves directly by hand, wash clean, set aside
+- Tear off Lettuce leaves directly by hand, wash thoroughly, set aside
 - Heat pot, pour 5ml Cooking Oil. After oil slightly smokes put in Pork Belly. Single side fry until scorched yellow then flip, other side same reasoning.
 - After Pork Belly out of pot, plate.
 - Smear Bean Paste on vegetable leaf, roll Pork Belly to eat
@@ -35,4 +35,4 @@ Per serving:
 
 - Operate carefully, be careful of being scalded by splashed oil
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

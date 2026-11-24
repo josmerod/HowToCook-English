@@ -33,7 +33,7 @@ Per serving:
 ## Operation
 
 - Put Rice and Water into rice cooker, click rice mode, wait complete
-- Put Frozen Corn Kernels and Green Peas into pot, add water cover all ingredients, after boiling wait 2 Minutes, fish out.
+- Put Frozen Corn Kernels and Green Peas into pot, add water cover all ingredients, after boiling wait 2 Minutes, scoop out.
 - Cut Ham into 1cm cubes
 - Meanwhile, add 10ml Cooking Oil, add Ham stir-fry until Ham colored
 - Put Rice, Ham, Seaweed Shreds, Green Peas, Corn Kernels, Salad Dressing into bowl, mix evenly is enough
@@ -45,4 +45,4 @@ Per serving:
 - Can try mixing Salad Dressing.
 - Reference: Xiaohongshu - Rice Eater Is Sleepy Again
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

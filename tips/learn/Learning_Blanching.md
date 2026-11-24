@@ -17,7 +17,7 @@ Boiling water blanching involves heating the water in the pot and then putting t
 This method is mostly used for plant-based raw materials, such as celery, spinach, lettuce, etc. When blanching, pay special attention to the heat. If the time is slightly longer, the color will fade, and it will not be crisp or tender. Therefore, after putting into the pot, take them out and let them cool when the water boils slightly.
 
 - Leafy vegetable raw materials should be blanched first and then cut into slices to avoid excessive loss of nutrients.
-- When blanching, there should be plenty of water and a strong fire so that the pot can boil in time after the raw materials are put in; when blanching green leafy vegetables, they should be fished out as soon as they roll slightly.
+- When blanching, there should be plenty of water and a strong fire so that the pot can boil in time after the raw materials are put in; when blanching green leafy vegetables, they should be scooped out as soon as they roll slightly.
 - Vegetable raw materials should be cooled and drained immediately after blanching to avoid yellowing and rotting due to residual heat.
 - When blanching vegetables, you can add an appropriate amount of salad oil such as peanut oil, corn oil, or soybean oil to maintain the emerald green color.
 

@@ -57,6 +57,6 @@ Based on following reasons, need to add Pork Belly in Braised Carp:
 
 - Pork Belly produces lard when stir-fried, compared to vegetable oil, animal fat is more fragrant.
 - Fried golden Pork Belly also tastes very fragrant after stewing, equivalent to side dish.
-- Fish itself has less fat content, so lacks fragrance, focuses on texture of meat. So generally doing fish dishes suggest using lard, want a pot of milky white fragrant rich fish soup. Lard is best choice~
+- Fish itself has less fat content, so lacks fragrance, focuses on texture of meat. So generally doing fish dishes suggest using lard, want a pot of milky white fragrant rich fish soup. Lard is best choice.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

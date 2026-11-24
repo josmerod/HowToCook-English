@@ -66,8 +66,8 @@ Per serving:
 ## Operation
 
 - Cut Potato into cubes with each side 3 cm, Green/Red Pepper cut into diamond slices with side length 4 cm, Onion cut into 3 cm wide crescent petals, Rice Cake cut into 1 cm thick slices.
-- Cut Crab into 50-80 g blocks, coat thin starch, 180 °C oil temperature fry 1 minute fish out.
-- Put oil in pot, Garlic Ginger Dried Chili explode fragrance, put all sauces + Rock Sugar low heat fry out red oil, note don't burn bottom.
+- Cut Crab into 50-80 g blocks, coat thin starch, 180 °C oil temperature fry 1 minute scoop out.
+- Put oil in pot, Garlic Ginger Dried Chili sauté until fragrant, put all sauces + Rock Sugar low heat fry out red oil, note don't burn bottom.
 - Add Crab, Potato, Beer and Clear Water, boil turn low heat stew 12 minutes.
 - Put Rice Cake and Green Red Pepper, turn high heat collect juice until soup juice can attach to item surface, finally sprinkle White Pepper Powder.
 
@@ -84,4 +84,4 @@ Per serving:
 - Rice Cake after slicing soak cold water, rinse before entering pot not easy to stick pot, after entering pot put on surface, sinking to pot bottom easy to burn pot.
 - If pinched by crab or scalded, first flush with cold water 15 minutes, if serious see doctor in time, if wound relatively deep must see doctor.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

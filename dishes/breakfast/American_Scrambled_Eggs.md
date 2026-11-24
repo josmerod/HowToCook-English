@@ -1,7 +1,7 @@
 
 # American Scrambled Eggs
 
-American Scrambled Eggs has soft tender texture, different from usual scrambled eggs, American Scrambled Eggs added small amount of milk, making egg flower more fine dense uniform, and rich in nutrition~
+American Scrambled Eggs has soft tender texture, different from usual scrambled eggs, American Scrambled Eggs added small amount of milk, making egg flower more fine dense uniform, and rich in nutrition.
 
 Estimated Cooking Difficulty: ★★
 
@@ -34,4 +34,4 @@ Per serving:
 - Use Flat-bottom Pan (Non-stick Pan).
 - Considering many people are eating alone just fry one or two eggs, small caliber pot might be more convenient to stir evenly in pot.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

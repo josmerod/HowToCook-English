@@ -1,6 +1,6 @@
 # Thai "Hand Brand" Black Tea (Thai Milk Tea)
 
-![Finished Thai Milk Tea](./泰国手标红茶.jpg)
+![Finished Thai Milk Tea](./Thai_Hand_Brand_Black_Tea.jpg)
 
 Thai "Hand Brand" Black Tea is the milk tea seen everywhere on the streets of Thailand, known for its pure and creamy taste.
 
@@ -40,4 +40,4 @@ Per portion:
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

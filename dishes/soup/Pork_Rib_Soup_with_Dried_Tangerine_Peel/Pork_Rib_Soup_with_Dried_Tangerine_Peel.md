@@ -50,4 +50,4 @@ Per portion:
 The stewing pot is very hot; be careful not to burn yourself or drop it.
 Cantonese "Old Fire" Slow-Cooked Soup emphasizes ingredients and heat (control of time). Once the ingredients are prepared and simmered for the required time, it is considered successful!
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

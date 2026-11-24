@@ -69,4 +69,4 @@ Per serving:
 - During operation, be careful when taking out the Winter Melon Stuffed Meat as the plate is very hot.
 - Reference: [Bilibili Video](https://www.bilibili.com/video/BV1oF411F7wD?spm_id_from=333.337.search-card.all.click&vd_source=9f568660d497311d3f945e5dce319705)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -63,4 +63,4 @@ Stir well before enjoying.
 
 If you don't have or prefer not to use jasmine green tea, you can substitute it with soda water to skip the tea brewing process.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

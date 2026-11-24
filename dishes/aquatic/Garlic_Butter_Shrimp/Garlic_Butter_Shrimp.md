@@ -31,7 +31,7 @@ Per serving:
 
 ## Operation
 
-- Remove head and shell of prawns keep tail, use toothpick pick out shrimp line, wash clean then use kitchen paper absorb dry water.
+- Remove head and shell of prawns keep tail, use toothpick pick out shrimp line, wash thoroughly then use kitchen paper absorb dry water.
 - Chop Garlic into garlic mince, set aside.
 - Medium heat heat flat-bottom pan, put in 10ml Olive Oil.
 - After oil hot put in prawns, pan-fry each side 1-1.5 minutes until color change, take out set aside.
@@ -45,4 +45,4 @@ Per serving:
 
 - Shrimp not suitable for over-cooking, otherwise will become hard.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -46,4 +46,4 @@ For one portion, about 900ml (including ice):
 
 The "Cola Bucket" masks the taste of whiskey with ice and cola, which can lead people—especially those with low alcohol tolerance—to consume excessive amounts without realizing it. Please mix and consume responsibly.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

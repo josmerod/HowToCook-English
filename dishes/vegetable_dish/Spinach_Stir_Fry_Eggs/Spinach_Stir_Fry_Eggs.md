@@ -24,7 +24,7 @@ For 1 person portion:
 
 ## Operation
 
-- Remove spinach roots, wash clean, put in a basket, and blanch.
+- Remove spinach roots, wash thoroughly, put in a basket, and blanch.
 - Crack eggs into a bowl and mix well.
 - Heat the pan, add 10ml oil.
 - After the oil is hot, pour in the egg liquid, stir-fry over medium heat for 15 seconds, first fry into an egg pancake, then cut into small pieces with a spatula.
@@ -35,4 +35,4 @@ For 1 person portion:
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

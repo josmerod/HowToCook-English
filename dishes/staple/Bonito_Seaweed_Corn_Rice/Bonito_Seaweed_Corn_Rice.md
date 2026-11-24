@@ -29,4 +29,4 @@ Estimated Cooking Difficulty: ★★
 
 - If using a small rice cooker to cook Northeast rice, the water should cover the rice by about 3mm. Too much water will result in mushy rice rather than separate grains.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

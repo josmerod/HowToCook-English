@@ -1,7 +1,7 @@
 
 # Pan-fried Topmouth Culter
 
-![Pan-fried Topmouth Culter](./香煎翘嘴鱼.jpeg)
+![Pan-fried Topmouth Culter](./Pan_Fried_Topmouth_Culter.jpeg)
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -51,7 +51,7 @@ Per serving:
 - When both sides fried well, push fish to pot edge a bit, leave some space put in Bean Paste stir-fry fragrance, put in Ginger Garlic.
 - After frying out condiment fragrance, add Cooking Wine, Light Soy Sauce, Dark Soy Sauce, pour in hot water, water amount level with fish or a bit less.
 - At this time change medium high heat, boil 5-10 minutes, then put in Green Pepper segments, White Sugar, Chicken Essence, Thirteen Spices, Mature Vinegar.
-- Change low heat 2-5 minutes, put in Scallion, Coriander, can out of pot.
+- Change low heat 2-5 minutes, put in Scallion, Coriander, remove from heat and serve.
 
 ## Additional Content
 
@@ -60,4 +60,4 @@ Per serving:
 - After putting in Green Pepper segments pay attention observe cooked degree, Green Pepper inside very delicious, in addition Coriander put last.
 - Pay attention to switch of heat, Bean Paste, White Sugar freshness adjusting effect, and Mature Vinegar fragrance increasing effect.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

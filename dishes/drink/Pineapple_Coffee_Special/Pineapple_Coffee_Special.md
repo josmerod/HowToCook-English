@@ -1,6 +1,6 @@
 # Pineapple Coffee Special
 
-![Finished Product](./菠萝咖啡特调.png)
+![Finished Product](./Pineapple_Coffee_Special.png)
 
 The Pineapple Coffee Special is a sweet and sour drink perfect for home making.
 
@@ -47,4 +47,4 @@ Per portion:
 - When pouring the cream, keep the height as low as possible so the cream floats evenly on the surface to form a "milk cap."
 - Using fresh coffee and pineapple juice will greatly improve the overall flavor.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

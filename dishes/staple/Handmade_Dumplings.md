@@ -1,6 +1,6 @@
 # Handmade Dumplings
 
-Dumplings is one of very delicious staple foods. Satiating and easy to season according to own taste, suitable for students in US who cannot eat boiled dumplings to satisfy craving. Generally beginner needs 3 hours to complete, difficulty relatively large.
+Dumplings is one of very delicious staple foods. Satiating and easy to season according to own taste, great for beginners and busy cooks in US who cannot eat boiled dumplings to satisfy craving. Generally beginner needs 3 hours to complete, difficulty relatively large.
 
 Estimated Cooking Difficulty: ★★★★★
 
@@ -68,7 +68,7 @@ Per serving:
 - Boil water, water about 3/4 pot height
 - After high heat boil water put in dumplings, adjust to medium heat
 - First time put in dumplings, and water bubbles, add 50ml Cold Water at pot edge (Repeat this step twice)
-- After third time water boils add Cold Water 50ml, after water boils adjust to low heat wait 60s then can out of pot
+- After third time water boils add Cold Water 50ml, after water boils adjust to low heat wait 60s , then remove from heat and serve
 
 ## Additional Content
 
@@ -85,7 +85,7 @@ Extra add following materials:
 
 * Consider pairing Black Vinegar to eat. Suggested usage: 10-20ml.
 * Consider Ginger cut shreds, add 20ml Black Vinegar and Ginger Shreds in small bowl stir as dipping sauce, flavor richer.
-* Consider adding 1~3 drops Sesame Oil when pairing Black Vinegar, stir as dipping sauce.
+* Consider adding 1-3 drops Sesame Oil when pairing Black Vinegar, stir as dipping sauce.
 * Consider adding smashed Garlic Paste when pairing Black Vinegar, stir as dipping sauce. (Simple Garlic smell will remain in mouth, if need face to face talk with others after meal suggest give up or clean mouth)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

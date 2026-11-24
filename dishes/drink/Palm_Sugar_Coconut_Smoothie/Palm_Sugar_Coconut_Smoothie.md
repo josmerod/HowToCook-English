@@ -1,6 +1,6 @@
 # Palm Sugar Coconut Smoothie
 
-![Smoothie Image](砂糖椰子冰沙-1.jpg)
+![Smoothie Image](./Palm_Sugar_Coconut_Smoothie_1.jpg)
 
 The Palm Sugar Coconut Smoothie is an extremely fast and convenient drink to make. If the ingredients are chosen correctly, it offers a rich texture. It makes some noise during preparation, so it's best made during the day as an afternoon tea.
 
@@ -34,4 +34,4 @@ Per portion:
 
 - Bottled coconut milk can be frozen in advance, but it should not be stored for more than 7 days as it may spoil.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

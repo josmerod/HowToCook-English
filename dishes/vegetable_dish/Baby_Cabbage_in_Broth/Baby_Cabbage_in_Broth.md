@@ -31,7 +31,7 @@ Note: This dish only has a version sufficient for 2-4 people.
 - Cut 3g scallion into small sections. Cut 10g garlic into slices. Cut 10g ginger into small slices.
 - Cut the Century Egg into dices, cut the Ham Sausage or Luncheon Meat into dices (1cm size).
 - Wash and tear apart the Enoki Mushrooms.
-- Boil hot water, put the Baby Cabbage in for ten seconds to blanch, then fish out.
+- Boil hot water, put the Baby Cabbage in for ten seconds to blanch, then scoop out.
 - Heat the pot with cold oil, heat slightly then pour out the oil (to coat the pot), then pour in a little fresh oil.
 - Turn to low heat, add scallion, ginger, and garlic, fry until fragrant.
 - Add about 300g clear water (enough to cover the Baby Cabbage), put in Baby Cabbage, Enoki Mushrooms, and Luncheon Meat.
@@ -44,4 +44,4 @@ Note: This dish only has a version sufficient for 2-4 people.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

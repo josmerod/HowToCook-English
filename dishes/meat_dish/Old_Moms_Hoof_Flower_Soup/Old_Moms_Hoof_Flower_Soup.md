@@ -2,7 +2,7 @@
 
 ![result 3](./result3.jpg)
 
-Red Braised Pork Trotters are rich in nutrition, delicate texture, soft and rotten off the bone, simply too fragrant with sour and spicy juice!
+Red Braised Pork Trotters are rich in nutrition, delicate texture, fall-off-the-bone tender, simply too fragrant with sour and spicy juice!
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -44,7 +44,7 @@ Estimated Cooking Difficulty: ★★★★
 
 - Soak 200g White Kidney Beans in clear water one night in advance set aside
 - Prepare Pork Fore Trotters, ask master to split from middle when buying vegetables, use blowtorch to remove hair follicles, take home to clean
-- Add Pork Trotters, scallion segments, ginger slices, cooking wine to cold water pot, blanch for ten minutes, skim off floating foam, fish out wash clean set aside
+- Add Pork Trotters, scallion segments, ginger slices, cooking wine to cold water pot, blanch for ten minutes, skim off floating foam, scoop out wash thoroughly set aside
 - Put Pork Trotters, Angelica Sinensis, Angelica Dahurica, White Pepper Powder, Ginger Slices into pressure cooker, press for thirty minutes after steam comes up, put in White Kidney Beans, press for another ten minutes, at this time if soup base is milky white, then congratulations it is correct (If need to add water midway, can only add hot water)
 
 ![result1](./result1.jpg)
@@ -56,4 +56,4 @@ Estimated Cooking Difficulty: ★★★★
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,6 +1,6 @@
 # Pan Fried Argentine Red Shrimp
 
-![Example Dish Finished](./干煎阿根廷红虾.jpg)
+![Example Dish Finished](./Pan_Fried_Argentine_Red_Shrimp.jpg)
 
 Usually seen shrimps, only turn red after going through "soup" and "fire"! Argentine shrimp is very willful, once red stays red for whole life! Like its relative living in North Pole, Northern Prawn, born red.
 
@@ -56,4 +56,4 @@ Estimated Cooking Difficulty: ★★★
 - Lemon can improve shrimp texture, but acidic, can add according to preference, can also not use.
 - Eat while hot.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

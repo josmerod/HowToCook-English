@@ -30,7 +30,7 @@ Per serving:
 
 - Ask boss if sausage is raw or cooked before buying. If raw, need to steam in advance. If cooked, can use directly.
 
-- Wash Snow Peas, then blanch in water for about 45s, until Snow Peas change color, fish out and pass through cold water set aside.
+- Wash Snow Peas, then blanch in water for about 45s, until Snow Peas change color, scoop out and pass through cold water set aside.
 
 - Heat pot, put about 10ml Cooking Oil in pot. Wait 10 seconds for oil temperature to rise.
 
@@ -45,4 +45,4 @@ Per serving:
 - Did not put salt in production process because Sausage itself has some taste, and Light Soy Sauce also has some saltiness.
 - Although Sausage tastes good, it belongs to not very healthy food, suggest adding less.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

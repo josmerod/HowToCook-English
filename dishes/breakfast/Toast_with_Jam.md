@@ -29,4 +29,4 @@ Two minutes quick done, operation very simple, taste very delicious, very suitab
 
 Toaster generally not exceed one hundred yuan, Toast go downstairs supermarket or Meituan grocery shopping deliver to door, generally one bag ten yuan eight slices, shelf life relatively short, very clean hygienic.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

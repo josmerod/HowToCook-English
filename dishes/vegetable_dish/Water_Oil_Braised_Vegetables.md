@@ -33,4 +33,4 @@ Leafy vegetables contain a lot of water and may look bulky when preparing. In fa
 * You can use chicken broth, bone broth, etc., instead of water, it tastes better.
 * Do not braise for too long.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -32,4 +32,4 @@ Per person:
 - This is the method used in eastern Henan. In other regions, salt may be used instead of sugar; adjust according to personal preference.
 - This soup is a great remedy for "excessive internal heat" (Qu Huo)!
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

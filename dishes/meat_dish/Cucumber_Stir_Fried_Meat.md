@@ -35,9 +35,9 @@ Total Amount:
 * Cut Millet Chili into uniform 0.5 cm segments
 * Heat pot, pour oil 40 g, wait oil temperature smoke, put in Garlic Mince Millet Chili stir-fry 5 times
 * Put in marinated Pork Lean Meat, stir-fry until meat cooked change color
-* Put in Cucumber, add Salt 2 g, high heat stir-fry evenly half minute, out of pot
+* Put in Cucumber, add Salt 2 g, high heat stir-fry evenly half minute, then remove from heat and serve
   * If cannot guarantee high heat, might be a bit raw. Can consider increasing to 50 seconds.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

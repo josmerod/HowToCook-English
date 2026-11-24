@@ -50,4 +50,4 @@ Per serving:
 - Pixian Bean Paste salt content relatively high, can reduce Light Soy Sauce amount appropriately according to taste
 - Can add 0.5g White Pepper Powder to season, flavor better
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

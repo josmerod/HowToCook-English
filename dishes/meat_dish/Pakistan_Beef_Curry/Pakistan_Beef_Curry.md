@@ -36,7 +36,7 @@ Required side dishes for 1kg Beef:
 - Cut all Screw Peppers into segments, set aside.
 - Blend all Tomatoes into tomato puree, set aside.
 ![Tomato Puree](./Tomato_Puree.png)
-- Cut Beef into 2cm small blocks, wash clean set aside.
+- Cut Beef into 2cm small blocks, wash thoroughly set aside.
 ![Beef](./Beef.png)
 - Pour a layer of oil into wok (To prevent tomato puree from evaporating while boiling).
 ![Oil](./Oil.png)
@@ -56,4 +56,4 @@ Required side dishes for 1kg Beef:
 - Usually eaten with Roti, Naan or Rice.
 - If want to make Chicken karahi, process is almost same, except first fry chicken with oil and various peppers until yellow.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

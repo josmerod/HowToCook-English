@@ -36,4 +36,4 @@ Per serving:
 - Raw material Instant Noodles can buy at convenience store downstairs
 - Can add seasoning according to personal need, and other ingredients include but not limited to: Ham Sausage, Lettuce, Small Meat Shreds, Spicy strip, Dried Fish, Shrimp Meat, Chicken Leg
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

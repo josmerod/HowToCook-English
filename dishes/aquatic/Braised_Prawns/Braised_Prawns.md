@@ -23,7 +23,7 @@ Version for 1 person eating.
 
 ## Operation
 
-- Cut shrimp gun to root, cut off shrimp whisker shrimp claw, pick out sand bag, open back pick out shrimp line, wash clean set aside.
+- Cut shrimp gun to root, cut off shrimp whisker shrimp claw, pick out sand bag, open back pick out shrimp line, wash thoroughly set aside.
 - Fry Material Oil
   - Oil temperature 30% hot put Sichuan Peppercorn, oil hot remove from fire, put Scallion Ginger (Best not let oil change color) Scallion slightly yellow drain oil (Scallion Oil if made too much can keep for mixing noodles).
 - Put oil, arrange shrimp neatly, after two sides change color gently press shrimp head.
@@ -44,4 +44,4 @@ Version for 1 person eating.
 
 - Method Reference: Bilibili Lao Fan Gu Video [Is Braised Prawns eaten since childhood actually fake? Master level master restores true taste](https://www.bilibili.com/video/BV17f4y1W7z9)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

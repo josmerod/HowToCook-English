@@ -42,4 +42,4 @@ Per serving:
     - Inner Layer: 55°C→30°C
 - Nutritional Advantage: Polyphenol content 23% higher than traditional boiling method
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

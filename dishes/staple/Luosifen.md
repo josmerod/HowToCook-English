@@ -45,4 +45,4 @@ Estimated Cooking Difficulty: ★
 - If you want to add a fried egg to the Luosifen, please refer to the fried egg tutorial.
 - Choose your side ingredients according to your personal taste.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

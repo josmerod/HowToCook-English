@@ -1,6 +1,6 @@
 # Butter Pan-fried Shrimp
 
-![Example Dish Finished](./黄油煎虾.jpg)
+![Example Dish Finished](./Butter_Pan_Fried_Shrimp.jpg)
 
 Butter Pan-fried Shrimp is a dish relatively simple to make, flavor excellent, main time consumption lies in processing live shrimp, total time consumption within one hour, suitable for beginners to cook.
 
@@ -43,4 +43,4 @@ Per serving:
 - Shrimp open back only better absorb flavor, but remember remember be careful use knife when processing, beginner easy to hurt hand.
 - [Feng Xiaochu's Recipe](https://www.bilibili.com/video/BV1g541177cd)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -51,7 +51,7 @@ One serving is exactly enough for 3-4 people.
 ### Start Making
 
 * Cut Radish into rolling blocks (irregular chunks), set aside.
-* Blanch whole Beef Brisket, add 2 Ginger slices and a Scallion knot, boil for 5-10 minutes after water boils, then fish out and cut into pieces.
+* Blanch whole Beef Brisket, add 2 Ginger slices and a Scallion knot, boil for 5-10 minutes after water boils, then scoop out and cut into pieces.
 * Cut Beef Brisket into pieces of size you like (Beef Brisket has been blanched, it won't shrink much when braising later, large pieces will take longer to braise).
 * Prepare sauce for braising Beef Brisket, mix Red Fermented Bean Curd, Chu Hou Paste, Soy Sauce, Oyster Sauce, Sugar, Salt according to amounts above (If ran out of Rock Sugar, White Sugar is fine).
 * Heat pot and add oil, explode Ginger and Garlic until fragrant, put in Beef Brisket, stir-fry until dry, add mixed sauce, stir-fry until fragrant. If you like darker color, add a little Dark Soy Sauce to color.
@@ -62,4 +62,4 @@ One serving is exactly enough for 3-4 people.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -2,7 +2,7 @@
 
 ![Finished Product](./1.jpeg)
 
-This is a dish created referencing Mapo Tofu. Rich in Iron, Calcium, Phosphorus, Magnesium etc. human body essential multiple trace elements, most importantly very appetizing~
+This is a dish created referencing Mapo Tofu. Rich in Iron, Calcium, Phosphorus, Magnesium etc. human body essential multiple trace elements, most importantly very appetizing.
 
 Estimated Cooking Difficulty: ★★★
 
@@ -53,4 +53,4 @@ Estimated Cooking Difficulty: ★★★
 
 - Must pay attention to observe during period, prevent burning pot
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

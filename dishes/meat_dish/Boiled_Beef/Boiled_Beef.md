@@ -70,7 +70,7 @@ This is amount for one serving:
 
 ![Boiled Beef](./sznr8.jpg)
 
-- Put Beef slices one by one into Red Soup, fish out after cooked.
+- Put Beef slices one by one into Red Soup, scoop out after cooked.
 
 ![Boiled Beef](./sznr9.jpg)
 
@@ -90,4 +90,4 @@ This is amount for one serving:
 
 - Reference: [Detailed Steps of Boiled Beef](https://www.zhms.cn/recipe/blrqm.html?source=2)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

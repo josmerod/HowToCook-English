@@ -46,4 +46,4 @@ Per portion:
 
 - When adding boiling water, be sure to use high heat to help the fat and broth blend better.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

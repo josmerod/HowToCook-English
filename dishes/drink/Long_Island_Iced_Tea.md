@@ -53,4 +53,4 @@ Long Island Iced Tea contains no tea but has the appearance and taste profile of
 
 Reference: [IBA: Long Island Iced Tea](https://iba-world.com/long-island-ice-tea/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

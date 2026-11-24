@@ -43,4 +43,4 @@ Per serving:
 * Do not deep-fry the potatoes too thoroughly, otherwise they will not easily hold their shape when served with the sugar coating, affecting the appearance.
 * For the remaining cooking oil, consider collecting it back into an oil pot.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

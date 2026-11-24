@@ -25,7 +25,7 @@ Using above conditions, calculate planned raw material ratio.
 - Pour Milk into breakfast cup (Cold is okay)
 - Prepare 200ml Water, if is direct drinking water directly add Oat, otherwise please boil then add Oat
 - 2 Minutes after water boils, Oat cooked
-- Fish out cooked Oat pour into Milk (Try not to pour Oat boiling water into Milk too, affect taste)
+- Scoop out cooked Oat pour into Milk (Try not to pour Oat boiling water into Milk too, affect taste)
 
 ### Oat Cooking Quick Method
 
@@ -49,4 +49,4 @@ Cooking basically 3 minutes done, finished dishes are all room temperature, extr
 - Not recommend mixture exceed 50% of container capacity, otherwise content extremely likely overflow during heating process
 - Not recommend use glass cup to cook, reason same as above
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

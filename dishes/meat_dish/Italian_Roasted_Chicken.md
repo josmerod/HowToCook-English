@@ -47,4 +47,4 @@ Use above conditions to calculate planned raw material ratio.
 - Preheat oven to 180 degrees, roasting time depends on size and thickness of chicken meat, insure chicken meat is fully cooked
 - Chicken meat must be fully cooked to eat, eating undercooked chicken meat may lead to food poisoning and bacterial infection, such as Salmonella and Shigella etc.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

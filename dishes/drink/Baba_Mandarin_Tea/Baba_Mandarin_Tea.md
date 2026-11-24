@@ -44,4 +44,4 @@ Enjoy!
 - Baba Mandarin can be replaced with other citrus fruits whose pulp is easy to separate, such as Dekopon (Sumo Citrus).
 - The ratio of pulp to tea is 1:1. If you need a larger portion, increase the amounts proportionally.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

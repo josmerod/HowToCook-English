@@ -49,4 +49,4 @@ Per portion:
 * Hotpot base, peanut butter, and milk are the "flavor trio" and must be added.
 * If you can't eat sour food, omit the vinegar.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,7 +1,7 @@
 
 # Bream Stewed with Tofu
 
-![Bream Stewed with Tofu](./鳊鱼炖豆腐.jpg)
+![Bream Stewed with Tofu](./Bream_Stewed_with_Tofu.jpg)
 
 Estimated Cooking Difficulty: ★★★
 
@@ -54,7 +54,7 @@ Per serving:
 - When both sides fried well, push fish to pot edge a bit, leave some space put Scallion Ginger Garlic, Dried Chili, Bay Leaf, Star Anise stir-fry flavor.
 - After frying out condiment fragrance, join Cooking Wine, Light Soy Sauce, Dark Soy Sauce, Rock Sugar, Cinnamon, pour in Hot Water, water amount level with fish or a bit less.
 - After high heat boil, put in Old Tofu, Tofu stick to pot edge, join Edible Salt, turn low heat.
-- Low heat burn 10-15 minutes, then high heat collect some juice, can out of pot.
+- Low heat burn 10-15 minutes, then high heat collect some juice, remove from heat and serve.
 
 ## Additional Content
 
@@ -62,4 +62,4 @@ Per serving:
 - When frying fish whole process medium low heat.
 - Finally when out of pot, join some chopped Garlic, taste will be better.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

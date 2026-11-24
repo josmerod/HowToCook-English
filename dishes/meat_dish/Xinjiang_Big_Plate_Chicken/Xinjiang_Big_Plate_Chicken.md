@@ -26,7 +26,7 @@ Estimated Cooking Difficulty: ★★★★
 ## Operation
 
 - Chop meat first, block shape, soak with clear water + salt for 5 minutes, remove blood water, remove smell, then drain dry water
-- Wash clean Scallion Garlic Chili Potato etc., peel Potato
+- Wash thoroughly Scallion Garlic Chili Potato etc., peel Potato
 - Cut Scallion White into long segments, 4cm length per segment, cut Green Bell Pepper and Chili Threads into blocks
 - Cut Potato into rolling knife potato (Gun Dao), i.e. cut one knife roll once, a piece of potato about 4cm*4cm size is enough
 - Fry Sugar Color: First add oil to pot, then put in White Sugar, stir back and forth with spatula, melt sugar, then fry out burnt yellow color, at this time pour drained chicken meat into pot stir-fry, perform coloring
@@ -42,4 +42,4 @@ Estimated Cooking Difficulty: ★★★★
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

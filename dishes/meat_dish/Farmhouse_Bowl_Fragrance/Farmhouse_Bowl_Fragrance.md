@@ -21,7 +21,7 @@ Estimated Cooking Difficulty: ★★★
 
 ## Calculations
 
-Determine how many servings you plan to make before cooking. Calculate here for 1~2 people.
+Determine how many servings you plan to make before cooking. Calculate here for 1-2 people.
 
 + Pork: 250g
 + Green Peppers: 3
@@ -47,4 +47,4 @@ Determine how many servings you plan to make before cooking. Calculate here for 
 + If you put too much oil when stir-frying eggs for the first time, you may not need to add oil when stir-frying pork, depending on the situation.
 + Reference: [Xiachufang](https://www.xiachufang.com/recipe/106817581/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

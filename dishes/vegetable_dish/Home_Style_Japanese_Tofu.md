@@ -61,4 +61,4 @@ Per serving:
 - Don't leave fried tofu for too long, prepare ingredients in advance.
 - References: [Home Style Braised Japanese Tofu](https://www.xiachufang.com/recipe/104370279/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

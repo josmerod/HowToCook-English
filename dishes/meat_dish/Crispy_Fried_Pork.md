@@ -61,8 +61,8 @@ Estimated Cooking Difficulty: ★★★
 
 ### Pork Preparation
 
-- Remove skin from pork and wash clean.
-- Cut into strips with length 8~10 cm, thickness 1.5 cm.
+- Remove skin from pork and wash thoroughly.
+- Cut into strips with length 8-10 cm, thickness 1.5 cm.
 - Add Salt, Thirteen Spices Powder, White Pepper Powder, MSG, Chicken Essence, Crushed Sichuan Peppercorn, Sichuan Peppercorn Seeds, Light Soy Sauce according to calculation formula above.
 - Pour in the Scallion Ginger Water made earlier.
 - Grab evenly and knead fully for 10 minutes, until meat absorbs all moisture and becomes sticky.
@@ -77,7 +77,7 @@ Estimated Cooking Difficulty: ★★★
 
 - Pour Vegetable Oil into pot, control oil amount according to pot size, oil level height above 3 cm.
 - Heat on high heat until temperature reaches 150°, then turn to low heat to maintain temperature.
-- Use chopsticks to pick up coated meat strips into oil pot, smooth into shape you like, fry for 3~5 minutes to set shape. Visually check color turning slightly yellow, feel slight hardness when flipping with spatula, then it is ready. Specific time depends on meat size, oil temperature, coating thickness.
+- Use chopsticks to pick up coated meat strips into oil pot, smooth into shape you like, fry for 3-5 minutes to set shape. Visually check color turning slightly yellow, feel slight hardness when flipping with spatula, then it is ready. Specific time depends on meat size, oil temperature, coating thickness.
 - Dish out and drain oil.
 
 tips: If you are not sure about time, you can fry a bit longer, otherwise meat will have a raw taste. If inexperienced, put into pot one by one to prevent sticking.
@@ -91,4 +91,4 @@ tips: If you are not sure about time, you can fry a bit longer, otherwise meat w
 - Coating powder must be rubbed loose, don't have dry particles wrapped inside, otherwise it will explode!!!
 - If there is too much meat to finish, you can fry only once and put in refrigerator. Take out and re-fry when eating later, texture is basically unaffected.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

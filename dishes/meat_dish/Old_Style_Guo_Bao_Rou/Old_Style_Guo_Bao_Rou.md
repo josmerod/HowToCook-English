@@ -104,4 +104,4 @@ Per portion (About 2 person portion):
   - [Lao Fan Gu Version](https://www.bilibili.com/video/BV19F411b7ME)
   - [Old Northeast Cuisine Version](https://www.bilibili.com/video/BV1wa4y1C7Cd)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

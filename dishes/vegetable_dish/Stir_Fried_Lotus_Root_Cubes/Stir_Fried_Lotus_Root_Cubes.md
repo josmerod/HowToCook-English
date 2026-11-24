@@ -47,4 +47,4 @@ Per serving:
 - To eat Lotus Root, pick those with yellow-brown outer skin, thick meat and white color. If it is black or has a peculiar smell, it is not suitable for consumption.
 - Please try not to use ironware, which will cause Lotus Root to turn black.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

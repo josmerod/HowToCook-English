@@ -1,6 +1,6 @@
 # Fried Milk (Zha Xian Nai)
 
-![Finished Fried Milk](./炸鲜奶.jpg)
+![Finished Fried Milk](./Fried_Milk.jpg)
 
 Fried Milk is a dessert with a crispy exterior and a tender, milky interior. It is moderately nutritious and has a medium difficulty level. Estimated preparation time is about **20 minutes**.
 
@@ -48,4 +48,4 @@ Per portion:
 - The oil temperature should be around 160°C (medium heat).
 - Reference: [Chef Wang Gang's Tutorial](https://www.bilibili.com/video/BV1U7411E7LH/)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

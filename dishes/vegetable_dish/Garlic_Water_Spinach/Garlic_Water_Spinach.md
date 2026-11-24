@@ -43,4 +43,4 @@ Per serving:
 * The actual amount of Water Spinach can be decided according to the size of the pot. It is recommended not to exceed one pot, otherwise if it's too much, it's easy to drop some Water Spinach onto the stove during the initial flipping and subsequent stir-frying.
 * When frying Water Spinach, must **use high heat**, so that Water Spinach can soften quickly while maintaining crisp and tender texture. High heat also helps to bring out the fragrance of soy sauce.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

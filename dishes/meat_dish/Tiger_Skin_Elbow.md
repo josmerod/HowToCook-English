@@ -1,6 +1,6 @@
 # Tiger Skin Elbow (Hu Pi Zhou Zi)
 
-Tiger Skin Elbow is a traditional famous dish, using Pork Elbow as main ingredient, through three steps of first braising then frying then stewing make Elbow Skin present Tiger Skin shape. Elbow Skin soft rotten flavorful, fatty but not greasy, lean meat soft tasty. This dish is second to none choice to make elders shut up and eat fiercely during festivals, can be called life-saving magic weapon.
+Tiger Skin Elbow is a traditional famous dish, using Pork Elbow as main ingredient, through three steps of first braising then frying then stewing make Elbow Skin present Tiger Skin shape. Elbow Skin soft tender flavorful, fatty but not greasy, lean meat soft tasty. This dish is second to none choice to make elders shut up and eat fiercely during festivals, can be called life-saving magic weapon.
 
 Estimated Cooking Difficulty: ★★★★★
 
@@ -71,15 +71,15 @@ Estimated Cooking Difficulty: ★★★★★
 ### Oil Frying
 
 - Add cold oil to pot, take previous water amount as reference, best to immerse Pork Elbow more than 3/5, turn medium heat heat up.
-- When [Oil Temperature](tips/advanced/Oil_Temperature_Judgment_Skills.md) reaches 50%, turn to low heat, put in Pork Elbow oil fry.
+- When [Oil Temperature](../../tips/advanced/Oil_Temperature_Tips.md) reaches 50%, turn to low heat, put in Pork Elbow oil fry.
 - Cook should pay attention to personal safety during oil frying process.
 - During oil frying process, use spatula or other high temperature resistant kitchenware to evenly drizzle oil in pot to parts of Pork Elbow not immersed, if condition allows should flip Pork Elbow at interval of 3 minutes, make it oil fried evenly.
-- Oil frying process lasts about 20 minutes, when observing Pork Elbow Skin already all presenting light brown color, and lean meat part already slightly scorched, then can fish out set aside.
+- Oil frying process lasts about 20 minutes, when observing Pork Elbow Skin already all presenting light brown color, and lean meat part already slightly scorched, then can scoop out set aside.
 - Oil after frying can be used to make other fried foods, but pay attention not to use too many times.
 
 ### Fry Sugar Color
 
-- [Fry Sugar Color](../../tips/advanced/Sugar_Color_Frying.md) 200ml set aside.
+- [Fry Sugar Color](../../tips/advanced/Sugar_Coloring_Guide.md) 200ml set aside.
 
 ### Stewing
 
@@ -106,4 +106,4 @@ Estimated Cooking Difficulty: ★★★★★
 - Reference Material: [Bilibili Lao Fan Gu Video Tutorial](https://www.bilibili.com/video/BV1P4421c7s5)
 
 <!-- Must retain text below. -->
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

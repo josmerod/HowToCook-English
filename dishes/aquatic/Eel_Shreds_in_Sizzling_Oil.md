@@ -1,6 +1,6 @@
 # Eel Shreds in Sizzling Oil (Xiang You Shan Si)
 
-Eel Shreds in Sizzling Oil is a classic Jiangzhehu flavor dish. Eel shreds are fresh, tender and smooth, seasoned with garlic fragrance, ginger mince and sauce juice. After pouring hot lard, the fragrance strikes the nose, taste is rich and slightly sweet, super appetizing~
+Eel Shreds in Sizzling Oil is a classic Jiangzhehu flavor dish. Eel shreds are fresh, tender and smooth, seasoned with garlic fragrance, ginger mince and sauce juice. After pouring hot lard, the fragrance strikes the nose, taste is rich and slightly sweet, super appetizing.
 
 Estimated Cooking Difficulty: ★★★
 
@@ -66,4 +66,4 @@ Per serving:
 - Can add more Pepper Powder and White Sugar, beneficial to remove fishy smell and increase fragrance.
 - Reference: ["Xiang You Shan Si" Home Cooking Method, taste very good, collected first - YouTube](https://www.youtube.com/watch?v=X2DvbhnWcN4)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

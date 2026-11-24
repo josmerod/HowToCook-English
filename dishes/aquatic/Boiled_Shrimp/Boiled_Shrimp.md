@@ -55,4 +55,4 @@ Total Amount:
   - If pot lid has vent, time needs to adjust accordingly (Consider adding 30 seconds medium heat).
   - Dipping sauce actually also optional, can also be pure vinegar, fresh shrimp gifted by nature has very great texture taste under condition of no water taking away diluting fresh sweetness.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

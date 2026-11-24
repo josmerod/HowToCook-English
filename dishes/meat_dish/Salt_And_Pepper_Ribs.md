@@ -39,8 +39,8 @@ Determine how many servings you plan to make before cooking. One serving is enou
 - Make frying batter. Put 80g Flour, 20g Starch (Note: 20g Starch, reserve remaining 60g), 2-3g Custard Powder, 1g Salt.
 - Crack in an egg, stir, then add 100g water in batches, then add 10g oil, stir repeatedly. Until batter is fully mixed and slightly sticky.
 - Take out reserved 60g starch. Take out pork strips, coat with a layer of starch, then coat with batter.
-- Add oil to pot, enough to cover ingredients, heat to about 150℃ - 160℃. Put in pork strips and fry until light golden yellow then fish out. Strips might stick when just put in, don't move them. Wait until fixed shape then use chopsticks to separate.
-- Wait for oil temperature to rise to 150℃ - 160℃ again, put in pork strips to re-fry until golden yellow then fish out.
+- Add oil to pot, enough to cover ingredients, heat to about 150℃ - 160℃. Put in pork strips and fry until light golden yellow then scoop out. Strips might stick when just put in, don't move them. Wait until fixed shape then use chopsticks to separate.
+- Wait for oil temperature to rise to 150℃ - 160℃ again, put in pork strips to re-fry until golden yellow then scoop out.
 - Sprinkle Salt and Pepper Powder, mix evenly and serve.
 
 ## Additional Content
@@ -49,4 +49,4 @@ Determine how many servings you plan to make before cooking. One serving is enou
 - Batter can also be used to fry chicken legs, fish etc.
 - Reference: [Salt and Pepper Ribs Recipe](https://www.bilibili.com/video/BV14s4y1c76H)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

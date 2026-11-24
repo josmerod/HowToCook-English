@@ -1,6 +1,6 @@
 # Margaret Cookies (Ma Ge Li Te)
 
-![Finished Margaret Cookies](./玛格丽特饼干.jpg)
+![Finished Margaret Cookies](./Margaret_Cookies.jpg)
 
 Margaret Cookies are a classic and popular afternoon tea snack, often enjoyed with hot drinks. Their crumbly texture and rich buttery flavor make them a favorite for many.
 
@@ -47,4 +47,4 @@ Per portion:
   - Air Fryer: 150°C for 20 minutes.
 - Reference: [The 100th "Mailable" Cookie](https://b23.tv/NZCsV0x)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

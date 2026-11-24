@@ -30,7 +30,7 @@ Estimated Cooking Difficulty: ★★★★
 
 Per serving:
 
-- Bullfrog Meat Chunks: 800g (Buy 3 Jin live frogs, suggest choosing small ones, meat is tender)
+- Bullfrog Meat Chunks: 800g (approx. 1.5kg / 3 Jin live frogs, suggest choosing small ones, meat is tender)
 - Pickled Ginger: 20-30 g (Depends on personal taste, add more if like heavy flavor)
 - Pickled Chili: 5-10 g (Depends on spicy tolerance, suggest halving to 2.5 g for mild spicy if cannot eat spicy)
 - Wild Pickled Pepper: 10 g
@@ -53,8 +53,8 @@ Per serving:
 - Rinse with clear water until no blood water and impurities flow out. Drain moisture, put into suitable vessel, prepare to marinate.
 - Add 5 g Salt, 30 g Starch, 10ml Cooking Wine, 5 g Pepper Powder, grab evenly with hand, marinate for 5-10 minutes.
 - Cut Pickled Ginger, Pickled Chili, Wild Pickled Pepper into shreds or slices (Choose according to knife skills). Cut Green and Red Pepper into rings. Peel Garlic.
-- Heat pot, add 200ml Cooking Oil (Add 100ml more if pot bottom is flat). Heat to 60% oil temperature (small bubbles appear). Pour in marinated Bullfrog, quickly pass through oil (deep fry briefly), fish out after 10 seconds (Don't exceed time too much, otherwise frog meat will be old and tough).
-- After fishing out frog meat, drain oil. Pour hot oil from pot into bowl, keep 30ml, add 20ml Lard (If no Lard, keep total 50ml Cooking Oil in pot).
+- Heat pot, add 200ml Cooking Oil (Add 100ml more if pot bottom is flat). Heat to 60% oil temperature (small bubbles appear). Pour in marinated Bullfrog, quickly pass through oil (deep fry briefly), scoop out after 10 seconds (Don't exceed time too much, otherwise frog meat will be old and tough).
+- After scooping out frog meat, drain oil. Pour hot oil from pot into bowl, keep 30ml, add 20ml Lard (If no Lard, keep total 50ml Cooking Oil in pot).
 - Wait for oil temperature 60% hot, add Pickled Ginger, Pickled Chili, Wild Pickled Pepper, Garlic, stir-fry until fragrant. Add 20 g Doubanjiang, medium heat stir-fry until red oil comes out (Control time within 30 seconds). Pour in 400ml Beer.
 - Pour in fried Bullfrog meat, push and flip with spoon, do not stir forcefully. Add 5 g Pepper Powder, add 5ml Rattan Pepper Oil, braise slowly on medium heat for 3 minutes.
 - Increase heat, high heat to reduce sauce for half a minute. Add Green and Red Pepper rings, cook for another 10 seconds prepare to dish up.
@@ -65,4 +65,4 @@ Per serving:
 - Can choose colander to press when draining moisture.
 - Cover frog meat evenly when grabbing with Starch.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

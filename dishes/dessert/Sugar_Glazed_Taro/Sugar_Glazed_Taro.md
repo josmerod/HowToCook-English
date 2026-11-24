@@ -1,6 +1,6 @@
 # Sugar Glazed Taro (Fan Sha Yu Tou)
 
-![Finished Sugar Glazed Taro](./反沙芋头成品.jpg)
+![Finished Sugar Glazed Taro](./Sugar_Glazed_Taro_Finished.jpg)
 
 Sugar Glazed Taro is a famous Chaozhou snack and a perfect afternoon tea treat. It is very convenient to make. Estimated preparation time is **20 minutes**.
 
@@ -34,4 +34,4 @@ Estimated Cooking Difficulty: ★★★
 - Freshly made sugar glazed taro is very hot; watch your mouth!
 - It's even better when paired with a cup of tea. Pure bliss!
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

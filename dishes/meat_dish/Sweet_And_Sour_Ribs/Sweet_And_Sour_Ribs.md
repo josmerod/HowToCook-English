@@ -41,9 +41,9 @@ Per serving:
 
 ## Operation
 
-- Put Ribs and Ginger Slices in cold water, high heat heat until water boils and large amount of foam appears then turn to medium heat, wait until water continues to boil then turn to low heat to blanch for 2–3 minutes, fish out set aside.
+- Put Ribs and Ginger Slices in cold water, high heat heat until water boils and large amount of foam appears then turn to medium heat, wait until water continues to boil then turn to low heat to blanch for 2–3 minutes, scoop out set aside.
 - Wash Ribs repeatedly with boiled water 2–3 times, ensure thorough removal of blood foam.
-- Pour sufficient amount of Cooking Oil in pot for deep frying (Oil amount depends on pot size, suggest about 300 ml for general family use), wait until oil temperature rises to about 170°C, put in Ribs to fry for 3–5 minutes, until surface slightly golden yellow, fish out drain oil.
+- Pour sufficient amount of Cooking Oil in pot for deep frying (Oil amount depends on pot size, suggest about 300 ml for general family use), wait until oil temperature rises to about 170°C, put in Ribs to fry for 3–5 minutes, until surface slightly golden yellow, scoop out drain oil.
 - Take another clean pot, place on low heat heat 50 ml hot water, add White Sugar 30 g, stir gently until sugar completely dissolved, and slightly pale yellow. Key of this step is observing sugar dissolution, no need to rely too much on color change.
 - Pour fried Ribs into sugar water pot, quickly stir-fry 30 seconds, then sequentially add Balsamic Vinegar 5 ml, Light Soy Sauce 5 ml, Oyster Sauce 5 ml, Chicken Essence 2 g, Ketchup 10 g, Five Spice Powder 2 g, stir-fry again 30 seconds, make seasoning coat Ribs evenly, then add boiling water to just cover Ribs.
 - After boiling liquid in pot with high heat, add Dark Soy Sauce 5 ml for coloring, and quickly reduce juice; if Ribs blocks are large, can turn to low heat simmer for 5–10 minutes for better flavor absorption, do NOT use medium heat long time stewing 20 minutes, to avoid damaging texture.
@@ -56,4 +56,4 @@ Per serving:
 - Key of step four is ensuring white sugar completely dissolved, no need to verify judge excessively by color change.
 - Should quickly flip stir when reducing juice, make ribs evenly coated with seasoning, avoid taste loss caused by long time cooking stewing.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -59,7 +59,7 @@ Estimated Cooking Difficulty: ★★★★
 - Add Ginger, crushed 2 cm.
 - Turn on fire to boil.
 - Skim off floating foam.
-- Fish out duck meat, wash clean with clear water and set aside.
+- Scoop out duck meat, wash thoroughly with clear water and set aside.
 
 ### Start Cooking
 
@@ -81,4 +81,4 @@ Estimated Cooking Difficulty: ★★★★
 - During operation, pay attention to the boiling water level. If it is found to be lower than 2/3 of the ingredients, add hot water or beer.
 - [Chef Wang: "Village Beer Duck" cooked on earthen stove, the taste is indescribably comfortable](https://www.bilibili.com/video/BV1R4411u7po?spm_id_from=333.999.0.0)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

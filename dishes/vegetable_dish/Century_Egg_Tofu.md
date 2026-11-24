@@ -46,4 +46,4 @@ Per serving:
 - Blanching the tofu first can remove the beany smell.
 - You can apply some sesame oil on the knife when cutting preserved eggs to prevent sticking.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

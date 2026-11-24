@@ -40,4 +40,4 @@ Use above conditions to calculate planned raw material ratio.
 - Can add Honey, Soy Sauce, Ginger Garlic Powder, Five Spice Powder etc. as seasonings when marinating Chicken Wings, improve taste and aroma
 - When roasting Chicken Wings, suggest padding a layer of tin foil at bottom of baking tray, facilitate cleaning baking tray
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -48,7 +48,7 @@ Per portion:
 * Rinse the fern root noodles with cold water and then place them into the sauce.
 * Stir thoroughly.
 * Finely chop the prepared scallion, garlic, and bird's eye chili and sprinkle them over the noodles.
-* Finished! (｡･∀･)ﾉﾞ
+* Finished!
 
 ## Additional Content
 
@@ -57,4 +57,4 @@ Per portion:
 * It's recommended to use a bowl as the final serving vessel because using a plate makes eating the noodles more difficult.
 * The overall flavor is relatively spicy; if you can't eat spicy food, please reduce the amount of chili oil and do not add bird's eye chili.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

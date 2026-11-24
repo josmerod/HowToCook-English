@@ -30,7 +30,7 @@ Per serving:
 
 * Peel the Celtuce and cut into small strips. Cut radish into strips, put together into a large bowl, add salt and stir, let stand for 10 minutes.
 * Wash the Celtuce with water 1-2 times after standing.
-* Boil water in a pot, put in Celtuce, boil for 1 minute, fish out, drain water, put into a large bowl.
+* Boil water in a pot, put in Celtuce, boil for 1 minute, scoop out, drain water, put into a large bowl.
 * Heat oil in a pan, put in ginger slice, garlic cloves, millet chili and stir-fry for 30-45 seconds, pour into the Celtuce.
 * Stir fully, serve.
 
@@ -43,4 +43,4 @@ Per serving:
 * The size of the Celtuce strips is decided by personal taste, but peel the Celtuce skin as much as possible, otherwise it really affects the texture.
 * Icing/Chilling effect is even better.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

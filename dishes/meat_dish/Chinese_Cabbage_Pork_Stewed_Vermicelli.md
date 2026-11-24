@@ -47,4 +47,4 @@ Per serving:
 - Potato Dry Vermicelli boiling time is long, can place in first step, do other steps during period.
 - Taste in last step, if finding taste light or not cooked, continue covering lid to boil for a while.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,6 +1,6 @@
 # Sichuan Boiled Fish
 
-Sichuan Boiled Fish is a "hard dish" with medium difficulty. Basa fish is rich in high quality protein and low fat content, combined with various seasonal vegetables, very nutritious and healthy. Beginners generally need 2 hours to complete.
+Sichuan Boiled Fish is an impressive main dish of medium difficulty. Basa fish is rich in high quality protein and low fat content, combined with various seasonal vegetables, very nutritious and healthy. Beginners generally need 2 hours to complete.
 
 Estimated Cooking Difficulty: ★★★★
 
@@ -58,4 +58,4 @@ Following amounts suitable for 3 to 5 people to eat.
 
 ### References
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

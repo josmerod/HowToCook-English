@@ -37,4 +37,4 @@ Use the above conditions to calculate the planned raw material proportions.
   - Different varieties of rice and different water amounts will greatly affect the texture.
 - Please refer to the manual of your rice cooker for more information.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

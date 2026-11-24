@@ -49,7 +49,7 @@ Below is amount for 1 kg Crayfish, adjust proportionally.
 - Brush Crayfish clean and remove shrimp line, cut Scallion into 2cm segments, chop Ginger Garlic into mince.
 - Heat oil, oil slightly hot, put in Fragrant Leaf, Star Anise, Cinnamon, Green Sichuan Peppercorn, Sichuan Peppercorn, Bullet Chili.
 - After spices release fragrance put in Scallion Ginger Garlic.
-- After Scallion Ginger Garlic explode fragrance, add Pixian Bean Paste, Soybean Paste, fry out red oil.
+- After Scallion Ginger Garlic sauté until fragrant, add Pixian Bean Paste, Soybean Paste, fry out red oil.
 - Put in Crayfish, stir-fry until color change.
 - Add Beer, after Beer boils add Light Soy Sauce, Salt.
 - Cook Crayfish until completely cooked then out of pot.
@@ -60,4 +60,4 @@ Restaurants probably all deep fry once, deep frying at home is too wasteful, so 
 
 Shrimp meat after removing shrimp line tastes worse than shrimp meat without removing shrimp line, and removing shrimp line for Crayfish is a challenge for beginners, can also not remove shrimp line if can accept shrimp line.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

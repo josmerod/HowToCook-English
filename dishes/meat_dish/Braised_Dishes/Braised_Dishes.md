@@ -52,7 +52,7 @@ Per serving:
 
 ## Operation
 
-It is recommended to check the [Sugar Coloring (Caramel Color)](./../../condiment/Sugar_Coloring.md) tutorial before this.
+It is recommended to check the [Sugar Coloring (Caramel Color)](../../condiment/Simple_Caramel_Coloring.md) tutorial before this.
 
 - Soak Beef Shank in cold water for more than 3 hours in advance to remove blood water.
 
@@ -69,7 +69,7 @@ It is recommended to check the [Sugar Coloring (Caramel Color)](./../../condimen
 
 ### Braise Beef
 
-- Blanch Beef Shank in pot for 2-3 minutes, fish out and rinse off floating foam on surface with hot water.
+- Blanch Beef Shank in pot for 2-3 minutes, scoop out and rinse off floating foam on surface with hot water.
 - Put blanched Beef Shank into boiling Brine, ensure Brine submerges all meat.
 - Cover Pressure Cooker lid, after steam comes up, continue cooking for 25-30 minutes.
 - After cooking is done, do not open lid to keep warm, let it cool naturally and soak overnight (this makes it more flavorful).
@@ -96,4 +96,4 @@ It is recommended to check the [Sugar Coloring (Caramel Color)](./../../condimen
 Brine:
 ![Brine](./Brine.jpeg)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -34,4 +34,4 @@ Per serving:
 - Pumpkin skin contains nutrition, if you like, you can steam it without peeling, but it needs to be washed thoroughly.
 - Steaming time depends on the size and thickness of the pumpkin pieces, as well as the variety of the pumpkin. Testing with chopsticks is a good way to judge whether it is steamed thoroughly.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -57,4 +57,4 @@ Per serving:
 
 - This dish was made with existing materials during isolation. If conditions permit, you can add coriander, chopped green onion etc. for seasoning. If you like spicy, you can add chili oil.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -29,4 +29,4 @@ Estimated Cooking Difficulty: ★★
 
 [British people studying how to cook rice, I really want to gift them a rice cooker!](https://www.bilibili.com/video/BV1RW411z7r9)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -43,6 +43,6 @@ Estimated Cooking Difficulty: ★★★
 - Do not peel corn kernels yourself, it hurts your hands. You can buy "already peeled corn kernels" directly from grocery delivery apps, wait 30 minutes for delivery and defrost with warm water.
 - If warm water defrosting is slow, boil with boiling water! (Do not boil the corn itself, boil it with the packaging, tear a small opening).
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.
 
 ![Salt And Pepper Corn](./Salt_And_Pepper_Corn.jpeg)

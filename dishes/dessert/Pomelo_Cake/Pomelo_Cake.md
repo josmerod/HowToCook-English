@@ -48,4 +48,4 @@ Per portion:
 - "Smooth paste" means no lumps and an even color.
 - **Caution**: The foil tray will be very hot. Use tongs or heat-resistant mitts.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,6 +1,6 @@
 # Basque Cheesecake (Oven Baked)
 
-![Finished Basque Cheesecake](./烤箱版巴斯克芝士蛋糕.jpg)
+![Finished Basque Cheesecake](./Oven_Baked_Basque_Cheesecake.jpg)
 
 The top of the cheesecake might not be as dark as some professional photos if your oven lacks a convection fan or a top broiler function. If available, use those for better browning.
 
@@ -38,4 +38,4 @@ This recipe is sized for a **7-inch** round cake mold (the original recipe uses 
 - It is normal for the cheesecake to "jiggle" when it first comes out of the oven. It must be chilled to develop the proper flavor and texture!
 - Reference: Xiachufang - Basque Cheesecake "The Easiest Cake"
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

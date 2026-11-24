@@ -30,4 +30,4 @@ Per portion:
 - NOTE: Add the dumplings first and then the hot water; do not reverse this, otherwise the dumplings may splash and cause burns when poured into hot water. In addition, it's harder to control the water level, which may cause overflow.
 - If the bowl in the microwave is too hot to take out, you can use a towel, or some microwaves allow you to take out the tray together with the bowl.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

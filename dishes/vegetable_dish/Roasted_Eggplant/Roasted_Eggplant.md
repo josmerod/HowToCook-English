@@ -52,4 +52,4 @@ When making the cut with a knife for the first time, you can directly cut the eg
 
 ![Sample Dish](./Roasted_Eggplant.jpg)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

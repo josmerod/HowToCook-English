@@ -23,12 +23,12 @@ Per tart:
 
 - Preheat the oven to 200°C for 10 minutes.
 - Place the egg tart crusts on the baking sheet. Pour about 10ml of custard into each crust; the specific amount depends on the size of the crust, usually 4/5 full is best.
-- Place the baking sheet in the oven, 190°C upper and lower heat, and bake for 10-20 minutes. If you want to quickly brown the top (焦褐斑点), increase the top heat to 200-210°C.
+- Place the baking sheet in the oven, 190°C upper and lower heat, and bake for 10-20 minutes. If you want to quickly caramelize the top (create brown spots), increase the top heat to 200-210°C.
 - It's ready when brown spots appear on the custard and the crust is completely fluffy and slightly oily.
 
 ## Additional Content
 
 - You can adjust the time according to the size of the brown spots if needed.
-- You can add 10g of shredded cheese to the egg tart to make a cheese egg tart~
+- You can add 10g of shredded cheese to the egg tart to make a cheese egg tart.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

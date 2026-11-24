@@ -35,8 +35,8 @@ Estimated Cooking Difficulty: ★★★
 
 ## Operation
 
-- Put into cold water pot boil 3 minutes after water boils fish out
-- Fish out egg, put into ice water peel shell faster also more complete
+- Put into cold water pot boil 3 minutes after water boils scoop out
+- Scoop out egg, put into ice water peel shell faster also more complete
 - Use Cheese Slice wrap egg
 - Use Bacon Slice wrap egg
 - Hand Grasped Pancake cut off two ends wrap egg in rectangle
@@ -52,4 +52,4 @@ Estimated Cooking Difficulty: ★★★
 
 ![Effect Picture](./egg3.png)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -35,18 +35,18 @@ Using above conditions, calculate planned raw material ratio.
 ## Operation
 
 - Use cold water boil egg cooked, high heat about 8 minutes (Decide according to own kitchenware)
-- Fish out egg, pass cold water
+- Scoop out egg, pass cold water
 - Collide eggs with each other, make every egg produce cracks
 - Put eggs into pot, put in Star Anise, Bay Leaf, Cinnamon, Fennel, Rock Sugar, Black Tea, Light Soy Sauce, Dark Soy Sauce, Salt
 - Add water until over eggs
 - After high heat boil, turn medium low heat boil 15 minutes
 
-> After medium heat boil 15 minutes, fish out ingredient slag, egg soak a while longer taste better
+> After medium heat boil 15 minutes, scoop out ingredient slag, egg soak a while longer taste better
 
 ## Additional Content
 
-- Fish out egg pass cold water is to let egg and shell produce gap
+- Scoop out egg pass cold water is to let egg and shell produce gap
 - Salt can choose not to add according to personal taste
 - Star Anise, Bay Leaf, Cinnamon, Fennel, Rock Sugar, if self don't have so many ingredients can buy ready-made braising ingredient bag
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -33,7 +33,7 @@ Estimated Cooking Difficulty: ★★★
 
 - Peel the eggplant, cut transversely into two sections
 - Steam for 5 minutes
-- Cut longitudinally, do not cut through, make 2~3 cuts on the cut surface on both sides until it can be flattened
+- Cut longitudinally, do not cut through, make 2-3 cuts on the cut surface on both sides until it can be flattened
 - Fry until both sides are golden yellow
 - Pour Kabayaki sauce on the eggplant until it covers 1/2 of the eggplant height
 - Fry until the back side is colored, flip
@@ -45,7 +45,7 @@ Estimated Cooking Difficulty: ★★★
 
 - This Kabayaki is actually very Chinese style, Japanese Kabayaki is actually grilled.
 - The soul lies in the Kabayaki sauce? You can also buy ready-made Kabayaki sauce.
-- If you feel it is greasy, you can sprinkle some small chopped green onions of 2~5 mm after plating, and the color matching can be less monotonous.
+- If you feel it is greasy, you can sprinkle some small chopped green onions of 2-5 mm after plating, and the color matching can be less monotonous.
 - For stir-fried eggplant (Fish-fragrant Eggplant, Sauce-exploded Eggplant), I strongly recommend Zhejiang eggplant. It is slender so cutting into rolling blocks is just right, the skin is very tender unlike here where it implies needing peeling, and the eggplant taste is moderate.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

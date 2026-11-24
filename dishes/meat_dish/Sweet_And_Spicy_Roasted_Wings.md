@@ -59,6 +59,6 @@ One portion:
 - Please judge actual roasting effect according to power of your own Air Fryer.
 - Paprika Powder increases color and flavor, itself cannot act as spicy agent.
 - Marinating time can be freely controlled, suggested between 60 minutes to 180 minutes.
-- Tin Foil Tray just out of pot is quite hot, please use tongs or wet cloth heat insulation material to pick up.
+- Tin Foil Tray fresh from the pot/oven is quite hot, please use tongs or wet cloth heat insulation material to pick up.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

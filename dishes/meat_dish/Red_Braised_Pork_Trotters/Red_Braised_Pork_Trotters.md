@@ -25,7 +25,7 @@ Estimated Cooking Difficulty: ★★★★
 
 One portion is exactly enough for 3-4 people.
 
-- Pork Trotters: 2~3 trotters
+- Pork Trotters: 2-3 trotters
 - Cooking Oil: 30ml
 - Fragrant Leaf: 2 leaves
 - Ginger: 5 slices
@@ -48,9 +48,9 @@ One portion is exactly enough for 3-4 people.
 * Add 2 Fragrant Leaves, 1 Cinnamon, 4 Star Anises, 20 ml Light Soy Sauce, 20 ml Dark Soy Sauce, 10 ml Cooking Wine, 3 Ginger slices, 8 g Salt, turn to medium heat, continue stir-frying for 1 minute.
 * Add boiling water or cold water, water needs to cover Pork Trotters, cover pot lid, high heat boil, turn off heat after boiling.
 * Pour all ingredients in pot into pressure cooker, need 15 minutes in pressure cooker (If classmate doesn't have pressure cooker, can put in pot and turn from high heat to low heat to simmer).
-* After 15 minutes, pour ingredients in pressure cooker into wok, turn high heat to reduce juice, at this time can taste with chopsticks, if light can add 2~3g Salt.
+* After 15 minutes, pour ingredients in pressure cooker into wok, turn high heat to reduce juice, at this time can taste with chopsticks, if light can add 2-3g Salt.
 * Duration of high heat juice reduction depends on water in pot, generally 30 seconds is enough, leaving some more is fine, Red Braised Pork Trotters soup is also very appetizing.
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

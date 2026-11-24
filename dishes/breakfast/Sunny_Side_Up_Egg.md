@@ -46,4 +46,4 @@ while (Sunny Side Up Egg doneness does not match personal taste) use microwave h
   - Definition: Microwave that can control heat and can control duration.
   - Distinction Method: If can find words like Low Heat, Medium Heat, High Heat etc. on microwave operation panel then it is Controllable Heat Microwave.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

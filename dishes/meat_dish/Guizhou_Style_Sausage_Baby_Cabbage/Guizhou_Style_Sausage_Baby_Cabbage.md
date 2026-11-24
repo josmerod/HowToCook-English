@@ -32,4 +32,4 @@ According to 1 person portion:
 - According to pot size, suggest water amount covering ingredients is appropriate, better more than less
 - If no knife tool, Baby Cabbage and Sausage not cut also okay
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

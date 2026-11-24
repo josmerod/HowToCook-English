@@ -50,4 +50,4 @@ Per serving (About 2 persons):
   1. Mandarin Fish back fins easy to hurt people, need to pay attention when processing, best to use scissors to cut off
   2. Steaming time needs to adjust according to fish size, key to steaming fish lies in water much steam big fire sufficient
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

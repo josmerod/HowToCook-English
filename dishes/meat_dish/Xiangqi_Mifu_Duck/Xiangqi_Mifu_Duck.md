@@ -60,4 +60,4 @@ Important steps for reference:
 ![Step 3: Coat Duck with Powder](./Step_3_Coat_Duck_with_Powder.jpg)
 ![Step 4: Steam in Pressure Cooker](./Step_4_Steam_in_Pressure_Cooker.jpg)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

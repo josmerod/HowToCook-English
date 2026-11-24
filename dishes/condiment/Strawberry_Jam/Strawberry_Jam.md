@@ -27,11 +27,11 @@ Per portion:
 - Once boiling, turn to low heat and stir constantly until the jam becomes thick and viscous.
 - Turn off the heat. Let it cool before transferring to sterilized glass jars.
 
-![Washed Strawberries](./洗好的草莓.jpeg)
-![Mixed Strawberries](./混合好的草莓.jpeg)
-![Simmering Jam](./熬煮的草莓.jpeg)
-![Finished Jam](./做好的草莓酱.png)
+![Washed Strawberries](./Cleaned_Strawberries.jpeg)
+![Mixed Strawberries](./Mixed_Strawberries.jpeg)
+![Simmering Jam](./Cooking_Strawberries.jpeg)
+![Finished Jam](./Finished_Strawberry_Jam.png)
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -33,7 +33,7 @@ Per serving:
 3. Put in Bean Paste and Sweet Bean Sauce, continue stir-fry until **Slightly viscous**. Serve out, obtain *Fried Sauce*.
 4. Take big bowl, add Cold Water set aside.
 5. Boil Noodles until raw cut (No white core), serve into bowl with Cold Water in step 4.
-6. Immediately control water fish out, serve into clean bowl.
+6. Immediately control water scoop out, serve into clean bowl.
 7. Take Fried Sauce from step 3, pour into bowl, mix evenly. Then take Vegetable Garnish from step 1, pour into bowl, mix evenly.
 
 ## Additional Content
@@ -44,4 +44,4 @@ Per serving:
 * If have condition (Another pot) and skilled, step 2, 3 and 1, 4, 5, 6 can execute in parallel time-sharing.
 * Sweet Salty taste personal has preference, ratio of two sauces need iterate optimize by self.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

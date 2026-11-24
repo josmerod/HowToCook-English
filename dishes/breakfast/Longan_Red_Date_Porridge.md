@@ -30,4 +30,4 @@ Per serving:
 
 Friends who have different preferences for thickness of porridge can increase or decrease water amount as appropriate, cooked porridge is sweet, can control sweetness by controlling quantity of added Longan
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

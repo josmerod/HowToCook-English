@@ -67,4 +67,4 @@ Use above conditions, calculate raw material ratio plan to use.
 
 In Beijing, can consider adding Sesame Paste after serving into plate. If Sesame Paste too thick, can 1:1 mix water dilute.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

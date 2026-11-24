@@ -22,7 +22,7 @@ Microwaves work exceptionally well for many cooking tasks.
 
 **Medium Power is suitable for:**
 
-* [Cooking] Seafood (e.g., [Microwave Green Onion and Ginger Black Cod](../../dishes/aquatic/Microwave_Green_Onion_Ginger_Black_Cod.md))
+* [Cooking] Seafood (e.g., [Microwave Green Onion and Ginger Black Cod](../../dishes/aquatic/Microwave_Scallion_Ginger_Black_Cod.md))
 * [Cooking] Softening meat
 * [Dehydration] Drying vegetable and fruit skins
 * [Dehydration] Making jerky

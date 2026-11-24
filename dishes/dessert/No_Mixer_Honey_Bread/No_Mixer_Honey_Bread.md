@@ -1,6 +1,6 @@
 # No-Mixer Honey Bread
 
-![Finished Honey Bread](./无厨师机蜂蜜面包.jpg)
+![Finished Honey Bread](./No_Mixer_Honey_Bread.jpg)
 
 This recipe doesn't require a stand mixer—only patience! You can prepare the dough in the evening, let it proof in the fridge overnight, and bake it the next day. While the texture isn't quite as airy as mixer-kneaded bread, it's still great—especially when reheated in the microwave for a few seconds. Most of the time is spent waiting for the dough to rise.
 
@@ -51,4 +51,4 @@ This recipe makes enough to fill one large rectangular baking pan (10 x 15 inch 
 - Proofing time varies; check every hour. It should be 2 to 2.5 times its original size.
 - Dough size won't drastically affect flavor—adjust to your preference.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

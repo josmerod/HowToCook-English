@@ -52,9 +52,9 @@ Estimated Cooking Difficulty: ★★★
 - Pour in Mushroom water or Clear Water, standard to submerge Chicken meat
 - Pour in Mushroom Slices, White Pepper Powder, Salt, Potato
 - After stir-fry evenly, cover pot lid simmer boil, turn medium low heat **15-20 minutes**, if have condition can transfer to Casserole
-- Wait Chicken meat soft rotten, soup juice thick (Soup juice do not collect too dry), finally put in Green Pepper
+- Wait until the chicken is soft and tender, soup juice thick (Soup juice do not collect too dry), finally put in Green Pepper
 - Put in MSG, stir-fry evenly, turn off heat! Green Pepper basically raw broken is okay, do not fry long time
 
 ## Additional Content
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -1,6 +1,6 @@
 # English Scones
 
-![Finished Scones](./英式司康.png)
+![Finished Scones](./English_Scones.png)
 
 English Scones are a quick and easy afternoon tea treat. They pair perfectly with jam, tea, or coffee. The flavor profile is centered on rich dairy and eggs, with a moderate sweetness.
 
@@ -45,4 +45,4 @@ Per portion:
 
 - The simplest cutting method is to roll the dough into a circle and cut it into 6 wedges (like a pizza).
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

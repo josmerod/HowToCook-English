@@ -42,7 +42,7 @@ Per portion (About 2 person portion):
 
 1. **Process Shrimp**:
    - Cut shrimp from back, remove shrimp thread and sand bag, can also cut from abdomen, will expand when fried, finished dish is relatively beautiful
-   - Wash clean with clear water, dry moisture then can pat on starch, or not pat
+   - Wash thoroughly with clear water, dry moisture then can pat on starch, or not pat
 
 2. **Garlic Mince and Bowl Sauce Processing**:
    - Cut 2 bulbs of garlic into garlic mince
@@ -61,4 +61,4 @@ Per portion (About 2 person portion):
 - **Precautions**:
   1. Butter should not be fried too long after entering pot, melt and flip uniformly then cook in bowl juice
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

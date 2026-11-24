@@ -51,4 +51,4 @@ Per serving:
 * Fish Sauce, also called Fish Soy Sauce, is a common seasoning in Guangdong, Fujian etc. places. Effect similar to Light Soy Sauce
 * In this production process, due to epidemic reason no Fish Sauce, only used Dark Soy Sauce to replace, so Spareribs color bias black, normal is golden yellow
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

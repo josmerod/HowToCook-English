@@ -55,4 +55,4 @@ Per serving:
 * Purpose of adding salt in step two is to lock oil of Pork Belly
 * During production process, part of Pork Belly was blanched, cooked with un-blanched together for subsequent production, found un-blanched meat texture more bouncy (Q Tan)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

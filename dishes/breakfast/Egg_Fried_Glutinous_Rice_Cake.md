@@ -1,8 +1,8 @@
 # Egg Fried Glutinous Rice Cake
 
-Egg Fried Glutinous Rice Cake method very simple, don't need too much cooking foundation~
+Egg Fried Glutinous Rice Cake method very simple, don't need too much cooking foundation.
 
-Egg Fried Glutinous Rice Cake calories high, delicious + satisfying hunger + cheap, only need ten minutes can complete~
+Egg Fried Glutinous Rice Cake calories high, delicious + satisfying hunger + cheap, only need ten minutes can complete.
 
 Estimated Cooking Difficulty: ★★
 
@@ -39,4 +39,4 @@ Per serving:
 
 - [Egg Fried Glutinous Rice Cake Tutorial](https://www.dachu.co/recipe/378826)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

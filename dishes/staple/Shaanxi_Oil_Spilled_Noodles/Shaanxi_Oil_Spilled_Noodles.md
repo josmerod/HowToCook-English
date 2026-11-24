@@ -67,4 +67,4 @@ Generally 4 noodles for males, 3 for females; can be increased for larger appeti
 
 ![Shaanxi Oil Spilled Noodles](./Shaanxi_Oil_Spilled_Noodles.png)
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

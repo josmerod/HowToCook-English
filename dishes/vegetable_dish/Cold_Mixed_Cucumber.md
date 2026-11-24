@@ -38,4 +38,4 @@ Totals:
 * If put in the refrigerator, wrap tightly with plastic wrap/cling film, and finish eating within 8 hours, otherwise the cucumber will lose its crisp texture due to excessive marinating.
 * Recommended to peel cucumber, taste is better.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

@@ -59,4 +59,4 @@ Use the above conditions to calculate the planned raw material proportions.
   - Overnight cold rice is best for stir-frying. If you don't have cold rice, you can cook it fresh (and use the refrigerator to cool it quickly), but achieving a "separate grain" texture will take longer stir-frying.
   - Doing a "separate grain" stir-fried rice essentially means stir-frying the rice until it's dry. Overnight rice is used because it has already lost some moisture.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

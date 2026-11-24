@@ -35,4 +35,4 @@ Per serving:
 
 - To prevent Salmonella that may be contained in raw eggs, it is recommended to use 100 ℃ boiling water just boiled to instantly scald the egg liquid completely.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

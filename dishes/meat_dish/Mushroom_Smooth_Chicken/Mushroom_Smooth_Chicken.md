@@ -51,4 +51,4 @@ Per serving:
   - Flip Chicken Leg, knife insert closely to bone, cut off connection point between bone and meat
   - Use knife tip to cut off last adhesion
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

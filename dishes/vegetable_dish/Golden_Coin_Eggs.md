@@ -1,6 +1,6 @@
 # Golden Coin Eggs
 
-Golden Coin Eggs is a dish where boiled eggs are sliced and fried until golden, then stir-fried with green and red peppers and fermented black beans (Dou Chi). Crisp outside and tender inside, savory and slightly spicy, shaped like copper coins meaning auspiciousness. Simple, quick and appetizing Hunan home-style dish~
+Golden Coin Eggs is a dish where boiled eggs are sliced and fried until golden, then stir-fried with green and red peppers and fermented black beans (Dou Chi). Crisp outside and tender inside, savory and slightly spicy, shaped like copper coins meaning auspiciousness. Simple, quick and appetizing Hunan home-style dish.
 
 Estimated Cooking Difficulty: ★★★
 
@@ -56,4 +56,4 @@ Per serving:
 - Ensure eggs are fully solidified when peeling.
 - Do not over stir-fry, easy to fall apart.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

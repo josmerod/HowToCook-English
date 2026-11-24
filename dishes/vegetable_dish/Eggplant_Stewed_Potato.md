@@ -43,4 +43,4 @@ Totals:
 
 In steps 5-7 of the operation, pay attention: during this process, if there is no liquid (oil or water) at the bottom of the pot, add 5 ml of water and continue to stir-fry.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.

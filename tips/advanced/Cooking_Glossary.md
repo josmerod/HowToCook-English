@@ -1,171 +1,171 @@
 # Professional Cooking Terminology
 
-Just like learning programming, cooking first requires knowing professional terminology. It is like learning basic syntax; only by combining terms can a dish be completed.
+Just like learning programming, cooking starts with understanding essential terminology. Mastering these terms is like learning basic syntax; combining them allows you to execute any dish reliably.
 
-【Chǎo (Stir-fry)】 Anciently written as "煼", it is currently one of the most basic cooking methods; that is, the method of cutting food into small pieces, putting them into an iron wok with hot oil, stirring quickly until cooked, and adding seasonings.
+**Chǎo (Stir-fry):** One of the most fundamental cooking methods. Food is cut into small pieces, placed into a hot wok with oil, tossed and stirred quickly over heat until cooked, and seasoned.
 
-【Qiàng (Hot-oil/Quick-boil Dressing)】 A cooking method where food is cut and treated by "blanching" or "soaking" in boiling water or hot oil, and then mixed with dried chili and Sichuan peppercorn oil exploded in a hot wok.
+**Qiàng (Hot-Oil / Quick-Boil Dressing):** A method where cut ingredients are blanched or briefly steeped in boiling water or hot oil, then tossed with dried chili and Sichuan peppercorns infused in sizzling hot oil.
 
-【Chuī (Steam/Cook)】 The method of using steaming, boiling, etc., to cook food. Often seen in Chaozhou cuisine names.
+**Chuī (Steam / Cook):** A method of cooking food using steam or boiling water. Often seen in Chaoshan (Chaozhou) dish names.
 
-【Zhǔ (Boil)】 One of the simplest cooking methods; the method of cooking food in a wok with an appropriate amount of boiling water or soup and seasonings.
+**Zhǔ (Boil):** One of the simplest cooking methods: cooking ingredients in a pot or wok with a sufficient amount of boiling water or broth and seasonings.
 
-【Jiān (Pan-fry)】 Heat an iron wok, put in a little raw oil, then spread the food flat and stick it closely to the wok, using slow fire and hot oil to make the surface of the food golden yellow and cooked.
+**Jiān (Pan-fry):** Heat a wok or skillet, add a small amount of oil, lay the food flat against the cooking surface, and fry gently until golden brown and cooked through.
 
-【Bào (Quick-fry/Explode)】 A cooking method using a hot wok and hot oil, splashing in an appropriate amount of adjusted sauce or soup, to quickly cook small pieces of food and infuse them with aroma.
+**Bào (Quick-fry / High-Heat Flash Fry):** A technique using a very hot wok and hot oil, splashing in a prepared sauce or broth to rapidly cook small pieces of food and infuse them with intense aroma.
 
-【Zhá (Deep-fry)】 Anciently written as "煠", one of the most commonly used cooking methods; refers to the cooking technique of putting food into a large amount of hot oil to cook until crispy.
+**Zhá (Deep-fry):** One of the most common cooking methods, involving submerging food in a large amount of hot oil until cooked and crispy.
 
-【Xiá (Boil/Poach)】 Anciently written as "煠", a processing method using a large amount of boiling water to steam soft and cook tough meat ingredients on the stove fire.
+**Xiá (Boil / Poach):** A preparation method using a large volume of boiling water on the stove to cook and tenderize tough cuts of meat.
 
-【Gǔn (Rolling Boil)】 A processing method using the surging of a large amount of boiling water to bring out the bad taste (off-flavor) of food.
+**Gǔn (Rolling Boil):** A technique using vigorously boiling water to rapidly cook ingredients or draw out off-flavors.
 
-【Cuān (Quick Boil)】 Northern cooking term, anciently "Chuan"; similar to Cantonese "Lù", a cooking method where food processed into balls or slices is cooked in boiling water, fished out into a bowl, and then added with boiling soup.
+**Cuān (Quick Boil):** A Northern Chinese cooking term (similar to Cantonese *Lù*) where meatballs or thin slices are cooked in boiling water, removed with a slotted spoon into a bowl, and topped with boiling broth.
 
-【Zhuó (Scald/Blanch)】 Written as "Chao" in the North; refers to cutting food into thin slices, etc., using boiling water to quickly cook, and then dipping in sauce to eat.
+**Zhuó (Scald / Blanch):** Often called *Chao* in Northern China; cutting ingredients into thin slices and quickly cooking them in boiling water before serving with a dipping sauce.
 
-【Dá (Vegetable Blanching)】 A processing method of putting vegetables into boiling water with lye water or raw oil added, cooking thoroughly over slow fire, making the product soft and keeping it emerald green.
+**Dá (Vegetable Blanching):** Blanching vegetables in boiling water with a touch of baking soda or raw oil over gentle heat so they turn tender while retaining a vibrant emerald-green color.
 
-【Shuàn (Instant Boil/Rinse)】 Northern cooking term; a cooking method of putting food sliced into thin slices into spicy soup to cook and then dipping in sauce to eat.
+**Shuàn (Instant Boil / Hot-Pot Swish):** A Northern Chinese term for briefly swishing thinly sliced ingredients in simmering or spicy broth until cooked, then dipping them in sauce.
 
-【Kuò (Braise with Spices)】 Anciently written as "爩"; refers to putting food directly into a wok or clay pot, adding a large amount of ginger, scallion, and other spice ingredients, covering the lid, and using a large amount of spice ingredients to fragrance and reach maturity.
+**Kuò (Spice-Infused Braise):** Placing ingredients directly into a wok or clay pot with plenty of ginger, scallions, and aromatics, covering with a lid, and braising so the aromatics fully permeate the food.
 
-【Jú (Salt Bake/Steam-Bake)】 A cooking method of cooking food wrapped in tin foil or jade button paper in a sealed condition using hot coarse salt, etc.
+**Jú (Salt-Bake / Sealed Bake):** Cooking food wrapped in foil or parchment paper in a sealed vessel (often buried in hot coarse salt).
 
-【Mèn (Braise)】 Northern cooking method; refers to putting tough food into a wok, adding an appropriate amount of soup, covering the lid, and using gentle fire to cook soft and cooked.
+**Mèn (Braise):** A Northern Chinese method where tougher ingredients are placed in a wok with broth, covered, and simmered gently until tender.
 
-【Wén (Simmer)】 Similar to the "Shao" of Northern cooking methods, hence the saying "South Wen North Shao"; refers to putting tough food into a wok, adding an appropriate amount of soup, using gentle fire to cook soft and cooked.
+**Wén (Simmer):** Similar to Northern *Shao* (hence the saying "Southern Wen, Northern Shao"): cooking tough ingredients in a wok with broth over low, gentle heat until soft and flavorful.
 
-【Huì (Braise/Stew)】 A cooking method of cooking various meat ingredients and vegetables together with an appropriate amount of soup.
+**Huì (Braise / Stew Together):** Simmering mixed meats and vegetables together in a moderate amount of broth.
 
-【Zhēng (Steam)】 A cooking method using the heat of water vapor to cook food.
+**Zhēng (Steam):** Cooking food using the heat of rising water vapor.
 
-【Dùn (Stew/Double Boil)】 A cooking method where food is added with clear water or soup, put into a covered container, covered, and then cooked using the heat of water vapor to produce soup. In Northern cuisine, it refers to a cooking method using a large amount of soup and gentle fire to cook food soft and cooked.
+**Dùn (Stew / Double-Boil):** Adding clear water or broth to ingredients inside a covered vessel and cooking via steam (double-boiling) to yield a clear soup, or in Northern cuisine, simmering slowly in ample liquid until tender.
 
-【Kòu (Steam in Bowl and Invert)】 A cooking method where food is seasoned and pre-processed, arranged neatly in a bowl, steamed over water, then inverted onto a plate, and poured with a glass sauce (glaze) hooked with original juice.
+**Kòu (Steam in Bowl and Invert):** Arranging seasoned, pre-cooked ingredients neatly in a bowl, steaming them, inverting the bowl onto a serving plate, and glazing with a thickened sauce made from the steaming juices.
 
-【Bāo (Boil/Stew in Pot)】 A cooking method of putting food into a large amount of clear water, placing it on the stove fire, and cooking it over slow fire to produce soup.
+**Bāo (Pot Stew / Clay-Pot Soup):** Placing ingredients into plenty of clear water in a pot and simmering gently over low heat to extract a rich soup.
 
-【Áo (Stew/Simmer)】 A processing method of using slow fire for a long time to melt the fresh taste of meat ingredients into the soup and concentrate the soup.
+**Áo (Long Simmer):** Simmering ingredients over low heat for an extended period to extract umami into the broth and concentrate its flavor.
 
-【Kào (Slow Braise)】 A processing or cooking method of using strong-flavored raw materials and fresh soup, using gentle fire and a long time to infuse the fresh taste into another tasteless main ingredient.
+**Kào (Slow Flavor-Infused Braise):** Simmering a milder main ingredient with strongly flavored aromatics and stock over low heat for a long time until it absorbs the rich flavor.
 
-【Wēi (Roast in Ashes/Simmer)】 Anciently meant burying in charcoal ash to cook. Now refers to a processing method using ginger, scallion, and soup to make food flavorful and remove its own peculiar smell. In Northern cuisine, it also refers to a cooking method where food is put into a sealed clay jar together with soup and cooked in gentle fire.
+**Wēi (Slow Simmer / Clay-Jar Braise):** Originally meant roasting buried in hot charcoal ashes; today refers either to simmering with ginger, scallions, and broth to remove gamey odors, or sealing food and broth in a clay jar over gentle heat (Northern cuisine).
 
-【Wù (Warm/Bake)】 Substitute for the ancient meaning of "Wei", refers to a cooking method where food is marinated, wrapped in lotus leaves, etc., then sealed with wet mud or dough, and placed in charcoal fire to cook.
+**Wù (Wrapped Bake):** Replacing the older meaning of *Wei*: wrapping marinated food in lotus leaves, sealing it with clay or dough, and baking over charcoal.
 
-【Hōng (Bake)】 A cooking method where dim sum or food is seasoned or processed and then put into an oven to cook.
+**Hōng (Bake):** Seasoning or preparing pastries or dishes and cooking them in an oven.
 
-【Biān (Stir-fry/Sauté)】 Same as "Bì", formerly erroneously written as "Whip" or "Fire Convenient", similar to "Rǎn", refers to a processing method of putting food into a hot wok, stirring constantly, making the moisture in the food slightly dry and removing the bad taste; or a cooking method of collecting strong fresh taste after this.
+**Biān (Dry-Sauté):** Stirring food constantly in a hot wok (with little or no oil) to drive off excess moisture and off-flavors, or to concentrate intense savory aromas.
 
-【Liū (Sauté with Sauce)】 Northern cooking term, similar to Cantonese "Dǎ Qiàn", a cooking method of using sweet and sour juice with cornstarch to thicken, making deep-fried food smooth and delicious.
+**Liū (Crisp-Fry with Thickened Sauce):** A Northern Chinese technique (similar to Cantonese *Dǎ Qiàn*) of tossing deep-fried ingredients in a sweet-and-sour or savory cornstarch-thickened glaze so the coating turns glossy and smooth.
 
-【Gēng (Thick Soup)】 One of the ancient cooking methods, refers to a cooking method where diced food is boiled in boiling soup, and wet cornstarch is gradually added to make the soup into a paste.
+**Gēng (Thickened Soup):** An ancient cooking method where diced ingredients are boiled in broth and gradually thickened with a cornstarch slurry into a velvety soup.
 
-【Zǎn (Splash/Sizzle)】 Once written as "Splash" or "Zàn", etc., divided into "Zan Oil" or "Zan Wine"; the former refers to splashing boiling hot oil on steamed food to remove fishiness and increase smoothness; the latter refers to splashing Shaoxing wine into food being cooked to make the food have more "Wok Hei" (breath of the wok).
+**Zǎn (Splash / Sizzle):** Divided into *Zan Oil* (splashing smoking-hot oil over steamed food to boost aroma and remove fishiness) and *Zan Wine* (splashing Shaoxing wine around the hot wok rim during stir-frying to build *Wok Hei*).
 
-【Tàng (Scald)】 Refers to a processing method of tightening the skin of meat ingredients with boiling water. In the North, it commonly refers to a cooking method of cooking sliced or cut raw materials in boiling soup or spicy soup.
+**Tàng (Scald):** Tightening meat skin with boiling water, or in Northern cuisine, quickly cooking sliced ingredients in boiling broth or spicy soup.
 
-【Shāo (Roast/Braise)】 Ancient "Zhì", in Cantonese cuisine refers to the cooking method of cooking food on charcoal fire or open fire. Now in Northern cuisine, it refers to a cooking method of slightly drying the juice and cooking the food through slow fire.
+**Shāo (Roast / Braise):** In Cantonese cuisine, roasting over charcoal or open flame; in Northern cuisine, braising slowly until the sauce reduces and coats the ingredients.
 
-【Kǎo (Roast)】 Northern cuisine used to replace the old meaning of "Shao", hence "South Shao North Kao". Refers to the cooking method of cooking food on an open fire.
+**Kǎo (Roast / Grill):** Replacing the older meaning of *Shao* in Northern cuisine (hence "Southern Shao, Northern Kao"): cooking food over an open flame or in a dry oven.
 
-【Lǔ (Marinate/Stew in Soy Sauce)】 A cooking method of using "Lu Shui Juice" (marinade) made of light soy sauce and spice herbs to cook food or make it flavorful.
+**Lǔ (Master-Stock Braise):** Simmering or steeping ingredients in a spiced soy-based master broth (*Lu Shui*).
 
-【Jiàng (Sauce)】 A cooking method of using a large amount of sauce or light soy sauce to flavor or cook.
+**Jiàng (Soy-Paste Braise):** Cooking or flavoring food using a generous amount of fermented bean paste or soy sauce.
 
-【Jìn (Steep/Poach)】 A cooking method of using a large amount of boiling water or soup to cook food within a certain period using "Chrysanthemum Heart" degree heat. Similar to Northern "Tǔn", a cooking method where materials are scalded cooked, then filled with soup covering the surface to eat.
+**Jìn (Gentle Poach):** Cooking food in hot water or broth held just below a simmer ("chrysanthemum-eye" bubbles). Similar to Northern *Tǔn*, where blanched ingredients are submerged in broth to absorb flavor.
 
-【Fēng (Air Dry)】 A processing method of hanging marinated food in a ventilated place all year round to let it dry naturally in the shade or wind.
+**Fēng (Air-Dry):** Hanging marinated food in a cool, ventilated place year-round to cure and dry naturally in the wind.
 
-【Là (Cure/Preserve)】 A processing method of hanging marinated food in a ventilated place around the 12th lunar month to let it dry naturally in the shade or wind.
+**Là (Winter Cure):** Hanging marinated meat in a cool, ventilated area around the 12th lunar month to cure and air-dry naturally.
 
-【Yān (Smoke)】 A cooking method where tea flavor or spice herbs are ignited in a sealed condition, allowing the food to be infused with its fragrant smoke smell.
+**Yān (Tea/Spice Smoke):** Igniting tea leaves or spices in a sealed vessel so the aromatic smoke infuses the food.
 
-【Xūn (Smoke)】 Formerly written as "Smoke", divided into "Dry Smoke" and "Wet Smoke", "Dry Smoke" is similar to "Yan"; "Wet Smoke" is a cooking method where food is infused with fragrance using fresh flowers or Shaoxing wine, etc.
+**Xūn (Smoke):** Divided into *Dry Smoke* (similar to *Yān*) and *Wet Smoke* (infusing food with fragrance from fresh flowers or Shaoxing wine vapor).
 
-【Zāo (Pickle with Wine Grains)】 A cooking method of putting food into wine grains (lees) to flavor or cook.
+**Zāo (Fermented Wine-Lees Cure):** Flavoring or cooking food with fermented rice-wine lees (*Zao*).
 
-【Zuì (Drunken)】 A cooking method of using a large amount of liquor to flavor or cook.
+**Zuì (Drunken Cure):** Marinating or cooking food in a generous amount of liquor or rice wine.
 
-【Zèng (Steam)】 Ancient "Zheng"; a cooking method where food is chopped and seasoned, put into a clay bowl, and then cooked using strong steam.
+**Zèng (Intense Steam):** Putting chopped, seasoned food into a clay bowl and cooking over strong, continuous steam.
 
-【Dòng (Jelly)】 Also called "Crystal", refers to a cooking method where boiled rotten food is added with agar or pig skin etc., boiled into thick soup, and then put into the refrigerator to freeze and coagulate to eat.
+**Dòng (Aspic / Savory Jelly):** Simmering ingredients rich in collagen (such as pork skin) or adding agar until the broth thickens, then chilling in the refrigerator until set into a firm jelly.
 
-【Fei Shui (Blanch usually in boiling water)】 A processing method of putting food into boiling water to pass through water until half cooked and quickly fish up, providing a good forefront basis for subsequent cooking.
+**Fēi Shuǐ (Quick Blanch):** Dropping ingredients into boiling water until partially cooked and quickly removing them with a slotted spoon as preparation for subsequent cooking.
 
-【Bing Jin (Ice Soak)】 A processing and cooking method where food is cut into shreds and quickly thrown into ice water to make the food have a crisp effect. This method originated from Japan.
+**Bīng Jìn (Ice Bath / Ice Soak):** Transferring shredded or blanched ingredients immediately into ice water to give them a crisp, firm texture (a technique popularized via Japanese cuisine).
 
-【Ba Si (Pulling Silk/Candied)】 A cooking method where food is battered and deep-fried, then mixed into melted sugar syrup, so that fine threads can be pulled out when the food is picked up.
+**Bá Sī (Spun-Sugar / Candied):** Battering and deep-frying food, then tossing it in caramelized sugar syrup so fine sugar threads pull out when pieces are lifted.
 
-【Gua Shuang (Frosting)】 A cooking method where food is deep-fried, then put into melted sugar syrup to mix and scatter, or sprinkled directly with powdered sugar.
+**Guà Shuāng (Sugar-Frosted):** Deep-frying food, then tossing it in melted sugar syrup as it cools and crystallizes into a white frosting, or dusting directly with powdered sugar.
 
-【Jiao Yan (Salt and Pepper)】 A cooking method where food is deep-fried until cooked and dry, and then stir-fried and mixed with "salt and pepper" prepared in advance with pepper husks and refined salt.
+**Jiāo Yán (Salt and Pepper):** Deep-frying food until crisp and dry, then tossing with roasted Sichuan peppercorn salt.
 
-【You Pao (Oil Poach)】 A cooking method of using a large amount of hot oil to quickly cook food.
+**Yóu Pào (Oil Poach):** Cooking ingredients quickly in a large volume of hot oil.
 
-【Zou You (Pass Oil)】 Also called "Tuo You", "Zou You", "Pao You"; refers to a processing method where processed raw materials are quickly passed through boiling oil to provide a forefront basis for subsequent cooking.
+**Zǒu Yóu (Pass Through Oil):** Quickly passing prepped ingredients through hot oil as a preliminary step to seal moisture and prepare them for final cooking.
 
-【Huo Yan (Flame)】 A cooking method where lively fresh seafood is put into a glass vessel, and cooked using the heat generated by igniting high-degree white liquor.
+**Huǒ Yàn (Flambé):** Placing fresh seafood in a heatproof glass vessel and cooking it with the flame of ignited high-proof liquor.
 
-【Zé Zé (Sizzling Clay Pot)】 A cooking method where food and ginger, scallion, etc., are put into a clay pot heated to extremely heat, making the food emit "Ze Ze" sounds and spray aroma.
+**Zé Zé (Sizzling Clay Pot):** Placing food with ginger and scallions into a blazing-hot clay pot so it sizzles (*ze-ze*) and releases intense aroma.
 
-【Chuan Shao (Skewer Roast)】 A cooking method where meat ingredients are sliced and marinated, skewered with bamboo sticks, and put into hot oil to "poach" and eat. Or meat ingredients are sliced, skewered with iron skewers, roasted on charcoal fire, and then sprinkled with cumin and other seasonings.
+**Chuàn Shāo (Skewer Roast):** Marinating sliced meat, skewering on bamboo or metal skewers, and either poaching in hot oil or grilling over charcoal with cumin and spices.
 
-【Tie Ban (Iron Plate/Sizzling Platter)】 Originally a Western cooking method; refers to a cooking method where food "passes oil", then together with spice ingredients dominated by onions and sauce, is put into an extremely heated iron plate to cook and make the food spray fragrance.
+**Tiě Bǎn (Sizzling Iron Platter):** Passing food through oil and serving it with sautéed onions and sauce on a scorching-hot cast-iron platter.
 
-【Sang Na (Sauna)】 Also called "Stone Cooking", etc.; a cooking method where food passes oil, is thrown onto scorching hot stones (mostly rain flower stones), and then splashed with adjusted sauce or soup, using steam to cook the food or spray aroma.
+**Sāng Ná (Sauna / Hot-Stone Steam):** Passing food through oil, placing it onto scorching-hot stones, and splashing seasoned broth over it so steam cooks and perfumes the dish.
 
-【Jian Feng (Pan-fry and Braise)】 Northern also called "Jian Peng", generally suitable for fish; a cooking method where fish is marinated with seasonings, pan-fried thoroughly with hot oil and slow fire, and then sealed with ingredient thickener to make it permeable to flavor.
+**Jiān Fēng (Pan-Fry and Seal):** Pan-frying marinated fish gently in hot oil, then sealing with a light starch glaze so flavors cling evenly.
 
-【Wo Tie (Pot Sticker)】 Belongs to "Semi-fry method", a cooking method where marinated meat ingredients are coated with "Pot sticker paste" and stuck on fat meat, using "Fierce Wok Yin Oil" to make the meat ingredient crispy on one side and soft and smooth on the other.
+**Wō Tiē (Pan-Seared Coated Cutlet):** Coating marinated meat with starch paste on a fat backing and pan-frying so one side is crisp and the other remains tender.
 
-【Wo Ta (Pot Collapse/Omelet)】 A cooking method where marinated food is coated with "Egg powder paste", using the method of frying first and then deep-frying to cook the food, and then adding seasoned fresh soup to boil thoroughly.
+**Wō Tā (Battered Pan-Fry and Braise):** Coating marinated food in egg-and-flour batter, frying, and then simmering briefly in seasoned broth.
 
-【Ruan Jian (Soft Fry)】 Belongs to "Semi-fry method", a cooking method where marinated meat ingredients are mixed with "Egg powder paste", using the method of frying first and then deep-frying to cook the meat ingredients, and then cutting into pieces and pouring sauce.
+**Ruǎn Jiān (Soft Pan-Fry):** Mixing marinated meat with egg-starch batter, frying gently until set, then slicing and topping with sauce.
 
-【Dan Jian (Egg Fry)】 A cooking method where meat ingredients are pre-cooked by "Blanching" or "Oil Poaching", then put into seasoned egg liquid and mixed well, and then the top and bottom of the meat ingredient egg liquid are fried to golden yellow with gentle fire.
+**Dàn Jiān (Egg-Coated Pan-Fry):** Pre-cooking meat by blanching or oil-poaching, dipping into seasoned beaten egg, and pan-frying both sides over gentle heat until golden.
 
-【Ji Lie (Cutlet)】 Transliteration of English CUTLET; a cooking method where food is coated with egg liquid, then coated with breadcrumbs, and then bathed/deep-fried in hot oil. This practice originated from Western chefs.
+**Jí Liè (Cutlet):** Transliteration of the English word *cutlet*: coating food in egg wash and breadcrumbs, then deep-frying until golden (adapted from Western cuisine).
 
-【Su Zha (Crispy Fry)】 A cooking method where food is marinated with seasonings, first coated with wet powder paste, then patted with dry cornstarch, then deep-fried in hot oil until cooked, and then fished into sauce.
+**Sū Zhà (Crispy Fry):** Coating marinated food first in wet batter, then dusting with dry cornstarch, deep-frying until cooked through, and tossing in sauce.
 
-【Huo Guo (Hot Pot)】 Also called "Shuan Guo", Guangdong calls "Da Bian Lu", an eating method where fresh meat ingredients are "sliced", "cut" into thin slices, or meat ingredients are beaten into pills, balls, fillings, etc., sent to the guest's side together with vegetables, etc., allowing the guest to put them into boiling water or boiling soup to cook.
+**Huǒ Guō (Hot Pot):** Also called *Shuan Guo* or Cantonese *Da Bian Lu*: bringing sliced meats, meatballs, and vegetables to the table to cook directly in a simmering pot of plain or spiced broth.
 
-【Qi Guo (Steam Pot)】 A cooking method where meat ingredients are marinated, put into a special "Steam Pot" together with medicinal materials and boiled seasoned soup, and stewed finely to eat.
+**Qì Guō (Steam Pot):** Placing marinated meat, herbs, and broth into a specialized Yunnan clay steam pot (*Qiguo*) and cooking slowly via rising steam.
 
-【Liang Ban (Cold Mix)】 A cooking method where cooked food or vegetables and fruits are cut, added with seasonings, and mixed evenly.
+**Liáng Bàn (Cold Toss / Cold Salad):** Cutting cooked meats, vegetables, or fruits, adding seasonings, and tossing thoroughly to serve cold.
 
-【Yu Sheng (Raw Fish/Sashimi)】 A cooking method where fresh and lively aquatic products are drained of blood, cut into thin slices, mixed with ginger shreds, scallion shreds, thin crisp, lemon shreds, etc., and then dipped in light soy sauce to eat.
+**Yú Shēng (Raw Fish Salad):** Draining, thinly slicing fresh raw fish, and tossing with shredded ginger, scallions, crispy toppings, and lemon juice before dipping in light soy sauce.
 
-【Ci Shen (Sashimi)】 Originally a Japanese cuisine practice, originally referred to eating raw meat slices. Quoted by Chinese cuisine, it refers to the cooking method where fresh aquatic products or seafood are descaled and drained of blood, cut into thin slices, dripped with lemon juice, and dipped in Japanese wasabi (mustard) to eat.
+**Cì Shēn (Sashimi):** Originating from Japanese cuisine: descaling, bleeding, and thinly slicing very fresh raw seafood, finishing with lemon juice and serving with wasabi and soy sauce.
 
-【Zhu Tong (Bamboo Tube)】 Anciently called "Zeng", refers to the cooking method using bamboo tubes as vessels, and then using "Roast", "Burn", "Steam", "Stew" and other methods to cook food.
+**Zhú Tǒng (Bamboo-Tube Cooking):** Packing ingredients into hollow bamboo tubes and roasting, steaming, or stewing them inside the bamboo.
 
-【Mi Zhi (Honey Juice/Glazed)】 Refers to a cooking method where white sugar, honey, maltose, etc., are melted into thick juice, put into processed raw materials, and subjected to "Stewing", "Steaming" and other methods to make the texture soft and glutinous, sweet taste separated, and moist through sugar juice.
+**Mì Zhī (Honey-Glazed):** Simmering pre-processed ingredients in melted sugar, honey, or maltose until glossy, tender, and infused with sweetness.
 
-【Chao Shui (Blanch)】 Also called "Chu Shui" (Out Water), is a method of preliminary cooking treatment by placing raw materials in boiling water or cold water pots.
+**Chāo Shuǐ (Blanch):** Also called *Chu Shui*: placing raw ingredients into cold or boiling water as a preliminary step to par-cook or remove impurities.
 
-【Guo You (Pass Oil)】 A method of preliminary cooking treatment of cooking raw materials using oil as a heat transfer medium. Small raw materials passing through warm oil is also called "Hua You" (Slip Oil); large raw materials passing through hot oil is also called "Zou You" (Walk Oil).
+**Guò Yóu (Pass Through Oil):** Using oil as a heat-transfer medium for preliminary cooking. Passing small pieces through warm oil is called *Hua You* (velveting/slipping oil); passing larger pieces through hot oil is called *Zou You*.
 
-【Gua Hu (Coating Paste/Batter)】 The process of evenly wrapping a layer of paste liquid on raw materials before cooking.
+**Guà Hú (Battering):** Evenly coating ingredients in a liquid batter before frying.
 
-【Shang Jiang (Sizing)】 The process of mixing starch, eggs, salt, etc., with raw materials to make the outer layer of raw materials wrapped with a thin layer of slurry.
+**Shàng Jiāng (Velveting / Sizing):** Coating raw ingredients in a thin slurry of starch, egg, and salt to lock in moisture during cooking.
 
-【Shang Jin (Developing Gluten/Texture)】 A processing method where animal raw materials processed into minced puree are added with refined salt, water, starch, and other auxiliary materials and stirred repeatedly to achieve a state of bright color, fine and tender meat quality, not sinking into water, and not scattering.
+**Shàng Jìn (Developing Protein Bind):** Repeatedly stirring minced meat in one direction with salt, water, and starch until the mixture becomes sticky, cohesive, and springy.
 
-【Gou Qian (Thickening)】 The process of adding starch water solution to the pot during cooking to make the dish soup have a certain consistency. Also called "Zhuo Ni", "Zhuo Qian", "Long Qian".
+**Gōu Qiàn (Thickening / Slurry):** Adding a water-and-cornstarch slurry to the wok near the end of cooking so the sauce thickens and clings to the dish.
 
-【Wen You (Warm Oil)】 Commonly known as 30-40% hot, temperature generally at 70°C~100°C.
+**Wēn Yóu (Warm Oil):** Often described as 30–40% hot, roughly 70°C–100°C.
 
-【Re You (Hot Oil)】 Commonly known as 50-60% hot, temperature generally at 110°C~170°C.
+**Rè Yóu (Hot Oil):** Often described as 50–60% hot, roughly 110°C–170°C.
 
-【Wang You (Fierce/High Heat Oil)】 Commonly known as 70-80% hot, temperature generally at 180°C~220°C.
+**Wàng Yóu (High-Heat Oil):** Often described as 70–80% hot, roughly 180°C–220°C.
 
-【Hua Guo (Slip Pot)】 A method of heating the pot, pouring a little oil to slide over the whole pot, and then pouring out the oil.
+**Huá Guō (Seasoning / Coating the Wok):** Heating an empty wok, swirling a small amount of oil across the surface to coat it, and pouring out the excess to prevent sticking.
 
-【Qiang Guo (Temper Pot)】 Also called "Zha Guo" (Explode Pot), refers to a method of putting ginger, scallion, chili powder, or other fragrant seasonings into the heated base oil and pan frying/stir frying to produce aroma, and then timely putting in vegetable materials.
+**Qiāng Guō (Tempering Aromatics):** Stir-frying ginger, scallions, or chili in heated oil to infuse the oil with aroma before adding the main ingredients.
 
-【Gao Tang (High/Stock Soup)】 Also called "Clear Soup", "Superior Soup", "Top Soup", refers to the hairy soup (unclarified soup) boiled with pig bones, chicken bones, duck racks, minced meat heads, and other raw materials, added with chicken puree or meat puree mixed into thin paste without salt added for processing, making it clear as water, strong and fresh in taste.
+**Gāo Tāng (Stock / Clarified Broth):** Unclarified bone stock simmered from pork bones, chicken carcasses, and duck bones, then clarified with minced chicken or pork slurry (without salt) into a crystal-clear, intensely flavorful broth.
 
-【Nai Tang (Milk Soup)】 Also called "White Soup", soup with milky white color made by simmering raw materials with clear water.
+**Nǎi Tāng (Milky White Broth):** A rich, opaque milky-white broth produced by boiling meat and bones vigorously in clear water.

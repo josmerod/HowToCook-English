@@ -57,4 +57,4 @@ Per serving:
 
 - The amount of beer must be enough to submerge all duck meat. It is best to choose light-flavored beer.
 
-If you find any issues with the production process of this guide or have improvements, please raise an Issue or Pull request.
+If you find any issues with this guide or have improvements, please raise an Issue or Pull Request.
